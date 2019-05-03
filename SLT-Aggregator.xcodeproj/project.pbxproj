@@ -1,0 +1,316 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		288AFF320F563D130085E73F /* SLT_Aggregator.m in Sources */ = {isa = PBXBuildFile; fileRef = 288AFF310F563D130085E73F /* SLT_Aggregator.m */; };
+		288AFF370F563DBA0085E73F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288AFF360F563DBA0085E73F /* CoreData.framework */; };
+		28D1EE320F5643310089643D /* SLT-Aggregator.xcdatamodel in Sources */ = {isa = PBXBuildFile; fileRef = 28D1EE310F5643310089643D /* SLT-Aggregator.xcdatamodel */; };
+		4C89952F10A65757009EDFB4 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C89952E10A65757009EDFB4 /* CoreLocation.framework */; };
+		4C89959010A66276009EDFB4 /* MetroTimetableDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C89958B10A66276009EDFB4 /* MetroTimetableDownloader.m */; };
+		4C89959110A66276009EDFB4 /* SoundTransitTimetableDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C89958D10A66276009EDFB4 /* SoundTransitTimetableDownloader.m */; };
+		4C89959210A66276009EDFB4 /* TimetableDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C89958F10A66276009EDFB4 /* TimetableDownloader.m */; };
+		4C89963B10A676ED009EDFB4 /* SoapFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C89963910A676ED009EDFB4 /* SoapFunction.m */; };
+		4C89963C10A676ED009EDFB4 /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C89963A10A676ED009EDFB4 /* XPathQuery.m */; };
+		8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB779EFE84155DC02AAC07 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8DD76F9E0486AA7600D96B5E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 8;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		08FB779EFE84155DC02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		288AFF310F563D130085E73F /* SLT_Aggregator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SLT_Aggregator.m; sourceTree = "<group>"; };
+		288AFF330F563D1C0085E73F /* SLT_Aggregator.1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.man; path = SLT_Aggregator.1; sourceTree = "<group>"; };
+		288AFF340F563D390085E73F /* SLT_Aggregator_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SLT_Aggregator_Prefix.pch; sourceTree = "<group>"; };
+		288AFF360F563DBA0085E73F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		28D1EE310F5643310089643D /* SLT-Aggregator.xcdatamodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcdatamodel; path = "SLT-Aggregator.xcdatamodel"; sourceTree = "<group>"; };
+		4C8994DE10A64B70009EDFB4 /* config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = config.plist; sourceTree = "<group>"; };
+		4C89951610A656D4009EDFB4 /* Run.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Run.h; sourceTree = "<group>"; };
+		4C89951710A656D4009EDFB4 /* Run.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Run.m; sourceTree = "<group>"; };
+		4C89951810A656D4009EDFB4 /* DepartureTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DepartureTime.h; sourceTree = "<group>"; };
+		4C89951910A656D4009EDFB4 /* DepartureTime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DepartureTime.m; sourceTree = "<group>"; };
+		4C89951A10A656D4009EDFB4 /* Route.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Route.h; sourceTree = "<group>"; };
+		4C89951B10A656D4009EDFB4 /* Route.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Route.m; sourceTree = "<group>"; };
+		4C89951C10A656D4009EDFB4 /* Stop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Stop.h; sourceTree = "<group>"; };
+		4C89951D10A656D4009EDFB4 /* Stop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Stop.m; sourceTree = "<group>"; };
+		4C89951E10A656D4009EDFB4 /* TimepointAlias.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimepointAlias.h; sourceTree = "<group>"; };
+		4C89951F10A656D4009EDFB4 /* TimepointAlias.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TimepointAlias.m; sourceTree = "<group>"; };
+		4C89952010A656D4009EDFB4 /* Timetable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Timetable.h; sourceTree = "<group>"; };
+		4C89952110A656D4009EDFB4 /* Timetable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Timetable.m; sourceTree = "<group>"; };
+		4C89952210A656D4009EDFB4 /* Timepoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Timepoint.h; sourceTree = "<group>"; };
+		4C89952310A656D4009EDFB4 /* Timepoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Timepoint.m; sourceTree = "<group>"; };
+		4C89952E10A65757009EDFB4 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		4C89958A10A66276009EDFB4 /* MetroTimetableDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MetroTimetableDownloader.h; sourceTree = "<group>"; };
+		4C89958B10A66276009EDFB4 /* MetroTimetableDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MetroTimetableDownloader.m; sourceTree = "<group>"; };
+		4C89958C10A66276009EDFB4 /* SoundTransitTimetableDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoundTransitTimetableDownloader.h; sourceTree = "<group>"; };
+		4C89958D10A66276009EDFB4 /* SoundTransitTimetableDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoundTransitTimetableDownloader.m; sourceTree = "<group>"; };
+		4C89958E10A66276009EDFB4 /* TimetableDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimetableDownloader.h; sourceTree = "<group>"; };
+		4C89958F10A66276009EDFB4 /* TimetableDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TimetableDownloader.m; sourceTree = "<group>"; };
+		4C89959810A662FF009EDFB4 /* Schedule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Schedule.h; sourceTree = "<group>"; };
+		4C89963910A676ED009EDFB4 /* SoapFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SoapFunction.m; path = ../../SoapSupportLib/SoapFunction.m; sourceTree = SOURCE_ROOT; };
+		4C89963A10A676ED009EDFB4 /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XPathQuery.m; path = ../../SoapSupportLib/XPathQuery.m; sourceTree = SOURCE_ROOT; };
+		8DD76FA10486AA7600D96B5E /* SLT-Aggregator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "SLT-Aggregator"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8DD76F9B0486AA7600D96B5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */,
+				288AFF370F563DBA0085E73F /* CoreData.framework in Frameworks */,
+				4C89952F10A65757009EDFB4 /* CoreLocation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* «PROJECTNAME» */ = {
+			isa = PBXGroup;
+			children = (
+				08FB7795FE84155DC02AAC07 /* Source */,
+				28D1EE350F56433F0089643D /* Model */,
+				C6859EA2029092E104C91782 /* Documentation */,
+				08FB779DFE84155DC02AAC07 /* External Frameworks and Libraries */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+			);
+			name = "«PROJECTNAME»";
+			sourceTree = "<group>";
+		};
+		08FB7795FE84155DC02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				4C89963910A676ED009EDFB4 /* SoapFunction.m */,
+				4C89963A10A676ED009EDFB4 /* XPathQuery.m */,
+				4C89959810A662FF009EDFB4 /* Schedule.h */,
+				4C89958E10A66276009EDFB4 /* TimetableDownloader.h */,
+				4C89958F10A66276009EDFB4 /* TimetableDownloader.m */,
+				4C89958A10A66276009EDFB4 /* MetroTimetableDownloader.h */,
+				4C89958B10A66276009EDFB4 /* MetroTimetableDownloader.m */,
+				4C89958C10A66276009EDFB4 /* SoundTransitTimetableDownloader.h */,
+				4C89958D10A66276009EDFB4 /* SoundTransitTimetableDownloader.m */,
+				288AFF340F563D390085E73F /* SLT_Aggregator_Prefix.pch */,
+				288AFF310F563D130085E73F /* SLT_Aggregator.m */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		08FB779DFE84155DC02AAC07 /* External Frameworks and Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				288AFF360F563DBA0085E73F /* CoreData.framework */,
+				08FB779EFE84155DC02AAC07 /* Foundation.framework */,
+				4C89952E10A65757009EDFB4 /* CoreLocation.framework */,
+			);
+			name = "External Frameworks and Libraries";
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8DD76FA10486AA7600D96B5E /* SLT-Aggregator */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		28D1EE350F56433F0089643D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				4C89951610A656D4009EDFB4 /* Run.h */,
+				4C89951710A656D4009EDFB4 /* Run.m */,
+				4C89951810A656D4009EDFB4 /* DepartureTime.h */,
+				4C89951910A656D4009EDFB4 /* DepartureTime.m */,
+				4C89951A10A656D4009EDFB4 /* Route.h */,
+				4C89951B10A656D4009EDFB4 /* Route.m */,
+				4C89951C10A656D4009EDFB4 /* Stop.h */,
+				4C89951D10A656D4009EDFB4 /* Stop.m */,
+				4C89951E10A656D4009EDFB4 /* TimepointAlias.h */,
+				4C89951F10A656D4009EDFB4 /* TimepointAlias.m */,
+				4C89952010A656D4009EDFB4 /* Timetable.h */,
+				4C89952110A656D4009EDFB4 /* Timetable.m */,
+				4C89952210A656D4009EDFB4 /* Timepoint.h */,
+				4C89952310A656D4009EDFB4 /* Timepoint.m */,
+				28D1EE310F5643310089643D /* SLT-Aggregator.xcdatamodel */,
+				4C8994DE10A64B70009EDFB4 /* config.plist */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		C6859EA2029092E104C91782 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				288AFF330F563D1C0085E73F /* SLT_Aggregator.1 */,
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8DD76F960486AA7600D96B5E /* SLT-Aggregator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB927408733DD40010E9CD /* Build configuration list for PBXNativeTarget "SLT-Aggregator" */;
+			buildPhases = (
+				8DD76F990486AA7600D96B5E /* Sources */,
+				8DD76F9B0486AA7600D96B5E /* Frameworks */,
+				8DD76F9E0486AA7600D96B5E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SLT-Aggregator";
+			productInstallPath = "$(HOME)/bin";
+			productName = "«PROJECTNAME»";
+			productReference = 8DD76FA10486AA7600D96B5E /* SLT-Aggregator */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB927808733DD40010E9CD /* Build configuration list for PBXProject "SLT-Aggregator" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 1;
+			mainGroup = 08FB7794FE84155DC02AAC07 /* «PROJECTNAME» */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DD76F960486AA7600D96B5E /* SLT-Aggregator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8DD76F990486AA7600D96B5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				288AFF320F563D130085E73F /* SLT_Aggregator.m in Sources */,
+				28D1EE320F5643310089643D /* SLT-Aggregator.xcdatamodel in Sources */,
+				4C89959010A66276009EDFB4 /* MetroTimetableDownloader.m in Sources */,
+				4C89959110A66276009EDFB4 /* SoundTransitTimetableDownloader.m in Sources */,
+				4C89959210A66276009EDFB4 /* TimetableDownloader.m in Sources */,
+				4C89963B10A676ED009EDFB4 /* SoapFunction.m in Sources */,
+				4C89963C10A676ED009EDFB4 /* XPathQuery.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB927508733DD40010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SLT_Aggregator_Prefix.pch;
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../build/Debug-iphoneos\"",
+					"\"$(SRCROOT)/../../build/Debug\"",
+				);
+				PRODUCT_NAME = "SLT-Aggregator";
+			};
+			name = Debug;
+		};
+		1DEB927608733DD40010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SLT_Aggregator_Prefix.pch;
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../build/Debug-iphoneos\"",
+					"\"$(SRCROOT)/../../build/Debug\"",
+				);
+				PRODUCT_NAME = "SLT-Aggregator";
+			};
+			name = Release;
+		};
+		1DEB927908733DD40010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_ENABLE_OBJC_GC = required;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(SDKROOT)/usr/include/libxml2/",
+					"$(SRCROOT)/../../SoapSupportLib/Headers",
+				);
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		1DEB927A08733DD40010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_ENABLE_OBJC_GC = required;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(SDKROOT)/usr/include/libxml2/",
+					"$(SRCROOT)/../../SoapSupportLib/Headers",
+				);
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB927408733DD40010E9CD /* Build configuration list for PBXNativeTarget "SLT-Aggregator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB927508733DD40010E9CD /* Debug */,
+				1DEB927608733DD40010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB927808733DD40010E9CD /* Build configuration list for PBXProject "SLT-Aggregator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB927908733DD40010E9CD /* Debug */,
+				1DEB927A08733DD40010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

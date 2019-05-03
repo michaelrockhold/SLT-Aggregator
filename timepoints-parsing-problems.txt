@@ -1,0 +1,259 @@
+"40th Way SE & SE 158th" for route/day 102/0
+"On Montlake Blvd, at SR-520     1" for route/day 271/1
+"On SR-520 t Evergreen Point" for route/day 252/0
+"On SR-520 t Evergreen Point" for route/day 257/0
+"wy NE" for route/day 75/0
+"y  " for route/day 215/0
+"Westlake </u>      Sta LINK" for route/day 129/0
+"W   44th Av S & a    SW Alask" for route/day 57/0
+"W   55th Av S & n    SW Dakot " for route/day 57/0
+"W   55th Av S & W    SW Dakot" for route/day 57/0
+"W   61st Av S & a   Alki Av S " for route/day 57/0
+"W  a" for route/day 57/0
+"W  Calif. Av & W    SW Admir Wy" for route/day 57/0
+"UW/CCC N Campus d</u>      Lo R" for route/day 331/1
+"UW/CCC N Campus Loop  <u>      Rout" for route/day 331/1
+"u>" for route/day 345/2
+"ulton </u>" for route/day 1/2
+"University  I St Station  D Bay-D" for route/day 255/0
+"University  I St Station  D Bay-D" for route/day 256/0
+"Tukw Int'l <u>      S LINK <" for route/day 129/0
+"Tukw Int'l <u>      S Route 129<" for route/day 129/0
+"S 223rd St y   Marine Vi Dr S " for route/day 134/0
+"To Route" for route/day 10/2
+"To Route" for route/day 11/2
+"To Route" for route/day 124/2
+"To Route" for route/day 125/1
+"To Route" for route/day 132/2
+"To Route" for route/day 15/2
+"To Route" for route/day 153/0
+"To Route" for route/day 164/0
+"To Route" for route/day 168/1
+"To Route" for route/day 18/0
+"To Route" for route/day 18/2
+"To Route" for route/day 19/0
+"To Route" for route/day 21/1
+"To Route" for route/day 22/2
+"To Route" for route/day 222/1
+"To Route" for route/day 233/0
+"To Route" for route/day 233/1
+"To Route" for route/day 236/0
+"To Route" for route/day 236/1
+"To Route" for route/day 238/1
+"To Route" for route/day 26/0
+"To Route" for route/day 26/1
+"To Route" for route/day 26/2
+"To Route" for route/day 28/1
+"To Route" for route/day 33/0
+"To Route" for route/day 331/1
+"To Route" for route/day 36/0
+"To Route" for route/day 36/1
+"To Route" for route/day 36/2
+"To Route" for route/day 39/1
+"To Route" for route/day 42/2
+"To Route" for route/day 43/0
+"To Route" for route/day 44/2
+"To Route" for route/day 5/2
+"To Route" for route/day 54/0
+"To Route" for route/day 56/2
+"To Route" for route/day 68/0
+"To Route" for route/day 68/1
+"To Route" for route/day 7/0
+"To Route" for route/day 901/0
+"To Route" for route/day 901/2
+"To Route" for route/day 903/0
+"To Route" for route/day 903/2
+"To Route" for route/day 914/0
+"To Route" for route/day 916/0
+"To Route" for route/day 916/1
+"Transit & SW 148th " for route/day 140/1
+"tgate P&R    145t 2   &amp; Ka" for route/day 890/0
+"SW    26th Av SW & SW al    Spokane " for route/day 57/0
+"SW    N 185th & Aurora Av " for route/day 348/0
+"SW    N 185th & Aurora Av " for route/day 348/2
+"SW  61st Av S & al  Alki Av S " for route/day 57/0
+"SW 152nd & 6th Av SW " for route/day 123/0
+"Shoreline Community College &#187;<u>" for route/day 345/2
+"Shoreline Community College 31" for route/day 345/2
+"SODO Busw & S Spoka " for route/day 39/0
+"SODO Busway & S Spokane   U" for route/day 190/0
+"S Henders & ute Rainier A " for route/day 39/0
+"S      VA Medical ee     Center " for route/day 39/0
+"S    13th Av & Wy   S Bailey " for route/day 134/0
+"S    16th Av & E Margina Way S" for route/day 134/0
+"S    16th Av & E SW  Marginal S" for route/day 134/0
+"S    1st Av S & SW    S 112th" for route/day 134/0
+"S    6th Av S & S Atlanti" for route/day 134/0
+"S   Myers Wy & l   Olson Pl " for route/day 134/0
+"S  S" for route/day 215/0
+"Route 3 34th Av & E Union" for route/day 4/2
+"Route 331</u>" for route/day 345/2
+"Route 345</" for route/day 345/2
+"Route 4 25th Av S & S Walker" for route/day 4/2
+"Route 4 Nob Hill Av N & Galer" for route/day 4/2
+"Route 4 Queen Anne Av N & McGraw" for route/day 4/2
+"rk Rainier Av & v S   S Genes " for route/day 39/0
+"ransit Ctr Leaves Bay-4" for route/day 221/0
+"ransit Ctr Leaves Bay-4" for route/day 221/1
+"ransit Ctr Leaves Bay-5" for route/day 221/0
+"Redmond - Transit Ctr nd Rd     Bay" for route/day 221/0
+"Redmond T Arrives <u>  Bay-1" for route/day 221/0
+"Redmond T e-  Arrives <u>   Bay-5" for route/day 221/0
+"Redmond T e-  Arrives <u>   Bay-5" for route/day 221/1
+"Railroad SE & vd     King " for route/day 215/0
+"Queen An & <u>   Repu oute 1      <" for route/day 1/2
+"On I-90 at y  Rainier Av " for route/day 215/0
+"On I-90 at S   142 Pl S " for route/day 215/0
+"on Av N </u>" for route/day 331/1
+"on  Seward Pa Av S & v S  Wilson A " for route/day 39/0
+"   " for route/day 348/0
+"   " for route/day 348/2
+"  " for route/day 134/0
+" " for route/day 134/0
+" " for route/day 28/1
+" " for route/day 39/0
+" " for route/day 57/0
+" (Fred Meyer)" for route/day 200/0
+" Av S Route 129 </u" for route/day 129/0
+" Four Freedoms </u>" for route/day 345/2
+" Four Freedoms </u>&#187;<u" for route/day 345/2
+" Kenm <u>  e 522" for route/day 331/1
+" Northwest Hospital >  Route 345" for route/day 345/2
+" ore P&R  </u>     <u>" for route/day 331/1
+" tion LINK </u>" for route/day 129/0
+" To Route" for route/day 134/0
+" To Route" for route/day 39/0
+" To y      Route" for route/day 57/0
+" Westlake Station <u>" for route/day 129/0
+"-5 & S 272nd Southbound Off-Ramp" for route/day 192/0
+"" for route/day 102/0
+"" for route/day 120/1
+"" for route/day 120/2
+"" for route/day 161/0
+"" for route/day 192/0
+"" for route/day 209/0
+"" for route/day 209/1
+"" for route/day 237/0
+"" for route/day 240/2
+"" for route/day 75/0
+"(Fred Meyer)" for route/day 200/0
+"/u>" for route/day 1/2
+"&     3rd Av n        & d       Pike " for route/day 39/0
+"&   1st Av S ew     & SW Normandy " for route/day 134/0
+"&   Highline w   Community College" for route/day 134/0
+">" for route/day 129/0
+" Royal Hills" for route/day 148/0
+"1 Royal Hills" for route/day 148/0
+"1" for route/day 221/0
+"1" for route/day 221/1
+"10th Av W & </u>      W F Route 1" for route/day 1/2
+"10th Av W & W Fulton <u>      R" for route/day 1/2
+"116th Way NE &      a NE 132nd" for route/day 252/0
+"116th Way NE &      a NE 132nd" for route/day 257/0
+"124th Av SE & Kent- Kangley" for route/day 161/0
+"124th Av SE & SE 44th" for route/day 245/0
+"12th Av NE & NE Campus Pkwy" for route/day 30/2
+"132nd Av SE & SE 270th" for route/day 158/0
+"132nd Av SE & SE 270th" for route/day 161/0
+"132nd Av SE & SE 270th" for route/day 162/0
+"132nd Av SE & SE 270th" for route/day 168/1
+"132nd Av SE & SE 270th" for route/day 914/0
+"132nd Av SE & SE 272nd" for route/day 157/0
+"132nd Av SE & SE 272nd" for route/day 164/0
+"13th Av & Wy   S Bailey " for route/day 134/0
+"148th Av NE & y 3       NE" for route/day 221/0
+"148th Av NE & y 3       NE" for route/day 221/1
+"15th Av N & N   NE 205th " for route/day 348/0
+"15th Av N & N   NE 205th " for route/day 348/2
+"15th Av NE N & inger    NE 2  " for route/day 331/1
+"15th Av NW & l   NW 85th" for route/day 75/0
+"161st Av NE -    & NE 83rd" for route/day 221/1
+"1st & <u>    Rep 3          </" for route/day 1/2
+"1st Av & n   Universit" for route/day 57/0
+"1st Av & ute   Union " for route/day 57/0
+"1st Av S   S & SW Normandy" for route/day 122/0
+"1st Av S & e    S Jackso" for route/day 57/0
+"1st Av S & n    S Spokan " for route/day 57/0
+"236th Av d        & NW      I-5 " for route/day 348/0
+"236th Av d        & NW      I-5 " for route/day 348/2
+"26th Av SW & SW e     Spokane " for route/day 57/0
+"2nd Av     S & Pike" for route/day 190/0
+"2nd Av & ute    Pike " for route/day 134/0
+"3rd Av & </u>        U > Route 2, 13" for route/day 1/2
+"44th Av S & ute  SW Orego " for route/day 57/0
+"4th Av & c      Univ" for route/day 134/0
+"4th Av & James <u>" for route/day 1/2
+"4th Av & niversity" for route/day 190/0
+"4th Av & S     Union" for route/day 215/0
+"4th Av S & S Jackson (island " for route/day 26/0
+"4th Av S & S Jackson (island " for route/day 26/1
+"4th Av S & S Jackson (island " for route/day 26/2
+"4th Av S & S Jackson (island " for route/day 28/1
+"4th Av S & S Jackson (island " for route/day 308/0
+"5" for route/day 221/0
+"Aurora Vill TC 05th      Bay  " for route/day 331/1
+"Aurora Village TC Bay-12 <u>Route 3" for route/day 345/2
+"Av   SE Ridge & Center Bl SE" for route/day 215/0
+"Av  Healy Av & Stow Av" for route/day 215/0
+"Av N  ublican St u>        <u>" for route/day 1/2
+"ay   On  I-90 at W   142nd Pl" for route/day 215/0
+"ay   SE Ridge & y   Center Bl SE" for route/day 215/0
+"ay  4th Av S S Jackso ne     (islan stop)" for route/day 39/0
+"ay  Newport W NW & y   17th Av N" for route/day 215/0
+"ay  Newport W SW & W   Sunset Wa " for route/day 215/0
+"Bothell Way & </u>   Ball Way NE Route 331" for route/day 331/1
+"E    5th Av N & NE 165th " for route/day 348/0
+"E    5th Av N & NE 165th " for route/day 348/2
+"E   15th Av N & NE 125th " for route/day 348/0
+"E   15th Av N & NE 125th " for route/day 348/2
+"E   15th Av N & NE 175th " for route/day 348/0
+"E   15th Av N & NE 175th " for route/day 348/2
+"E   Northgate Transit Center Bay-3" for route/day 348/0
+"E   Northgate Transit Center Bay-3" for route/day 348/2
+"Eastgate P&amp;R 8th       Bay" for route/day 221/0
+"Eastgate P&amp;R 8th       Bay" for route/day 221/1
+"Edmonds Av  M SE & Puget Dr SE" for route/day 102/0
+"Factory Stores  of North Bend" for route/day 209/0
+"Factory Stores  of North Bend" for route/day 209/1
+"h Pl SE   Sam mber Rd  High" for route/day 890/0
+"Highline Communit ute   College " for route/day 134/0
+"ila Blvd tation /u>       <u>" for route/day 129/0
+"Kenm P& <u>Inside Lo <" for route/day 331/1
+"L King Jr   S Way S & S 129th" for route/day 102/0
+"l ol" for route/day 890/0
+"l" for route/day 124/2
+"Lakemont SE & SE ewport Way" for route/day 271/1
+"Lakemont SE & SE ewport Way" for route/day 271/2
+"Lenora & ute   4th Av " for route/day 215/0
+"Lk Samm  Eas kwy &amp; I-90      Bay" for route/day 890/0
+"mamish   Int' School  Scho" for route/day 890/0
+"Military S & </u>     24th Route 129" for route/day 129/0
+"Military S & 24th Av S <u>" for route/day 129/0
+"Mt Si Senior ute   Center " for route/day 215/0
+"N 160th & chmond   Dayt " for route/day 331/1
+"N Seattle Community College ute 345" for route/day 345/2
+"NE 109th & Woodinville </u>    Redmo" for route/day 221/0
+"NE 6th & 08th Av NE" for route/day 271/1
+"NE 6th & 08th Av NE" for route/day 271/2
+"ne Av N  blican St /u>        <u" for route/day 1/2
+"Newport W NW & E   17th Av N " for route/day 215/0
+"Newport W SW & vd  Sunset Wa " for route/day 215/0
+"Newport Way NW & 7th Av NW   N" for route/day 271/1
+"Newport Way NW & 7th Av NW   N" for route/day 271/2
+"Newport Wy SW & Sunset Wy  1" for route/day 271/1
+"Newport Wy SW & Sunset Wy  1" for route/day 271/2
+"nion , 15 or 18  <" for route/day 1/2
+"niversity   C t Station Bay-A" for route/day 102/0
+"Northbound at South Entrance " for route/day 247/0
+"Northbound Train Arrives" for route/day 126/0
+"Northgate TC Bay-3 <u>      Ro" for route/day 345/2
+"nternational ist Station Bay-D" for route/day 255/0
+"nternational ist Station Bay-D" for route/day 256/0
+"NW 196th & Richmon ute Beach Dr " for route/day 348/0
+"NW 196th & Richmon ute Beach Dr " for route/day 348/2
+"ODO Busway  U &       S S Spokane" for route/day 102/0
+"ODO Busway & S Spokane" for route/day 190/0
+"onvention Place Station"
+"op oute 522</u>"
+"ore R t    Eastboun /u>     <u>"
+"Overlake Transit Ctr </u>     Ba"

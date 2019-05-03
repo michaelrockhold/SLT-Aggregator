@@ -1,0 +1,2678 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+
+<dict>
+    <key>alias</key><string>102nd Av NE &amp; E Riverside Dr</string>
+    <key>ID</key><string>9406</string>
+</dict>
+<dict>
+    <key>alias</key><string>104th Av SE &amp; SE 240th</string>
+    <key>ID</key><string>8417</string>
+</dict>
+<dict>
+    <key>alias</key><string>104th Av SE &amp; SE 248th</string>
+    <key>ID</key><string>8455</string>
+</dict>
+<dict>
+    <key>alias</key><string>104th Av SE &amp; SE 256th</string>
+    <key>ID</key><string>8422</string>
+</dict>
+<dict>
+    <key>alias</key><string>104th Av SE &amp; SE 256th</string>
+    <key>ID</key><string>8422</string>
+</dict>
+<dict>
+    <key>alias</key><string>104th Av SE at 26300 Block</string>
+    <key>ID</key><string>8465</string>
+</dict>
+<dict>
+    <key>alias</key><string>108th Av SE &amp; SE 176th</string>
+    <key>ID</key><string>8756</string>
+</dict>
+<dict>
+    <key>alias</key><string>108th Av SE &amp; SE 176th</string>
+    <key>ID</key><string>8756</string>
+</dict>
+<dict>
+    <key>alias</key><string>108th Av SE &amp; SE 208th</string>
+    <key>ID</key><string>8432</string>
+</dict>
+<dict>
+    <key>alias</key><string>112th Av SE &amp; I-405</string>
+    <key>ID</key><string>7125</string>
+</dict>
+<dict>
+    <key>alias</key><string>116th Av NE &amp; NE 160th (after loop)</string>
+    <key>ID</key><string>7048</string>
+</dict>
+<dict>
+    <key>alias</key><string>116th Av NE &amp; Northup Way</string>
+    <key>ID</key><string>7045</string>
+</dict>
+<dict>
+    <key>alias</key><string>116th Av SE &amp; SE 168th</string>
+    <key>ID</key><string>8407</string>
+</dict>
+<dict>
+    <key>alias</key><string>116th Av SE &amp; SE 240th</string>
+    <key>ID</key><string>8469</string>
+</dict>
+<dict>
+    <key>alias</key><string>116th Av SE &amp; SE 248th</string>
+    <key>ID</key><string>8441</string>
+</dict>
+<dict>
+    <key>alias</key><string>119th Av NE &amp; NE 160th</string>
+    <key>ID</key><string>7367</string>
+</dict>
+<dict>
+    <key>alias</key><string>119th Av SE &amp; SE 58th</string>
+    <key>ID</key><string>7133</string>
+</dict>
+<dict>
+    <key>alias</key><string>119th Av SE &amp; SE 58th</string>
+    <key>ID</key><string>7133</string>
+</dict>
+<dict>
+    <key>alias</key><string>11th Av NE &amp; NE 45th</string>
+    <key>ID</key><string>5928</string>
+</dict>
+<dict>
+    <key>alias</key><string>11th Av NE &amp; NE 47th</string>
+    <key>ID</key><string>5667</string>
+</dict>
+<dict>
+    <key>alias</key><string>120th Av NE &amp; Totem Lake Way</string>
+    <key>ID</key><string>7299</string>
+</dict>
+<dict>
+    <key>alias</key><string>124th Av NE &amp; NE 137th Pl</string>
+    <key>ID</key><string>7047</string>
+</dict>
+<dict>
+    <key>alias</key><string>124th Av NE &amp; NE 144th</string>
+    <key>ID</key><string>7037</string>
+</dict>
+<dict>
+    <key>alias</key><string>12th Av NE &amp; NE Campus Pkwy</string>
+    <key>ID</key><string>5953</string>
+</dict>
+<dict>
+    <key>alias</key><string>12th Av S &amp; S Jackson</string>
+    <key>ID</key><string>2108</string>
+</dict>
+<dict>
+    <key>alias</key><string>132nd Av NE &amp; NE 132nd</string>
+    <key>ID</key><string>7084</string>
+</dict>
+<dict>
+    <key>alias</key><string>132nd Av SE &amp; SE 240th</string>
+    <key>ID</key><string>8463</string>
+</dict>
+<dict>
+    <key>alias</key><string>132nd Av SE &amp; SE 256th</string>
+    <key>ID</key><string>8439</string>
+</dict>
+<dict>
+    <key>alias</key><string>140th Av SE &amp; Petrovitsky</string>
+    <key>ID</key><string>8406</string>
+</dict>
+<dict>
+    <key>alias</key><string>140th Av SE &amp; SE 177th st</string>
+    <key>ID</key><string>8464</string>
+</dict>
+<dict>
+    <key>alias</key><string>140th Av SE &amp; SE 177th</string>
+    <key>ID</key><string>8464</string>
+</dict>
+<dict>
+    <key>alias</key><string>140th Way SE &amp; SE 158th</string>
+    <key>ID</key><string>8857</string>
+</dict>
+<dict>
+    <key>alias</key><string>148th Av NE &amp; NE 20th</string>
+    <key>ID</key><string>7179</string>
+</dict>
+<dict>
+    <key>alias</key><string>148th Av NE &amp; NE 51st</string>
+    <key>ID</key><string>7198</string>
+</dict>
+<dict>
+    <key>alias</key><string>148th Av NE &amp; NE 8th</string>
+    <key>ID</key><string>7161</string>
+</dict>
+<dict>
+    <key>alias</key><string>14th Av NW &amp; NW 105th</string>
+    <key>ID</key><string>3009</string>
+</dict>
+<dict>
+    <key>alias</key><string>14th Av SW &amp; SW 160th</string>
+    <key>ID</key><string>8113</string>
+</dict>
+<dict>
+    <key>alias</key><string>14th Av SW &amp; SW 160th</string>
+    <key>ID</key><string>8113</string>
+</dict>
+<dict>
+    <key>alias</key><string>156th Av NE &amp; NE 24th</string>
+    <key>ID</key><string>7127</string>
+</dict>
+<dict>
+    <key>alias</key><string>156th Av NE &amp; NE 40th</string>
+    <key>ID</key><string>7062</string>
+</dict>
+<dict>
+    <key>alias</key><string>156th Av NE &amp; NE 40th</string>
+    <key>ID</key><string>7062</string>
+</dict>
+<dict>
+    <key>alias</key><string>156th Av NE &amp; NE 8th</string>
+    <key>ID</key><string>7106</string>
+</dict>
+<dict>
+    <key>alias</key><string>156th Av NE &amp; NE 8th</string>
+    <key>ID</key><string>7106</string>
+</dict>
+<dict>
+    <key>alias</key><string>156th Av SE &amp; SE Fairwood</string>
+    <key>ID</key><string>8424</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av E &amp; E Galer</string>
+    <key>ID</key><string>1680</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av E &amp; E John</string>
+    <key>ID</key><string>1643</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NE &amp; NE 125th</string>
+    <key>ID</key><string>3616</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NE &amp; NE 125th</string>
+    <key>ID</key><string>3616</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NE &amp; NE 175th</string>
+    <key>ID</key><string>9216</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NE &amp; NE 43rd</string>
+    <key>ID</key><string>5917</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NE &amp; NE 45th</string>
+    <key>ID</key><string>5912</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NE &amp; NE 65th</string>
+    <key>ID</key><string>5506</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NE &amp; NE 80th</string>
+    <key>ID</key><string>5517</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NE &amp; NE 80th</string>
+    <key>ID</key><string>5517</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NW &amp; NW 85th</string>
+    <key>ID</key><string>3003</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NW &amp; NW Market</string>
+    <key>ID</key><string>3004</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av SW &amp; SW 106th</string>
+    <key>ID</key><string>8002</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av SW &amp; SW Roxbury</string>
+    <key>ID</key><string>5204</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av SW &amp; SW Roxbury</string>
+    <key>ID</key><string>5204</string>
+</dict>
+<dict>
+    <key>alias</key><string>161st Av NE &amp; NE 83rd</string>
+    <key>ID</key><string>7034</string>
+</dict>
+<dict>
+    <key>alias</key><string>164th Av SE &amp; SE 272nd</string>
+    <key>ID</key><string>8451</string>
+</dict>
+<dict>
+    <key>alias</key><string>16th Av E &amp; E Denny Wy</string>
+    <key>ID</key><string>1674</string>
+</dict>
+<dict>
+    <key>alias</key><string>16th Av S &amp; E Marginal Way S</string>
+    <key>ID</key><string>4002</string>
+</dict>
+<dict>
+    <key>alias</key><string>16th Av S &amp; E Marginal Wy S</string>
+    <key>ID</key><string>4002</string>
+</dict>
+<dict>
+    <key>alias</key><string>16th Av SW &amp; SW Florida</string>
+    <key>ID</key><string>6015</string>
+</dict>
+<dict>
+    <key>alias</key><string>16th Av SW &amp; SW Roxbury</string>
+    <key>ID</key><string>5205</string>
+</dict>
+<dict>
+    <key>alias</key><string>16th Av SW at SSCC Entrance</string>
+    <key>ID</key><string>719</string>
+</dict>
+<dict>
+    <key>alias</key><string>172nd Av SE &amp; SE 272nd</string>
+    <key>ID</key><string>8458</string>
+</dict>
+<dict>
+    <key>alias</key><string>17th Av &amp; E Jefferson</string>
+    <key>ID</key><string>2150</string>
+</dict>
+<dict>
+    <key>alias</key><string>17th Av &amp; Jefferson</string>
+    <key>ID</key><string>2150</string>
+</dict>
+<dict>
+    <key>alias</key><string>192nd Av SE &amp; SE 272nd</string>
+    <key>ID</key><string>8405</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av &amp; Denny Way</string>
+    <key>ID</key><string>4304</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av &amp; Denny Wy</string>
+    <key>ID</key><string>4304</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av &amp; Pike</string>
+    <key>ID</key><string>116</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av &amp; Union</string>
+    <key>ID</key><string>114</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av &amp; Univ</string>
+    <key>ID</key><string>113</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av &amp; University</string>
+    <key>ID</key><string>113</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av N &amp; Denny Way</string>
+    <key>ID</key><string>4304</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av N &amp; Denny Wy</string>
+    <key>ID</key><string>4304</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av N &amp; Republican</string>
+    <key>ID</key><string>4324</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av NE &amp; NE 135th</string>
+    <key>ID</key><string>3656</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av NE &amp; NE 140th</string>
+    <key>ID</key><string>3652</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av S &amp; S 112th</string>
+    <key>ID</key><string>8014</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av S &amp; S 320th</string>
+    <key>ID</key><string>8179</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av S &amp; S Jackso</string>
+    <key>ID</key><string>101</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av S &amp; S Jackson</string>
+    <key>ID</key><string>101</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av S &amp; S Spokan</string>
+    <key>ID</key><string>4006</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av S &amp; S Spokane</string>
+    <key>ID</key><string>4006</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av S &amp; SW Normandy</string>
+    <key>ID</key><string>8125</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av SE &amp; SE Bush</string>
+    <key>ID</key><string>7608</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av W &amp; W Mercer</string>
+    <key>ID</key><string>4365</string>
+</dict>
+<dict>
+    <key>alias</key><string>200th St &amp; Des Moines Mem Dr S</string>
+    <key>ID</key><string>8123</string>
+</dict>
+<dict>
+    <key>alias</key><string>21st Av SW &amp; SW 152nd</string>
+    <key>ID</key><string>8021</string>
+</dict>
+<dict>
+    <key>alias</key><string>220th Av SE &amp; SE 51st</string>
+    <key>ID</key><string>7642</string>
+</dict>
+<dict>
+    <key>alias</key><string>228th Av NE &amp; NE 8th</string>
+    <key>ID</key><string>7629</string>
+</dict>
+<dict>
+    <key>alias</key><string>228th Av NE &amp; NE 8th</string>
+    <key>ID</key><string>7629</string>
+</dict>
+<dict>
+    <key>alias</key><string>228th Av SE &amp; Issaquah- Pine Lake</string>
+    <key>ID</key><string>7630</string>
+</dict>
+<dict>
+    <key>alias</key><string>228th Av SE &amp; Issaquah- Pine Lk SE</string>
+    <key>ID</key><string>7630</string>
+</dict>
+<dict>
+    <key>alias</key><string>228th Av SE &amp; SE Pine Lake</string>
+    <key>ID</key><string>7630</string>
+</dict>
+<dict>
+    <key>alias</key><string>23rd Av &amp; E Jefferson</string>
+    <key>ID</key><string>3908</string>
+</dict>
+<dict>
+    <key>alias</key><string>23rd Av &amp; E Yesler Way</string>
+    <key>ID</key><string>3916</string>
+</dict>
+<dict>
+    <key>alias</key><string>23rd Av E &amp; E Madison</string>
+    <key>ID</key><string>3917</string>
+</dict>
+<dict>
+    <key>alias</key><string>23rd Av S &amp; S Jackson</string>
+    <key>ID</key><string>3922</string>
+</dict>
+<dict>
+    <key>alias</key><string>23rd Av S &amp; S Jackson</string>
+    <key>ID</key><string>3922</string>
+</dict>
+<dict>
+    <key>alias</key><string>24th Av NW &amp; NW 85th (northbound)</string>
+    <key>ID</key><string>3020</string>
+</dict>
+<dict>
+    <key>alias</key><string>24th Av NW &amp; NW 85th (southbound)</string>
+    <key>ID</key><string>3020</string>
+</dict>
+<dict>
+    <key>alias</key><string>24th Av NW &amp; NW 85th</string>
+    <key>ID</key><string>3020</string>
+</dict>
+<dict>
+    <key>alias</key><string>25th Av NE &amp; NE 75th</string>
+    <key>ID</key><string>5598</string>
+</dict>
+<dict>
+    <key>alias</key><string>25th Av NE &amp; NE 80th</string>
+    <key>ID</key><string>5645</string>
+</dict>
+<dict>
+    <key>alias</key><string>26th Av SW &amp; SW 116th</string>
+    <key>ID</key><string>8035</string>
+</dict>
+<dict>
+    <key>alias</key><string>26th Av SW &amp; SW Barton</string>
+    <key>ID</key><string>819</string>
+</dict>
+<dict>
+    <key>alias</key><string>26th Av SW &amp; SW Barton</string>
+    <key>ID</key><string>819</string>
+</dict>
+<dict>
+    <key>alias</key><string>26th Av SW &amp; SW Spokane</string>
+    <key>ID</key><string>701</string>
+</dict>
+<dict>
+    <key>alias</key><string>28th Av W &amp; W Blaine</string>
+    <key>ID</key><string>3510</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Av &amp; Broad</string>
+    <key>ID</key><string>3526</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Av &amp; Marion</string>
+    <key>ID</key><string>208</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Av &amp; Pike</string>
+    <key>ID</key><string>216</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Av &amp; Univ</string>
+    <key>ID</key><string>207</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Av &amp; Universit</string>
+    <key>ID</key><string>207</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Av &amp; University</string>
+    <key>ID</key><string>207</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Av Ext &amp; S Jackson</string>
+    <key>ID</key><string>201</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Av Ext S &amp; S Jackson</string>
+    <key>ID</key><string>201</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Av SE &amp; Alder</string>
+    <key>ID</key><string>7638</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Av SE &amp; Front St S</string>
+    <key>ID</key><string>7640</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd Ext S &amp; S Jackson</string>
+    <key>ID</key><string>201</string>
+</dict>
+<dict>
+    <key>alias</key><string>30th Av NE &amp; NE 125th</string>
+    <key>ID</key><string>3623</string>
+</dict>
+<dict>
+    <key>alias</key><string>32nd Av NW &amp; Loyal Way NW</string>
+    <key>ID</key><string>3016</string>
+</dict>
+<dict>
+    <key>alias</key><string>33rd Av &amp; E Union</string>
+    <key>ID</key><string>3920</string>
+</dict>
+<dict>
+    <key>alias</key><string>34th Av &amp; E Union</string>
+    <key>ID</key><string>3903</string>
+</dict>
+<dict>
+    <key>alias</key><string>34th Av W &amp; W Govt Way</string>
+    <key>ID</key><string>3508</string>
+</dict>
+<dict>
+    <key>alias</key><string>34th Av W &amp; W McGraw</string>
+    <key>ID</key><string>3509</string>
+</dict>
+<dict>
+    <key>alias</key><string>35th Av NE &amp; NE 195th</string>
+    <key>ID</key><string>9229</string>
+</dict>
+<dict>
+    <key>alias</key><string>35th Av NE &amp; NE 195th</string>
+    <key>ID</key><string>9229</string>
+</dict>
+<dict>
+    <key>alias</key><string>35th Av SW &amp; SW 342nd</string>
+    <key>ID</key><string>8149</string>
+</dict>
+<dict>
+    <key>alias</key><string>35th Av SW &amp; SW Avalon Way</string>
+    <key>ID</key><string>722</string>
+</dict>
+<dict>
+    <key>alias</key><string>35th Av SW &amp; SW Avalon Wy</string>
+    <key>ID</key><string>722</string>
+</dict>
+<dict>
+    <key>alias</key><string>35th Av SW &amp; SW Avalon Wy</string>
+    <key>ID</key><string>722</string>
+</dict>
+<dict>
+    <key>alias</key><string>35th Av SW &amp; SW Roxbury (northbound)</string>
+    <key>ID</key><string>5260</string>
+</dict>
+<dict>
+    <key>alias</key><string>35th Av SW &amp; SW Roxbury (southbound)</string>
+    <key>ID</key><string>5202</string>
+</dict>
+<dict>
+    <key>alias</key><string>36th Av S &amp; S Atlantic</string>
+    <key>ID</key><string>3915</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Bell</string>
+    <key>ID</key><string>322</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Pike (southbound)</string>
+    <key>ID</key><string>316</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Pike</string>
+    <key>ID</key><string>316</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Pike</string>
+    <key>ID</key><string>316</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Pine</string>
+    <key>ID</key><string>317</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Union (northbound)</string>
+    <key>ID</key><string>314</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Union</string>
+    <key>ID</key><string>314</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Union</string>
+    <key>ID</key><string>314</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Virginia</string>
+    <key>ID</key><string>319</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Yesler Way</string>
+    <key>ID</key><string>304</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av S &amp; S Main</string>
+    <key>ID</key><string>302</string>
+</dict>
+<dict>
+    <key>alias</key><string>41st Av SW &amp; SW Thistle</string>
+    <key>ID</key><string>720</string>
+</dict>
+<dict>
+    <key>alias</key><string>42nd Av E &amp; E McGilvra</string>
+    <key>ID</key><string>3912</string>
+</dict>
+<dict>
+    <key>alias</key><string>42nd Av S &amp; S 188th</string>
+    <key>ID</key><string>8109</string>
+</dict>
+<dict>
+    <key>alias</key><string>45th Av NE &amp; NE 203 Pl</string>
+    <key>ID</key><string>9224</string>
+</dict>
+<dict>
+    <key>alias</key><string>45th Av NE &amp; NE 203rd Pl</string>
+    <key>ID</key><string>9224</string>
+</dict>
+<dict>
+    <key>alias</key><string>45th Av SW &amp; SW Wildwood Pl</string>
+    <key>ID</key><string>764</string>
+</dict>
+<dict>
+    <key>alias</key><string>45th Av SW &amp; SW Wildwood Pl</string>
+    <key>ID</key><string>764</string>
+</dict>
+<dict>
+    <key>alias</key><string>49th Av NE &amp; 42nd St NE</string>
+    <key>ID</key><string>9957</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av &amp; Lenora</string>
+    <key>ID</key><string>420</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av &amp; Pike</string>
+    <key>ID</key><string>416</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av &amp; Pike</string>
+    <key>ID</key><string>416</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av &amp; Union</string>
+    <key>ID</key><string>414</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av &amp; Univ.</string>
+    <key>ID</key><string>413</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av &amp; Univ</string>
+    <key>ID</key><string>413</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av &amp; University</string>
+    <key>ID</key><string>413</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av &amp; University</string>
+    <key>ID</key><string>413</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av N &amp; Mercer</string>
+    <key>ID</key><string>4364</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av S &amp; S Front</string>
+    <key>ID</key><string>4043</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av S &amp; S Front</string>
+    <key>ID</key><string>4043</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av S &amp; S Jackson (island stop)</string>
+    <key>ID</key><string>401</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av S &amp; S Jackson</string>
+    <key>ID</key><string>401</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av S &amp; S Jackson</string>
+    <key>ID</key><string>401</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av S &amp; S Lander</string>
+    <key>ID</key><string>4035</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av S &amp; S Spokane</string>
+    <key>ID</key><string>4010</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av S &amp; S Washington</string>
+    <key>ID</key><string>403</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th St NE &amp; M St NE</string>
+    <key>ID</key><string>8822</string>
+</dict>
+<dict>
+    <key>alias</key><string>53rd Av S &amp; S Leo</string>
+    <key>ID</key><string>5213</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av &amp; Olive Way</string>
+    <key>ID</key><string>543</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av &amp; Pike</string>
+    <key>ID</key><string>516</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av &amp; Pine</string>
+    <key>ID</key><string>517</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av &amp; Terrace</string>
+    <key>ID</key><string>505</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av N &amp; Broad</string>
+    <key>ID</key><string>4355</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av N &amp; Broad</string>
+    <key>ID</key><string>4355</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av NE &amp; NE 145th</string>
+    <key>ID</key><string>3617</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av NE &amp; NE 148th</string>
+    <key>ID</key><string>3647</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av NE &amp; NE 165th</string>
+    <key>ID</key><string>9215</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av S &amp; S Jackson</string>
+    <key>ID</key><string>501</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av S &amp; S Jackson</string>
+    <key>ID</key><string>501</string>
+</dict>
+<dict>
+    <key>alias</key><string>61st Av SW &amp; Alki Av SW</string>
+    <key>ID</key><string>6017</string>
+</dict>
+<dict>
+    <key>alias</key><string>62nd Av S &amp; S Prentice</string>
+    <key>ID</key><string>5216</string>
+</dict>
+<dict>
+    <key>alias</key><string>62nd Av S &amp; S Prentice</string>
+    <key>ID</key><string>5216</string>
+</dict>
+<dict>
+    <key>alias</key><string>68th Av S &amp; S 204th</string>
+    <key>ID</key><string>8443</string>
+</dict>
+<dict>
+    <key>alias</key><string>6th Av &amp; Lenora</string>
+    <key>ID</key><string>620</string>
+</dict>
+<dict>
+    <key>alias</key><string>6th Av S &amp; Royal Brougham</string>
+    <key>ID</key><string>2507</string>
+</dict>
+<dict>
+    <key>alias</key><string>6th Av S &amp; S Atlantic</string>
+    <key>ID</key><string>4038</string>
+</dict>
+<dict>
+    <key>alias</key><string>7th Av &amp; Blanchard</string>
+    <key>ID</key><string>1647</string>
+</dict>
+<dict>
+    <key>alias</key><string>7th Av W &amp; W Raye</string>
+    <key>ID</key><string>4323</string>
+</dict>
+<dict>
+    <key>alias</key><string>80th Av SE &amp; N Mercer Way (westbound)</string>
+    <key>ID</key><string>7526</string>
+</dict>
+<dict>
+    <key>alias</key><string>80th Av SE &amp; N Mercer Way</string>
+    <key>ID</key><string>7526</string>
+</dict>
+<dict>
+    <key>alias</key><string>80th Av SE &amp; N Mercer Wy</string>
+    <key>ID</key><string>7526</string>
+</dict>
+<dict>
+    <key>alias</key><string>80th Av SE &amp; North Mercer Way (westbound)</string>
+    <key>ID</key><string>7526</string>
+</dict>
+<dict>
+    <key>alias</key><string>8th Av NW &amp; NW 85th</string>
+    <key>ID</key><string>3005</string>
+</dict>
+<dict>
+    <key>alias</key><string>8th Av NW &amp; NW Market</string>
+    <key>ID</key><string>3021</string>
+</dict>
+<dict>
+    <key>alias</key><string>8th Av S &amp; S Kenyon</string>
+    <key>ID</key><string>4016</string>
+</dict>
+<dict>
+    <key>alias</key><string>8th Av S &amp; S King</string>
+    <key>ID</key><string>2642</string>
+</dict>
+<dict>
+    <key>alias</key><string>98th Av NE &amp; NE 116th</string>
+    <key>ID</key><string>7001</string>
+</dict>
+<dict>
+    <key>alias</key><string>98th Av NE &amp; NE 23rd</string>
+    <key>ID</key><string>7115</string>
+</dict>
+<dict>
+    <key>alias</key><string>9th Av &amp; Seneca</string>
+    <key>ID</key><string>2128</string>
+</dict>
+<dict>
+    <key>alias</key><string>9th Av &amp; Spring</string>
+    <key>ID</key><string>2163</string>
+</dict>
+<dict>
+    <key>alias</key><string>9th Av &amp; Stewart</string>
+    <key>ID</key><string>1623</string>
+</dict>
+<dict>
+    <key>alias</key><string>9th Av S &amp; S 348th</string>
+    <key>ID</key><string>8196</string>
+</dict>
+<dict>
+    <key>alias</key><string>A St SE &amp; 41st St SE</string>
+    <key>ID</key><string>8858</string>
+</dict>
+<dict>
+    <key>alias</key><string>Airport &amp; 100th St SW</string>
+    <key>ID</key><string>9828</string>
+</dict>
+<dict>
+    <key>alias</key><string>Alaskan Way &amp; Clay</string>
+    <key>ID</key><string>4061</string>
+</dict>
+<dict>
+    <key>alias</key><string>Ambaum Blvd SW &amp; SW 128th</string>
+    <key>ID</key><string>8020</string>
+</dict>
+<dict>
+    <key>alias</key><string>Andover Park W &amp; Strander</string>
+    <key>ID</key><string>8643</string>
+</dict>
+<dict>
+    <key>alias</key><string>Andover Pk W &amp; Strander</string>
+    <key>ID</key><string>8643</string>
+</dict>
+<dict>
+    <key>alias</key><string>Auburn Station Bay 1</string>
+    <key>ID</key><string>8881</string>
+</dict>
+<dict>
+    <key>alias</key><string>Auburn Station Bay 2</string>
+    <key>ID</key><string>8882</string>
+</dict>
+<dict>
+    <key>alias</key><string>Aurora Av N &amp; 85th</string>
+    <key>ID</key><string>1119</string>
+</dict>
+<dict>
+    <key>alias</key><string>Aurora Av N &amp; N 105th</string>
+    <key>ID</key><string>1183</string>
+</dict>
+<dict>
+    <key>alias</key><string>Aurora Av N &amp; N 145th</string>
+    <key>ID</key><string>3604</string>
+</dict>
+<dict>
+    <key>alias</key><string>Aurora Av N &amp; N 192nd</string>
+    <key>ID</key><string>9013</string>
+</dict>
+<dict>
+    <key>alias</key><string>Aurora Av N &amp; N 46th</string>
+    <key>ID</key><string>1144</string>
+</dict>
+<dict>
+    <key>alias</key><string>Aurora Av N &amp; N 85th</string>
+    <key>ID</key><string>1119</string>
+</dict>
+<dict>
+    <key>alias</key><string>Aurora Bridge On-Ramp</string>
+    <key>ID</key><string>1134</string>
+</dict>
+<dict>
+    <key>alias</key><string>Aurora N southbound on-ramp</string>
+    <key>ID</key><string>1134</string>
+</dict>
+<dict>
+    <key>alias</key><string>Aurora Vill TC Bay 4</string>
+    <key>ID</key><string>9029</string>
+</dict>
+<dict>
+    <key>alias</key><string>Aurora Village TC Bay-4</string>
+    <key>ID</key><string>9029</string>
+</dict>
+<dict>
+    <key>alias</key><string>Avondale NE &amp; Avondale Pl NE</string>
+    <key>ID</key><string>7022</string>
+</dict>
+<dict>
+    <key>alias</key><string>Avondale NE &amp; Avondale Pl</string>
+    <key>ID</key><string>7022</string>
+</dict>
+<dict>
+    <key>alias</key><string>Ballard Av NW &amp; NW Market</string>
+    <key>ID</key><string>3013</string>
+</dict>
+<dict>
+    <key>alias</key><string>Bastyr University</string>
+    <key>ID</key><string>9243</string>
+</dict>
+<dict>
+    <key>alias</key><string>Beacon Av S &amp; 15th Av S</string>
+    <key>ID</key><string>2506</string>
+</dict>
+<dict>
+    <key>alias</key><string>Beacon Av S &amp; S Dawson</string>
+    <key>ID</key><string>2603</string>
+</dict>
+<dict>
+    <key>alias</key><string>Beacon Av S &amp; S Leo</string>
+    <key>ID</key><string>5212</string>
+</dict>
+<dict>
+    <key>alias</key><string>Beacon Av S &amp; S Myrtle</string>
+    <key>ID</key><string>2513</string>
+</dict>
+<dict>
+    <key>alias</key><string>Beacon Av S &amp; S Othello</string>
+    <key>ID</key><string>2581</string>
+</dict>
+<dict>
+    <key>alias</key><string>Bell &amp; 4th Av</string>
+    <key>ID</key><string>422</string>
+</dict>
+<dict>
+    <key>alias</key><string>Bell-Red &amp; 124th Av NE</string>
+    <key>ID</key><string>7104</string>
+</dict>
+<dict>
+    <key>alias</key><string>Bellevue Av &amp; E Pike</string>
+    <key>ID</key><string>2109</string>
+</dict>
+<dict>
+    <key>alias</key><string>Boeing Everett Gate E-77</string>
+    <key>ID</key><string>9811</string>
+</dict>
+<dict>
+    <key>alias</key><string>Boren Av &amp; Madison</string>
+    <key>ID</key><string>2113</string>
+</dict>
+<dict>
+    <key>alias</key><string>Boren Av &amp; Madison</string>
+    <key>ID</key><string>2113</string>
+</dict>
+<dict>
+    <key>alias</key><string>Bothell Way NE &amp; Ballinger Way NE</string>
+    <key>ID</key><string>9200</string>
+</dict>
+<dict>
+    <key>alias</key><string>Broadway &amp; E Jefferson</string>
+    <key>ID</key><string>2125</string>
+</dict>
+<dict>
+    <key>alias</key><string>Broadway &amp; E Pine</string>
+    <key>ID</key><string>1608</string>
+</dict>
+<dict>
+    <key>alias</key><string>Broadway &amp; E Union</string>
+    <key>ID</key><string>2121</string>
+</dict>
+<dict>
+    <key>alias</key><string>Broadway &amp; E Yesler Way</string>
+    <key>ID</key><string>2144</string>
+</dict>
+<dict>
+    <key>alias</key><string>Broadway E &amp; E John</string>
+    <key>ID</key><string>1627</string>
+</dict>
+<dict>
+    <key>alias</key><string>Brooklyn Av NE &amp; NE Campus Pkwy</string>
+    <key>ID</key><string>5952</string>
+</dict>
+<dict>
+    <key>alias</key><string>Burien TC Bay 2</string>
+    <key>ID</key><string>8033</string>
+</dict>
+<dict>
+    <key>alias</key><string>Burien TC Bay 3</string>
+    <key>ID</key><string>8016</string>
+</dict>
+<dict>
+    <key>alias</key><string>Burien TC Bay 5</string>
+    <key>ID</key><string>8016</string>
+</dict>
+<dict>
+    <key>alias</key><string>Burien TC Bay 6</string>
+    <key>ID</key><string>8016</string>
+</dict>
+<dict>
+    <key>alias</key><string>Burien Transit Ctr Bay 3</string>
+    <key>ID</key><string>8016</string>
+</dict>
+<dict>
+    <key>alias</key><string>Burien Transit Ctr Bay 5</string>
+    <key>ID</key><string>8016</string>
+</dict>
+<dict>
+    <key>alias</key><string>Burien Transit Ctr Bay 6</string>
+    <key>ID</key><string>8016</string>
+</dict>
+<dict>
+    <key>alias</key><string>C St SW &amp; 15th St SW</string>
+    <key>ID</key><string>8806</string>
+</dict>
+<dict>
+    <key>alias</key><string>Calif. Av &amp; SW Admir Wy</string>
+    <key>ID</key><string>6003</string>
+</dict>
+<dict>
+    <key>alias</key><string>Calif. Av SW &amp; SW Admiral Wy</string>
+    <key>ID</key><string>6003</string>
+</dict>
+<dict>
+    <key>alias</key><string>Calif. Av SW &amp; SW Fauntleroy Wy</string>
+    <key>ID</key><string>779</string>
+</dict>
+<dict>
+    <key>alias</key><string>Campus Wy NE across from Bookstore</string>
+    <key>ID</key><string>9419</string>
+</dict>
+<dict>
+    <key>alias</key><string>Campus Wy NE at Bookstore</string>
+    <key>ID</key><string>9419</string>
+</dict>
+<dict>
+    <key>alias</key><string>Chelan Av SW &amp; SW Spokane</string>
+    <key>ID</key><string>704</string>
+</dict>
+<dict>
+    <key>alias</key><string>Children's Hospital</string>
+    <key>ID</key><string>5908</string>
+</dict>
+<dict>
+    <key>alias</key><string>Coal Creek Pkwy &amp; I-405</string>
+    <key>ID</key><string>7249</string>
+</dict>
+<dict>
+    <key>alias</key><string>Coal Creek Pkwy &amp; Newcastle Way</string>
+    <key>ID</key><string>7122</string>
+</dict>
+<dict>
+    <key>alias</key><string>Coal Creek Pkwy SE &amp; 119th Av SE</string>
+    <key>ID</key><string>7110</string>
+</dict>
+<dict>
+    <key>alias</key><string>Coal Creek Pkwy SE &amp; Newcastle Way</string>
+    <key>ID</key><string>7122</string>
+</dict>
+<dict>
+    <key>alias</key><string>College Way &amp; N 97th</string>
+    <key>ID</key><string>1145</string>
+</dict>
+<dict>
+    <key>alias</key><string>Convention Pl Station Bay-C</string>
+    <key>ID</key><string>1751</string>
+</dict>
+<dict>
+    <key>alias</key><string>Convention Place Sta Bay-C</string>
+    <key>ID</key><string>1751</string>
+</dict>
+<dict>
+    <key>alias</key><string>Convention Place Station</string>
+    <key>ID</key><string>1615</string>
+</dict>
+<dict>
+    <key>alias</key><string>Delridge Way SW &amp; SW Orchard</string>
+    <key>ID</key><string>728</string>
+</dict>
+<dict>
+    <key>alias</key><string>Denny Way &amp; Dexter Av N</string>
+    <key>ID</key><string>1664</string>
+</dict>
+<dict>
+    <key>alias</key><string>Denny Way &amp; Dexter Av</string>
+    <key>ID</key><string>1664</string>
+</dict>
+<dict>
+    <key>alias</key><string>Dexter Av N &amp; Republican</string>
+    <key>ID</key><string>4318</string>
+</dict>
+<dict>
+    <key>alias</key><string>Duvall Av NE &amp; NE Sunset</string>
+    <key>ID</key><string>8787</string>
+</dict>
+<dict>
+    <key>alias</key><string>E John &amp; Broadway E</string>
+    <key>ID</key><string>1627</string>
+</dict>
+<dict>
+    <key>alias</key><string>E Lk Samm Pkwy SE &amp; SE 56th</string>
+    <key>ID</key><string>7631</string>
+</dict>
+<dict>
+    <key>alias</key><string>E Marginal &amp; S 124th</string>
+    <key>ID</key><string>8611</string>
+</dict>
+<dict>
+    <key>alias</key><string>E Marginal Way S &amp; 16th Av S</string>
+    <key>ID</key><string>4002</string>
+</dict>
+<dict>
+    <key>alias</key><string>E Marginal Way S &amp; S 120th Pl</string>
+    <key>ID</key><string>8606</string>
+</dict>
+<dict>
+    <key>alias</key><string>E Marginal Way S &amp; S 124th</string>
+    <key>ID</key><string>8611</string>
+</dict>
+<dict>
+    <key>alias</key><string>Eastgate P&amp;R Bay 2</string>
+    <key>ID</key><string>7332</string>
+</dict>
+<dict>
+    <key>alias</key><string>Eastlake Av E &amp; Harvard Av E</string>
+    <key>ID</key><string>5906</string>
+</dict>
+<dict>
+    <key>alias</key><string>Eastlake Av E &amp; Harvard Av E</string>
+    <key>ID</key><string>5906</string>
+</dict>
+<dict>
+    <key>alias</key><string>Edmonds Av NE &amp; NE 7th</string>
+    <key>ID</key><string>8711</string>
+</dict>
+<dict>
+    <key>alias</key><string>Edmonds Av SE &amp; Puget Dr SE</string>
+    <key>ID</key><string>8437</string>
+</dict>
+<dict>
+    <key>alias</key><string>Factoria SE &amp; I-90</string>
+    <key>ID</key><string>7113</string>
+</dict>
+<dict>
+    <key>alias</key><string>Factoria SE &amp; SE Newport Way</string>
+    <key>ID</key><string>7117</string>
+</dict>
+<dict>
+    <key>alias</key><string>Factory Stores of North Bend</string>
+    <key>ID</key><string>7634</string>
+</dict>
+<dict>
+    <key>alias</key><string>Fairview Av &amp; Denny Way</string>
+    <key>ID</key><string>1663</string>
+</dict>
+<dict>
+    <key>alias</key><string>Fairview Av N &amp; Denny Way</string>
+    <key>ID</key><string>1663</string>
+</dict>
+<dict>
+    <key>alias</key><string>Fed Way Transit Cntr Bay 3</string>
+    <key>ID</key><string>8203</string>
+</dict>
+<dict>
+    <key>alias</key><string>Fremont Av N &amp; N 34th</string>
+    <key>ID</key><string>1124</string>
+</dict>
+<dict>
+    <key>alias</key><string>Garden Av N &amp; N Park Dr</string>
+    <key>ID</key><string>8727</string>
+</dict>
+<dict>
+    <key>alias</key><string>Greenwood Av N &amp; Holman N</string>
+    <key>ID</key><string>3665</string>
+</dict>
+<dict>
+    <key>alias</key><string>Greenwood Av N &amp; N 85th</string>
+    <key>ID</key><string>1116</string>
+</dict>
+<dict>
+    <key>alias</key><string>Harrington Av NE &amp; NE 16th</string>
+    <key>ID</key><string>8778</string>
+</dict>
+<dict>
+    <key>alias</key><string>Harrington NE &amp; NE 16th</string>
+    <key>ID</key><string>8778</string>
+</dict>
+<dict>
+    <key>alias</key><string>Harvard Av E &amp; E Roanoke</string>
+    <key>ID</key><string>5914</string>
+</dict>
+<dict>
+    <key>alias</key><string>Highline Community College</string>
+    <key>ID</key><string>8102</string>
+</dict>
+<dict>
+    <key>alias</key><string>Howell &amp; 9th Av</string>
+    <key>ID</key><string>1628</string>
+</dict>
+<dict>
+    <key>alias</key><string>HUB</string>
+    <key>ID</key><string>5903</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-405 &amp; 112th Av SE</string>
+    <key>ID</key><string>7125</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-405 &amp; N 30th</string>
+    <key>ID</key><string>8726</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-405 &amp; NE 160th</string>
+    <key>ID</key><string>9222</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-405 &amp; NE 30th</string>
+    <key>ID</key><string>8726</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-405 &amp; NE 70th Pl</string>
+    <key>ID</key><string>7056</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-405 &amp; SE 8th</string>
+    <key>ID</key><string>7158</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-5 &amp; Kent- Des Moines</string>
+    <key>ID</key><string>8129</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-5 &amp; Kent- DesMoines On-Ramp</string>
+    <key>ID</key><string>8129</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-5 &amp; Kent-Des Moines</string>
+    <key>ID</key><string>8129</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-90 &amp; 142nd Pl SE</string>
+    <key>ID</key><string>7169</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-90 at 142nd Pl SE</string>
+    <key>ID</key><string>7169</string>
+</dict>
+<dict>
+    <key>alias</key><string>Illinois Av &amp; Texas Way</string>
+    <key>ID</key><string>3519</string>
+</dict>
+<dict>
+    <key>alias</key><string>Int'l Blvd &amp; S 160th</string>
+    <key>ID</key><string>8012</string>
+</dict>
+<dict>
+    <key>alias</key><string>International Blvd &amp; S 160th</string>
+    <key>ID</key><string>8012</string>
+</dict>
+<dict>
+    <key>alias</key><string>International Dist Station Bay-A</string>
+    <key>ID</key><string>451</string>
+</dict>
+<dict>
+    <key>alias</key><string>International Dist Station Bay-B</string>
+    <key>ID</key><string>452</string>
+</dict>
+<dict>
+    <key>alias</key><string>International Dist Station Bay-C</string>
+    <key>ID</key><string>452</string>
+</dict>
+<dict>
+    <key>alias</key><string>Island Crest Way &amp; SE 40th</string>
+    <key>ID</key><string>7506</string>
+</dict>
+<dict>
+    <key>alias</key><string>Island Crest Wy SE &amp; SE 40th</string>
+    <key>ID</key><string>7506</string>
+</dict>
+<dict>
+    <key>alias</key><string>Issaquah Community Center</string>
+    <key>ID</key><string>7607</string>
+</dict>
+<dict>
+    <key>alias</key><string>Issaquah-Fall City &amp; Klahanie Dr</string>
+    <key>ID</key><string>7643</string>
+</dict>
+<dict>
+    <key>alias</key><string>Kent City Hall</string>
+    <key>ID</key><string>8467</string>
+</dict>
+<dict>
+    <key>alias</key><string>Kent City Hall</string>
+    <key>ID</key><string>8467</string>
+</dict>
+<dict>
+    <key>alias</key><string>Kent Station Bay 4</string>
+    <key>ID</key><string>8654</string>
+</dict>
+<dict>
+    <key>alias</key><string>Kent Station Bay 8</string>
+    <key>ID</key><string>8658</string>
+</dict>
+<dict>
+    <key>alias</key><string>Kent Station Bay 9</string>
+    <key>ID</key><string>8659</string>
+</dict>
+<dict>
+    <key>alias</key><string>King County Airport</string>
+    <key>ID</key><string>2524</string>
+</dict>
+<dict>
+    <key>alias</key><string>King County Aquatics Center</string>
+    <key>ID</key><string>8176</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lake City Way NE &amp; NE 125th</string>
+    <key>ID</key><string>3624</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lake City Way NE &amp; NE 130th</string>
+    <key>ID</key><string>3607</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lake City Way NE &amp; NE 145th</string>
+    <key>ID</key><string>3628</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lake City Wy NE &amp; NE 125th</string>
+    <key>ID</key><string>3624</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lakemont SE &amp; SE Newport Way</string>
+    <key>ID</key><string>7131</string>
+</dict>
+<dict>
+    <key>alias</key><string>Latona Av NE &amp; NE 45th</string>
+    <key>ID</key><string>1132</string>
+</dict>
+<dict>
+    <key>alias</key><string>Leary Av NW &amp; NW Vernon P</string>
+    <key>ID</key><string>3017</string>
+</dict>
+<dict>
+    <key>alias</key><string>Leary Av NW &amp; NW Vernon Pl</string>
+    <key>ID</key><string>3017</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lenora &amp; 4th Av</string>
+    <key>ID</key><string>420</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lenora &amp; 6th Av</string>
+    <key>ID</key><string>620</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lind Av SW &amp; SW 41st</string>
+    <key>ID</key><string>8747</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lind Av SW &amp; SW 43rd</string>
+    <key>ID</key><string>8743</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lower Rdwy (Bag Claim) Bay-1</string>
+    <key>ID</key><string>8052</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lower Rdwy (Bag Claim) Bay-2</string>
+    <key>ID</key><string>8010</string>
+</dict>
+<dict>
+    <key>alias</key><string>Madison &amp; 2nd Av</string>
+    <key>ID</key><string>206</string>
+</dict>
+<dict>
+    <key>alias</key><string>Madrona Dr &amp; Lake Wash</string>
+    <key>ID</key><string>3913</string>
+</dict>
+<dict>
+    <key>alias</key><string>Magnolia Blvd W &amp; W Emerson</string>
+    <key>ID</key><string>3522</string>
+</dict>
+<dict>
+    <key>alias</key><string>Magnolia W &amp; W Emerson</string>
+    <key>ID</key><string>3522</string>
+</dict>
+<dict>
+    <key>alias</key><string>Marion &amp; 2nd Av</string>
+    <key>ID</key><string>208</string>
+</dict>
+<dict>
+    <key>alias</key><string>Market St SW &amp; 15th St SW</string>
+    <key>ID</key><string>8819</string>
+</dict>
+<dict>
+    <key>alias</key><string>McGilvra &amp; E Madison</string>
+    <key>ID</key><string>3985</string>
+</dict>
+<dict>
+    <key>alias</key><string>Meeker Court</string>
+    <key>ID</key><string>8481</string>
+</dict>
+<dict>
+    <key>alias</key><string>Memorial Way &amp; Stevens Way</string>
+    <key>ID</key><string>5920</string>
+</dict>
+<dict>
+    <key>alias</key><string>Mercer Way 80th Av SE (eastbound)</string>
+    <key>ID</key><string>7526</string>
+</dict>
+<dict>
+    <key>alias</key><string>Military S &amp; 24th Av S</string>
+    <key>ID</key><string>8612</string>
+</dict>
+<dict>
+    <key>alias</key><string>Military S &amp; S 128th</string>
+    <key>ID</key><string>8032</string>
+</dict>
+<dict>
+    <key>alias</key><string>Military S &amp; S 272nd</string>
+    <key>ID</key><string>8160</string>
+</dict>
+<dict>
+    <key>alias</key><string>ML King Jr Way &amp; E Madison</string>
+    <key>ID</key><string>3907</string>
+</dict>
+<dict>
+    <key>alias</key><string>ML King Jr Way S &amp; S 129th</string>
+    <key>ID</key><string>8608</string>
+</dict>
+<dict>
+    <key>alias</key><string>ML King Jr Way S &amp; S Hanford</string>
+    <key>ID</key><string>2529</string>
+</dict>
+<dict>
+    <key>alias</key><string>ML King Jr Way S &amp; S Othello</string>
+    <key>ID</key><string>2514</string>
+</dict>
+<dict>
+    <key>alias</key><string>Montlake Blvd NE &amp; E Shelby</string>
+    <key>ID</key><string>3919</string>
+</dict>
+<dict>
+    <key>alias</key><string>Montlake NE &amp; NE Pacific Pl</string>
+    <key>ID</key><string>5916</string>
+</dict>
+<dict>
+    <key>alias</key><string>Myers Wy &amp; Olson Pl</string>
+    <key>ID</key><string>729</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 143rd &amp; Linden Av N</string>
+    <key>ID</key><string>3673</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 145th &amp; Greenwood N</string>
+    <key>ID</key><string>3602</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 160th &amp; Dayton Av N</string>
+    <key>ID</key><string>3609</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 175th &amp; Meridian Av N</string>
+    <key>ID</key><string>9014</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 185th &amp; Aurora Av N</string>
+    <key>ID</key><string>9026</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 45th &amp; Stone Way N</string>
+    <key>ID</key><string>1102</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 46th &amp; Phinney Av N</string>
+    <key>ID</key><string>1121</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 46th &amp; Phinney N</string>
+    <key>ID</key><string>1121</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 85th &amp; Greenwood N</string>
+    <key>ID</key><string>1116</string>
+</dict>
+<dict>
+    <key>alias</key><string>N Mercer Way &amp; 80th Av SE (eastbound)</string>
+    <key>ID</key><string>7526</string>
+</dict>
+<dict>
+    <key>alias</key><string>N Mercer Way &amp; 80th Av SE</string>
+    <key>ID</key><string>7526</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 109th &amp; Woodinvill Redmond Rd</string>
+    <key>ID</key><string>7029</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 109th &amp; Woodinville Redmond Rd</string>
+    <key>ID</key><string>7029</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 116th &amp; 98th Av NE</string>
+    <key>ID</key><string>7001</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 120th &amp; 132nd Av NE</string>
+    <key>ID</key><string>7233</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 124th &amp; 172nd Av NE</string>
+    <key>ID</key><string>7095</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 124th Wy &amp; 172nd Av NE</string>
+    <key>ID</key><string>7095</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 125th &amp; 15th Av NE</string>
+    <key>ID</key><string>3616</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 128th &amp; !20th Av NE</string>
+    <key>ID</key><string>7007</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 128th &amp; 120th Av NE</string>
+    <key>ID</key><string>7007</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 128th &amp; I-405</string>
+    <key>ID</key><string>7357</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 130th &amp; 35th Av NE</string>
+    <key>ID</key><string>3661</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 132nd &amp; 132nd Av NE</string>
+    <key>ID</key><string>7084</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 136th &amp; 17th Av NE</string>
+    <key>ID</key><string>3621</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 145th &amp; 15th Av NE</string>
+    <key>ID</key><string>3618</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 145th &amp; 15th Av NE</string>
+    <key>ID</key><string>3618</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 145th &amp; I-5</string>
+    <key>ID</key><string>3619</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 160th &amp; I-405</string>
+    <key>ID</key><string>9222</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 175th &amp; 10th Av NE</string>
+    <key>ID</key><string>9225</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 45th &amp; Univ Way NE</string>
+    <key>ID</key><string>5923</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 4th &amp; Duvall Av NE</string>
+    <key>ID</key><string>8777</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 4th &amp; Union Av NE</string>
+    <key>ID</key><string>8714</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 50th &amp; Brooklyn Av NE</string>
+    <key>ID</key><string>5524</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 50th &amp; Brooklyn Av</string>
+    <key>ID</key><string>5524</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 55th &amp; 35th Av NE</string>
+    <key>ID</key><string>5518</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 65th &amp; 15th Av NE</string>
+    <key>ID</key><string>5506</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 65th &amp; 35th Av NE</string>
+    <key>ID</key><string>5519</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 74th &amp; Sand Point Way NE</string>
+    <key>ID</key><string>5514</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 7th &amp; Edmonds Av NE</string>
+    <key>ID</key><string>8711</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 80th &amp; 15th Av NE</string>
+    <key>ID</key><string>5517</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 83rd &amp; 161st Av NE</string>
+    <key>ID</key><string>7034</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 85th &amp; 15th Av NE</string>
+    <key>ID</key><string>5505</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 85th &amp; 35th Av NE</string>
+    <key>ID</key><string>5522</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE Campus Pk &amp; Brooklyn Av</string>
+    <key>ID</key><string>5952</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE Campus Pkwy &amp; 12th Av NE</string>
+    <key>ID</key><string>5953</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE Campus Pkwy &amp; Brooklyn Av</string>
+    <key>ID</key><string>5952</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE Campus Pkwy &amp; Brooklyn NE</string>
+    <key>ID</key><string>5952</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE Pacific &amp; NE Pacific Pl</string>
+    <key>ID</key><string>5925</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE Pacific &amp; Univ Way NE</string>
+    <key>ID</key><string>5542</string>
+</dict>
+<dict>
+    <key>alias</key><string>Newport Wy SW &amp; W Sunset Wy</string>
+    <key>ID</key><string>7646</string>
+</dict>
+<dict>
+    <key>alias</key><string>Northbound on Rainier Av S at S Henderson</string>
+    <key>ID</key><string>5211</string>
+</dict>
+<dict>
+    <key>alias</key><string>Northgate TC Bay-4</string>
+    <key>ID</key><string>5694</string>
+</dict>
+<dict>
+    <key>alias</key><string>Northgate Transit Center</string>
+    <key>ID</key><string>5691</string>
+</dict>
+<dict>
+    <key>alias</key><string>Northwest Hospital</string>
+    <key>ID</key><string>1181</string>
+</dict>
+<dict>
+    <key>alias</key><string>NW 196th &amp; Richmond Beach Dr NW</string>
+    <key>ID</key><string>9003</string>
+</dict>
+<dict>
+    <key>alias</key><string>NW 54th &amp; 32nd Av NW</string>
+    <key>ID</key><string>3014</string>
+</dict>
+<dict>
+    <key>alias</key><string>Olive Wa &amp; 5th Av</string>
+    <key>ID</key><string>543</string>
+</dict>
+<dict>
+    <key>alias</key><string>Olive Way &amp; 8th Av</string>
+    <key>ID</key><string>1629</string>
+</dict>
+<dict>
+    <key>alias</key><string>On 1st Av S At S Spokane</string>
+    <key>ID</key><string>4006</string>
+</dict>
+<dict>
+    <key>alias</key><string>On 4th Av at James</string>
+    <key>ID</key><string>406</string>
+</dict>
+<dict>
+    <key>alias</key><string>On 7th Av at Blanchard</string>
+    <key>ID</key><string>1647</string>
+</dict>
+<dict>
+    <key>alias</key><string>On Bell at 7th Av</string>
+    <key>ID</key><string>1636</string>
+</dict>
+<dict>
+    <key>alias</key><string>On I-90 at SE Rainier Av</string>
+    <key>ID</key><string>4824</string>
+</dict>
+<dict>
+    <key>alias</key><string>On Linden Av N at N 143rd</string>
+    <key>ID</key><string>3673</string>
+</dict>
+<dict>
+    <key>alias</key><string>On Montlake Blvd at SR-520</string>
+    <key>ID</key><string>3926</string>
+</dict>
+<dict>
+    <key>alias</key><string>On Montlake Blvd, at E Shelby</string>
+    <key>ID</key><string>3919</string>
+</dict>
+<dict>
+    <key>alias</key><string>On Montlake Blvd, at SR-520</string>
+    <key>ID</key><string>3926</string>
+</dict>
+<dict>
+    <key>alias</key><string>On Pine at 9th Av</string>
+    <key>ID</key><string>1660</string>
+</dict>
+<dict>
+    <key>alias</key><string>On S Henderson St at Rainier Av S</string>
+    <key>ID</key><string>5211</string>
+</dict>
+<dict>
+    <key>alias</key><string>On S Jackson at 5th Av S</string>
+    <key>ID</key><string>501</string>
+</dict>
+<dict>
+    <key>alias</key><string>On S Jackson St at 5th Av S</string>
+    <key>ID</key><string>501</string>
+</dict>
+<dict>
+    <key>alias</key><string>On S Spokane At 1st Av S</string>
+    <key>ID</key><string>4006</string>
+</dict>
+<dict>
+    <key>alias</key><string>On S Washington at 4th Av S</string>
+    <key>ID</key><string>403</string>
+</dict>
+<dict>
+    <key>alias</key><string>On SR-520 at Evergreen Point</string>
+    <key>ID</key><string>7024</string>
+</dict>
+<dict>
+    <key>alias</key><string>On SR-520 at Evergreen Pt Road</string>
+    <key>ID</key><string>7024</string>
+</dict>
+<dict>
+    <key>alias</key><string>On SR-520 at Montlake Blvd</string>
+    <key>ID</key><string>3898</string>
+</dict>
+<dict>
+    <key>alias</key><string>On SR-520 At Montlake</string>
+    <key>ID</key><string>3898</string>
+</dict>
+<dict>
+    <key>alias</key><string>On Stewart at 9th Av</string>
+    <key>ID</key><string>1623</string>
+</dict>
+<dict>
+    <key>alias</key><string>Overlake Transit Ctr Bay 4</string>
+    <key>ID</key><string>7544</string>
+</dict>
+<dict>
+    <key>alias</key><string>Pacific Hwy &amp; Kent- Des Moines</string>
+    <key>ID</key><string>8105</string>
+</dict>
+<dict>
+    <key>alias</key><string>Pacific Hwy &amp; S 272nd</string>
+    <key>ID</key><string>8133</string>
+</dict>
+<dict>
+    <key>alias</key><string>Pacific Hwy S &amp; Kent- Des Moines</string>
+    <key>ID</key><string>8105</string>
+</dict>
+<dict>
+    <key>alias</key><string>Pacific Hwy S &amp; S 272nd</string>
+    <key>ID</key><string>8133</string>
+</dict>
+<dict>
+    <key>alias</key><string>Pacific Hwy S &amp; S 276th</string>
+    <key>ID</key><string>8198</string>
+</dict>
+<dict>
+    <key>alias</key><string>Pacific Hwy S &amp; S 308th</string>
+    <key>ID</key><string>8172</string>
+</dict>
+<dict>
+    <key>alias</key><string>Pacific Hwy S &amp; S 312th</string>
+    <key>ID</key><string>8106</string>
+</dict>
+<dict>
+    <key>alias</key><string>Park Av N &amp; N 8th</string>
+    <key>ID</key><string>8703</string>
+</dict>
+<dict>
+    <key>alias</key><string>Park Av N &amp; N 8th</string>
+    <key>ID</key><string>8703</string>
+</dict>
+<dict>
+    <key>alias</key><string>Pike &amp; 6th Av</string>
+    <key>ID</key><string>616</string>
+</dict>
+<dict>
+    <key>alias</key><string>Pine &amp; 9th Av</string>
+    <key>ID</key><string>1660</string>
+</dict>
+<dict>
+    <key>alias</key><string>Queen Anne Av N &amp; Boston</string>
+    <key>ID</key><string>4302</string>
+</dict>
+<dict>
+    <key>alias</key><string>Queen Anne Av N &amp; Boston</string>
+    <key>ID</key><string>4302</string>
+</dict>
+<dict>
+    <key>alias</key><string>Queen Anne Av N &amp; Mercer</string>
+    <key>ID</key><string>4313</string>
+</dict>
+<dict>
+    <key>alias</key><string>Queen Anne N &amp; Mercer</string>
+    <key>ID</key><string>4313</string>
+</dict>
+<dict>
+    <key>alias</key><string>Railroad Av SE &amp; SE King</string>
+    <key>ID</key><string>7616</string>
+</dict>
+<dict>
+    <key>alias</key><string>Railroad SE &amp; King</string>
+    <key>ID</key><string>7616</string>
+</dict>
+<dict>
+    <key>alias</key><string>Rainier Av S &amp; S Genesee</string>
+    <key>ID</key><string>4714</string>
+</dict>
+<dict>
+    <key>alias</key><string>Rainier Av S &amp; S Genesee</string>
+    <key>ID</key><string>4714</string>
+</dict>
+<dict>
+    <key>alias</key><string>Rainier Av S &amp; S Graham</string>
+    <key>ID</key><string>4707</string>
+</dict>
+<dict>
+    <key>alias</key><string>Rainier Av S &amp; S Henderson</string>
+    <key>ID</key><string>5211</string>
+</dict>
+<dict>
+    <key>alias</key><string>Redondo Heights P&amp;R</string>
+    <key>ID</key><string>8188</string>
+</dict>
+<dict>
+    <key>alias</key><string>Renton Transit Cntr Bay 2</string>
+    <key>ID</key><string>8792</string>
+</dict>
+<dict>
+    <key>alias</key><string>Renton Transit Cntr Bay 4</string>
+    <key>ID</key><string>8794</string>
+</dict>
+<dict>
+    <key>alias</key><string>Roosevelt Way NE &amp; NE 92nd</string>
+    <key>ID</key><string>5642</string>
+</dict>
+<dict>
+    <key>alias</key><string>Roosevelt Wy NE &amp; NE 45th</string>
+    <key>ID</key><string>5910</string>
+</dict>
+<dict>
+    <key>alias</key><string>Roosevelt Wy NE &amp; NE 75th</string>
+    <key>ID</key><string>5531</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 200th &amp; Des Moines Mem Dr S</string>
+    <key>ID</key><string>8123</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 200th St &amp; Des Moines Mem Dr S</string>
+    <key>ID</key><string>8123</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 223rd &amp; Marine View Dr S</string>
+    <key>ID</key><string>8110</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 223rd &amp; Marine View Drive S</string>
+    <key>ID</key><string>8110</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 223rd St Marine Vie Dr S</string>
+    <key>ID</key><string>8110</string>
+</dict>
+<dict>
+    <key>alias</key><string>S Henderson &amp; Rainier Av S</string>
+    <key>ID</key><string>5211</string>
+</dict>
+<dict>
+    <key>alias</key><string>S Henderson St &amp; Rainier Av S</string>
+    <key>ID</key><string>5211</string>
+</dict>
+<dict>
+    <key>alias</key><string>S Jackson &amp; 5th Av S</string>
+    <key>ID</key><string>501</string>
+</dict>
+<dict>
+    <key>alias</key><string>S Renton P&amp;R Bay 1</string>
+    <key>ID</key><string>8764</string>
+</dict>
+<dict>
+    <key>alias</key><string>S Renton P&amp;R Bay 2</string>
+    <key>ID</key><string>8764</string>
+</dict>
+<dict>
+    <key>alias</key><string>SE 208th &amp; 108th Av SE</string>
+    <key>ID</key><string>8432</string>
+</dict>
+<dict>
+    <key>alias</key><string>SE 320th &amp; 122nd Av SE</string>
+    <key>ID</key><string>8868</string>
+</dict>
+<dict>
+    <key>alias</key><string>SE 42nd Pl &amp; 334th Pl SE</string>
+    <key>ID</key><string>7604</string>
+</dict>
+<dict>
+    <key>alias</key><string>Sea-Tac (Bag Claim) Bay-1</string>
+    <key>ID</key><string>8052</string>
+</dict>
+<dict>
+    <key>alias</key><string>Sea-Tac (Bag Claim) Bay-2</string>
+    <key>ID</key><string>8010</string>
+</dict>
+<dict>
+    <key>alias</key><string>Seneca &amp; 2nd Av</string>
+    <key>ID</key><string>211</string>
+</dict>
+<dict>
+    <key>alias</key><string>Seneca at 2nd Av</string>
+    <key>ID</key><string>211</string>
+</dict>
+<dict>
+    <key>alias</key><string>Seward Park Av S &amp; Wilson Av S</string>
+    <key>ID</key><string>4724</string>
+</dict>
+<dict>
+    <key>alias</key><string>Shoreline Community College</string>
+    <key>ID</key><string>9004</string>
+</dict>
+<dict>
+    <key>alias</key><string>South Kirkland P&amp;R</string>
+    <key>ID</key><string>7018</string>
+</dict>
+<dict>
+    <key>alias</key><string>SR-520 &amp; NE 51st</string>
+    <key>ID</key><string>7075</string>
+</dict>
+<dict>
+    <key>alias</key><string>Star Lake Freeway Station</string>
+    <key>ID</key><string>8147</string>
+</dict>
+<dict>
+    <key>alias</key><string>Stone Way N &amp; N 40th</string>
+    <key>ID</key><string>1123</string>
+</dict>
+<dict>
+    <key>alias</key><string>Stone Way N &amp; N 45th</string>
+    <key>ID</key><string>1102</string>
+</dict>
+<dict>
+    <key>alias</key><string>SW 356th &amp; 13th Way SW</string>
+    <key>ID</key><string>8177</string>
+</dict>
+<dict>
+    <key>alias</key><string>SW Dash Pt &amp; SW 312th</string>
+    <key>ID</key><string>8118</string>
+</dict>
+<dict>
+    <key>alias</key><string>SW Roxbury &amp; 15th Av SW</string>
+    <key>ID</key><string>5204</string>
+</dict>
+<dict>
+    <key>alias</key><string>Talbot S &amp; S Carr</string>
+    <key>ID</key><string>8734</string>
+</dict>
+<dict>
+    <key>alias</key><string>Thackeray Pl NE &amp; NE 45th</string>
+    <key>ID</key><string>1133</string>
+</dict>
+<dict>
+    <key>alias</key><string>Thorndyke Av W &amp; W Blaine</string>
+    <key>ID</key><string>3517</string>
+</dict>
+<dict>
+    <key>alias</key><string>Timberlane Way SE &amp; SE 267th</string>
+    <key>ID</key><string>8456</string>
+</dict>
+<dict>
+    <key>alias</key><string>Transit Ctr Rdway &amp; NE 103rd</string>
+    <key>ID</key><string>5691</string>
+</dict>
+<dict>
+    <key>alias</key><string>Transit Ctr Rdwy &amp; NE 103rd</string>
+    <key>ID</key><string>5691</string>
+</dict>
+<dict>
+    <key>alias</key><string>Transit Rdway &amp; SW 148th</string>
+    <key>ID</key><string>8049</string>
+</dict>
+<dict>
+    <key>alias</key><string>Transit Rdwy &amp; 1st St SW</string>
+    <key>ID</key><string>8881</string>
+</dict>
+<dict>
+    <key>alias</key><string>Transit Rdwy &amp; A St SW</string>
+    <key>ID</key><string>8881</string>
+</dict>
+<dict>
+    <key>alias</key><string>Transit Roadway &amp; SW 148th</string>
+    <key>ID</key><string>8049</string>
+</dict>
+<dict>
+    <key>alias</key><string>Triton Dr NW &amp; NW 100th</string>
+    <key>ID</key><string>3015</string>
+</dict>
+<dict>
+    <key>alias</key><string>Tukwila Int' Blvd Station</string>
+    <key>ID</key><string>8005</string>
+</dict>
+<dict>
+    <key>alias</key><string>Tukwila Intl Blvd Station</string>
+    <key>ID</key><string>8005</string>
+</dict>
+<dict>
+    <key>alias</key><string>Tukwila P&amp;R</string>
+    <key>ID</key><string>8641</string>
+</dict>
+<dict>
+    <key>alias</key><string>Tukwila Station</string>
+    <key>ID</key><string>8632</string>
+</dict>
+<dict>
+    <key>alias</key><string>Tukwila Train Station</string>
+    <key>ID</key><string>8632</string>
+</dict>
+<dict>
+    <key>alias</key><string>U of W HUB</string>
+    <key>ID</key><string>5903</string>
+</dict>
+<dict>
+    <key>alias</key><string>Union Av NE &amp; NE 4th</string>
+    <key>ID</key><string>8714</string>
+</dict>
+<dict>
+    <key>alias</key><string>Union Av NE &amp; NE 4th</string>
+    <key>ID</key><string>8714</string>
+</dict>
+<dict>
+    <key>alias</key><string>Union Av SE &amp; SE 2nd Pl</string>
+    <key>ID</key><string>8745</string>
+</dict>
+<dict>
+    <key>alias</key><string>Union Av SE &amp; SE 2nd Pl</string>
+    <key>ID</key><string>8745</string>
+</dict>
+<dict>
+    <key>alias</key><string>University NE &amp; NE 45th</string>
+    <key>ID</key><string>5923</string>
+</dict>
+<dict>
+    <key>alias</key><string>University St Station Bay-A</string>
+    <key>ID</key><string>336</string>
+</dict>
+<dict>
+    <key>alias</key><string>University St Station Bay-B</string>
+    <key>ID</key><string>336</string>
+</dict>
+<dict>
+    <key>alias</key><string>University St Station Bay-C</string>
+    <key>ID</key><string>336</string>
+</dict>
+<dict>
+    <key>alias</key><string>University St Station Bay-D</string>
+    <key>ID</key><string>336</string>
+</dict>
+<dict>
+    <key>alias</key><string>University Street Sta Bay-A</string>
+    <key>ID</key><string>336</string>
+</dict>
+<dict>
+    <key>alias</key><string>University Street Sta Bay-B</string>
+    <key>ID</key><string>336</string>
+</dict>
+<dict>
+    <key>alias</key><string>University Street Sta Bay-C</string>
+    <key>ID</key><string>336</string>
+</dict>
+<dict>
+    <key>alias</key><string>University Street Station</string>
+    <key>ID</key><string>336</string>
+</dict>
+<dict>
+    <key>alias</key><string>University Way NE &amp; NE 45th</string>
+    <key>ID</key><string>5923</string>
+</dict>
+<dict>
+    <key>alias</key><string>UW/CCC North Loop</string>
+    <key>ID</key><string>9419</string>
+</dict>
+<dict>
+    <key>alias</key><string>W Lk Samm Pkwy NE &amp; NE 24th</string>
+    <key>ID</key><string>7033</string>
+</dict>
+<dict>
+    <key>alias</key><string>Washington Av &amp; W Meeker</string>
+    <key>ID</key><string>8409</string>
+</dict>
+<dict>
+    <key>alias</key><string>Wax &amp; SE 272nd</string>
+    <key>ID</key><string>8454</string>
+</dict>
+<dict>
+    <key>alias</key><string>Woodinville P&amp;R</string>
+    <key>ID</key><string>9409</string>
+</dict>
+<dict>
+    <key>alias</key><string>Woodlawn Av NE &amp; NE Ravenna</string>
+    <key>ID</key><string>1118</string>
+</dict>
+<dict>
+    <key>alias</key><string>Woodlawn NE &amp; NE Ravenna</string>
+    <key>ID</key><string>1118</string>
+</dict>
+<dict>
+    <key>alias</key><string>Yesler Way &amp; Post Av</string>
+    <key>ID</key><string>4041</string>
+</dict>
+<dict>
+    <key>alias</key><string>Sounder Train to Seattle</string>
+    <key>ID</key><string>----</string>
+</dict>
+<dict>
+    <key>alias</key><string>Southbound Train Departs</string>
+    <key>ID</key><string>----</string>
+</dict>
+<dict>
+    <key>alias</key><string>108th Av NE &amp; NE 38th Pl</string>
+    <key>ID</key><string>7018</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av NW &amp; NW Beach Dr</string>
+    <key>ID</key><string>9012</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av NE &amp; NE 205th</string>
+    <key>ID</key><string>9220</string>
+</dict>
+<dict>
+    <key>alias</key><string>Providence Dr &amp; SE 43rd Wy</string>
+    <key>ID</key><string>999001</string>
+</dict>
+<dict>
+    <key>alias</key><string>Providence Pt Dr &amp; SE 43rd Wy</string>
+    <key>ID</key><string>999001</string>
+</dict>
+<dict>
+    <key>alias</key><string>Bellevue Av &amp; Bellevue Pl</string>
+    <key>ID</key><string>999002</string>
+</dict>
+<dict>
+    <key>alias</key><string>Bellevue Av E &amp; Bellevue Pl E</string>
+    <key>ID</key><string>999002</string>
+</dict>
+<dict>
+    <key>alias</key><string>108th Av NE &amp; NE 6th</string>
+    <key>ID</key><string>999003</string>
+</dict>
+<dict>
+    <key>alias</key><string>116th Av NE &amp; NE 12th</string>
+    <key>ID</key><string>999004</string>
+</dict>
+<dict>
+    <key>alias</key><string>Weedin Pl NE &amp; 8th Av NE</string>
+    <key>ID</key><string>999005</string>
+</dict>
+<dict>
+    <key>alias</key><string>Weedin Pl NE &amp; NE 8th</string>
+    <key>ID</key><string>999005</string>
+</dict>
+<dict>
+    <key>alias</key><string>VA Medical Center</string>
+    <key>ID</key><string>999006</string>
+</dict>
+<dict>
+    <key>alias</key><string>On Shattuck Av S at S Grady Way</string>
+    <key>ID</key><string>999007</string>
+</dict>
+<dict>
+    <key>alias</key><string>S Grady Way &amp; Shattuck Av S</string>
+    <key>ID</key><string>999007</string>
+</dict>
+<dict>
+    <key>alias</key><string>S Grady Wy &amp; Shattuck Av S</string>
+    <key>ID</key><string>999007</string>
+</dict>
+<dict>
+    <key>alias</key><string>SW Grady Way &amp; Shattuck Av S</string>
+    <key>ID</key><string>999007</string>
+</dict>
+<dict>
+    <key>alias</key><string>Temperance &amp; 1st Av N</string>
+    <key>ID</key><string>999008</string>
+</dict>
+<dict>
+    <key>alias</key><string>Temperance St &amp; 1st Av N</string>
+    <key>ID</key><string>999008</string>
+</dict>
+<dict>
+    <key>alias</key><string>International Blvd &amp; S 112th</string>
+    <key>ID</key><string>999009</string>
+</dict>
+<dict>
+    <key>alias</key><string>Intl &amp; S 112th</string>
+    <key>ID</key><string>999009</string>
+</dict>
+<dict>
+    <key>alias</key><string>Tukwila Intl Blvd &amp; S 112th</string>
+    <key>ID</key><string>999009</string>
+</dict>
+<dict>
+    <key>alias</key><string>Tuwila Intl Blvd &amp; S 112th</string>
+    <key>ID</key><string>999009</string>
+</dict>
+<dict>
+    <key>alias</key><string>52nd Av S &amp; Interurban S</string>
+    <key>ID</key><string>999010</string>
+</dict>
+<dict>
+    <key>alias</key><string>52nd Av S &amp; Interurban</string>
+    <key>ID</key><string>999010</string>
+</dict>
+<dict>
+    <key>alias</key><string>Interurban Av S &amp; 52nd Av S</string>
+    <key>ID</key><string>999010</string>
+</dict>
+<dict>
+    <key>alias</key><string>SODO Busway &amp; S Spokane</string>
+    <key>ID</key><string>999011</string>
+</dict>
+<dict>
+    <key>alias</key><string>116th Av NE &amp; NE 70th Pl</string>
+    <key>ID</key><string>999012</string>
+</dict>
+<dict>
+    <key>alias</key><string>Bellevue Way SE &amp; 112th Av SE</string>
+    <key>ID</key><string>999013</string>
+</dict>
+<dict>
+    <key>alias</key><string>Bellevue Wy SE &amp; 112th Av SE</string>
+    <key>ID</key><string>999013</string>
+</dict>
+<dict>
+    <key>alias</key><string>Redmond Transit Ctr Bay 5</string>
+    <key>ID</key><string>999014</string>
+</dict>
+<dict>
+    <key>alias</key><string>Redmond Transit Ctr Bay-5</string>
+    <key>ID</key><string>999014</string>
+</dict>
+<dict>
+    <key>alias</key><string>Roy &amp; Warren Av N</string>
+    <key>ID</key><string>999015</string>
+</dict>
+<dict>
+    <key>alias</key><string>Railroad Av &amp; W Pioneer</string>
+    <key>ID</key><string>999016</string>
+</dict>
+<dict>
+    <key>alias</key><string>Railroad Av N  &amp; W Pioneer</string>
+    <key>ID</key><string>999016</string>
+</dict>
+<dict>
+    <key>alias</key><string>Railroad Av N &amp; Pioneer</string>
+    <key>ID</key><string>999016</string>
+</dict>
+<dict>
+    <key>alias</key><string>On S Walden at Rainier Av S</string>
+    <key>ID</key><string>999017</string>
+</dict>
+<dict>
+    <key>alias</key><string>Rainier Av S &amp; S Walden</string>
+    <key>ID</key><string>999017</string>
+</dict>
+<dict>
+    <key>alias</key><string>S Walden &amp; Rainier Av S</string>
+    <key>ID</key><string>999017</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 180th &amp; Sperry Dr</string>
+    <key>ID</key><string>999018</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av S &amp; Prefontaine</string>
+    <key>ID</key><string>999019</string>
+</dict>
+<dict>
+    <key>alias</key><string>S Jackson &amp; Occidental S</string>
+    <key>ID</key><string>999020</string>
+</dict>
+<dict>
+    <key>alias</key><string>SE 82nd &amp; SE High Point Way</string>
+    <key>ID</key><string>999021</string>
+</dict>
+<dict>
+    <key>alias</key><string>SE Eastgate Way &amp; 140th Av SE</string>
+    <key>ID</key><string>999022</string>
+</dict>
+<dict>
+    <key>alias</key><string>SE Eastgate Wy &amp; 140th Av SE</string>
+    <key>ID</key><string>999022</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 3rd &amp; Burnett Av S</string>
+    <key>ID</key><string>999023</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 320th &amp; I-5</string>
+    <key>ID</key><string>999024</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 2nd &amp; Burnett Av S</string>
+    <key>ID</key><string>999025</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 2nd Av &amp; Burnett Av S</string>
+    <key>ID</key><string>999025</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 317th &amp; 23rd Av S</string>
+    <key>ID</key><string>999026</string>
+</dict>
+<dict>
+    <key>alias</key><string>S 212th &amp; 42nd Av S</string>
+    <key>ID</key><string>999027</string>
+</dict>
+<dict>
+    <key>alias</key><string>116th Way NE &amp; NE 132nd</string>
+    <key>ID</key><string>999028</string>
+</dict>
+<dict>
+    <key>alias</key><string>124th Av SE &amp; SE 44th</string>
+    <key>ID</key><string>999029</string>
+</dict>
+<dict>
+    <key>alias</key><string>132nd Av SE &amp; SE 270th</string>
+    <key>ID</key><string>999030</string>
+</dict>
+<dict>
+    <key>alias</key><string>132nd Av SE &amp; SE 272nd</string>
+    <key>ID</key><string>999031</string>
+</dict>
+<dict>
+    <key>alias</key><string>140th Av NE &amp; NE 179th</string>
+    <key>ID</key><string>999032</string>
+</dict>
+<dict>
+    <key>alias</key><string>152nd Av NE &amp; 2600 Crossing</string>
+    <key>ID</key><string>999033</string>
+</dict>
+<dict>
+    <key>alias</key><string>152nd Av NE &amp; 2600</string>
+    <key>ID</key><string>999033</string>
+</dict>
+<dict>
+    <key>alias</key><string>152nd Way SE &amp; SE 272nd</string>
+    <key>ID</key><string>999034</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th Av SW &amp; SW 102nd</string>
+    <key>ID</key><string>999035</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th St NE &amp; A St NE</string>
+    <key>ID</key><string>999036</string>
+</dict>
+<dict>
+    <key>alias</key><string>15th St NE &amp; D St NE</string>
+    <key>ID</key><string>999037</string>
+</dict>
+<dict>
+    <key>alias</key><string>178th Pl NE &amp; NE 78th Pl</string>
+    <key>ID</key><string>999038</string>
+</dict>
+<dict>
+    <key>alias</key><string>180th St &amp; Sperry Dr</string>
+    <key>ID</key><string>999018</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av NE &amp; NE 103rd</string>
+    <key>ID</key><string>999039</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st Av S &amp; Main</string>
+    <key>ID</key><string>999040</string>
+</dict>
+<dict>
+    <key>alias</key><string>9th Av NE &amp; Highlands Dr NE</string>
+    <key>ID</key><string>999042</string>
+</dict>
+<dict>
+    <key>alias</key><string>9th Av NE &amp; Highlands</string>
+    <key>ID</key><string>999042</string>
+</dict>
+<dict>
+    <key>alias</key><string>Alaskan Way &amp; Marion</string>
+    <key>ID</key><string>999041</string>
+</dict>
+<dict>
+    <key>alias</key><string>Alaskan Wy &amp; Marion</string>
+    <key>ID</key><string>999041</string>
+</dict>
+<dict>
+    <key>alias</key><string>Andover Park W &amp; Baker</string>
+    <key>ID</key><string>999043</string>
+</dict>
+<dict>
+    <key>alias</key><string>Andover Pk W &amp; Baker</string>
+    <key>ID</key><string>999043</string>
+</dict>
+<dict>
+    <key>alias</key><string>Ashworth Av &amp; N 200th</string>
+    <key>ID</key><string>999044</string>
+</dict>
+<dict>
+    <key>alias</key><string>Ashworth Av N &amp; N 200th</string>
+    <key>ID</key><string>999044</string>
+</dict>
+<dict>
+    <key>alias</key><string>Calif Av SW &amp; SW Alaska</string>
+    <key>ID</key><string>999045</string>
+</dict>
+<dict>
+    <key>alias</key><string>Calif. Av SW &amp; SW Alaska</string>
+    <key>ID</key><string>999045</string>
+</dict>
+<dict>
+    <key>alias</key><string>Columbia &amp; 2nd Av</string>
+    <key>ID</key><string>999046</string>
+</dict>
+<dict>
+    <key>alias</key><string>1st St SW &amp; Transit Rdwy</string>
+    <key>ID</key><string>8881</string>
+</dict>
+<dict>
+    <key>alias</key><string>21st Av &amp; E Jefferson</string>
+    <key>ID</key><string>999047</string>
+</dict>
+<dict>
+    <key>alias</key><string>21st Av SW &amp; SW 344th</string>
+    <key>ID</key><string>999048</string>
+</dict>
+<dict>
+    <key>alias</key><string>21st Av SW &amp; SW Campus Dr</string>
+    <key>ID</key><string>999049</string>
+</dict>
+<dict>
+    <key>alias</key><string>236th St SW &amp; I-5</string>
+    <key>ID</key><string>9702</string>
+</dict>
+<dict>
+    <key>alias</key><string>23rd Av S &amp; S 317th</string>
+    <key>ID</key><string>999050</string>
+</dict>
+<dict>
+    <key>alias</key><string>2nd St SW &amp; Transit Rdwy</string>
+    <key>ID</key><string>8881</string>
+</dict>
+<dict>
+    <key>alias</key><string>33rd Av W &amp; W Govt Way</string>
+    <key>ID</key><string>999051</string>
+</dict>
+<dict>
+    <key>alias</key><string>34th Av &amp; E Cherry</string>
+    <key>ID</key><string>999052</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd &amp; Park Lane</string>
+    <key>ID</key><string>999053</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av &amp; Cedar</string>
+    <key>ID</key><string>999054</string>
+</dict>
+<dict>
+    <key>alias</key><string>3rd Av NW &amp; NW 12</string>
+    <key>ID</key><string>3054</string>
+</dict>
+<dict>
+    <key>alias</key><string>40th Av SE &amp; SE 177th</string>
+    <key>ID</key><string>999055</string>
+</dict>
+<dict>
+    <key>alias</key><string>42nd Av S &amp; S 212th</string>
+    <key>ID</key><string>999056</string>
+</dict>
+<dict>
+    <key>alias</key><string>44th Av SW &amp; SW Alaska</string>
+    <key>ID</key><string>999057</string>
+</dict>
+<dict>
+    <key>alias</key><string>4th Av SW &amp; SW 148th</string>
+    <key>ID</key><string>999058</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av &amp; James</string>
+    <key>ID</key><string>999059</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av &amp; Jefferson</string>
+    <key>ID</key><string>999060</string>
+</dict>
+<dict>
+    <key>alias</key><string>5th Av NE &amp; NE 163rd</string>
+    <key>ID</key><string>999061</string>
+</dict>
+<dict>
+    <key>alias</key><string>68th Av NE &amp; NE 181st</string>
+    <key>ID</key><string>999062</string>
+</dict>
+<dict>
+    <key>alias</key><string>E Madison &amp; E Garfield</string>
+    <key>ID</key><string>999063</string>
+</dict>
+<dict>
+    <key>alias</key><string>Fremont Wy N &amp; Linden Av N</string>
+    <key>ID</key><string>999064</string>
+</dict>
+<dict>
+    <key>alias</key><string>Greenwood Av N &amp; N 103rd</string>
+    <key>ID</key><string>999065</string>
+</dict>
+<dict>
+    <key>alias</key><string>Hollyhills NE &amp; NE 192nd</string>
+    <key>ID</key><string>999066</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-405 &amp; Juanita- Wdvlle Wy NE</string>
+    <key>ID</key><string>999067</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-5 &amp; 272nd Southbound Off-Ramp</string>
+    <key>ID</key><string>8156</string>
+</dict>
+<dict>
+    <key>alias</key><string>I-5 &amp; S 272nd</string>
+    <key>ID</key><string>8147</string>
+</dict>
+<dict>
+    <key>alias</key><string>Interurban Av S &amp; Gateway Dr</string>
+    <key>ID</key><string>999068</string>
+</dict>
+<dict>
+    <key>alias</key><string>Issaquah TC Bay 3</string>
+    <key>ID</key><string>999069</string>
+</dict>
+<dict>
+    <key>alias</key><string>Issaquah TC Bay 4</string>
+    <key>ID</key><string>999070</string>
+</dict>
+<dict>
+    <key>alias</key><string>Lakeside E &amp; S 228th</string>
+    <key>ID</key><string>999071</string>
+</dict>
+<dict>
+    <key>alias</key><string>Mercer Village Center</string>
+    <key>ID</key><string>999072</string>
+</dict>
+<dict>
+    <key>alias</key><string>Mercer Village Shopping Ctr</string>
+    <key>ID</key><string>999072</string>
+</dict>
+<dict>
+    <key>alias</key><string>Military S &amp; Kent- Des Moines</string>
+    <key>ID</key><string>999073</string>
+</dict>
+<dict>
+    <key>alias</key><string>ML King Jr Way S &amp; S Myrtle</string>
+    <key>ID</key><string>999074</string>
+</dict>
+<dict>
+    <key>alias</key><string>Mt Rainier Dr S &amp; S Ridgeway Pl</string>
+    <key>ID</key><string>999075</string>
+</dict>
+<dict>
+    <key>alias</key><string>Mt Rainier S &amp; 37th Pl S</string>
+    <key>ID</key><string>999076</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 200th &amp; Ashworth Av N</string>
+    <key>ID</key><string>999077</string>
+</dict>
+<dict>
+    <key>alias</key><string>N 200th &amp; Ashworth Av</string>
+    <key>ID</key><string>999077</string>
+</dict>
+<dict>
+    <key>alias</key><string>N Seattle Community College</string>
+    <key>ID</key><string>999078</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 132nd &amp; 124th Av NE</string>
+    <key>ID</key><string>999079</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 38th Pl &amp; 108th Av NE</string>
+    <key>ID</key><string>999080</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 45th &amp; Brooklyn Av NE</string>
+    <key>ID</key><string>999081</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 6th &amp; 108th Av NE</string>
+    <key>ID</key><string>999082</string>
+</dict>
+<dict>
+    <key>alias</key><string>NE 85th &amp; 132nd Av NE</string>
+    <key>ID</key><string>999083</string>
+</dict>
+<dict>
+    <key>alias</key><string>Newport Way NW &amp; 17th Av NW</string>
+    <key>ID</key><string>999084</string>
+</dict>
+<dict>
+    <key>alias</key><string>On SE 8th at 118th Av</string>
+    <key>ID</key><string>999085</string>
+</dict>
+<dict>
+    <key>alias</key><string>SW 356th &amp; 14th Av SW</string>
+    <key>ID</key><string>999086</string>
+</dict>
+
+</array>
+</plist>
+

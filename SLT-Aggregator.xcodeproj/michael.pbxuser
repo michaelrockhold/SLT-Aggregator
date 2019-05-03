@@ -1,0 +1,327 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4C89948F10A62600009EDFB4 /* SLT-Aggregator */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* SLT-Aggregator */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* SLT-Aggregator */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 4C89949610A6261F009EDFB4 /* Code sense */;
+		executables = (
+			4C89948F10A62600009EDFB4 /* SLT-Aggregator */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 279421307;
+			PBXWorkspaceStateSaveDate = 279421307;
+		};
+		sourceControlManager = 4C89949510A6261F009EDFB4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	288AFF310F563D130085E73F /* SLT_Aggregator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {966, 3367}}";
+			sepNavSelRange = "{7077, 0}";
+			sepNavVisRange = "{5896, 1655}";
+			sepNavWindowFrame = "{{4, 0}, {931, 778}}";
+		};
+	};
+	28D1EE310F5643310089643D /* SLT-Aggregator.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 0;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						122.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {824, 220}}",
+							"{{829, 0}, {432, 220}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {1261, 220}}",
+							"{{0, 225}, {1261, 440}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {272, 220}}",
+							"{{277, 0}, {547, 220}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						284.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{-263, 0}, {1246, 425}}";
+			};
+			sepNavWindowFrame = "{{19, 0}, {1261, 778}}";
+		};
+	};
+	4C89948F10A62600009EDFB4 /* SLT-Aggregator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+		);
+		argumentStrings = (
+			../../config.plist,
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "SLT-Aggregator";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4C89949510A6261F009EDFB4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4C89949610A6261F009EDFB4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4C8994DE10A64B70009EDFB4 /* config.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{442, 386}, {830, 392}}";
+		};
+	};
+	4C89951610A656D4009EDFB4 /* Run.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 650}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 673}";
+			sepNavWindowFrame = "{{19, 0}, {918, 778}}";
+		};
+	};
+	4C89951A10A656D4009EDFB4 /* Route.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 403}}";
+			sepNavSelRange = "{487, 38}";
+			sepNavVisRange = "{81, 492}";
+		};
+	};
+	4C89952210A656D4009EDFB4 /* Timepoint.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 559}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 498}";
+		};
+	};
+	4C89958A10A66276009EDFB4 /* MetroTimetableDownloader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 650}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 307}";
+		};
+	};
+	4C89958B10A66276009EDFB4 /* MetroTimetableDownloader.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 4797}}";
+			sepNavSelRange = "{10931, 0}";
+			sepNavVisRange = "{9876, 1432}";
+			sepNavWindowFrame = "{{19, 0}, {931, 778}}";
+		};
+	};
+	4C89958D10A66276009EDFB4 /* SoundTransitTimetableDownloader.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 4914}}";
+			sepNavSelRange = "{4544, 0}";
+			sepNavVisRange = "{4097, 692}";
+			sepNavWindowFrame = "{{5, 2}, {932, 776}}";
+		};
+	};
+	4C89958E10A66276009EDFB4 /* TimetableDownloader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 832}}";
+			sepNavSelRange = "{893, 0}";
+			sepNavVisRange = "{327, 879}";
+			sepNavWindowFrame = "{{19, 0}, {931, 778}}";
+		};
+	};
+	4C89958F10A66276009EDFB4 /* TimetableDownloader.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {912, 2210}}";
+			sepNavSelRange = "{1578, 0}";
+			sepNavVisRange = "{1444, 1420}";
+			sepNavWindowFrame = "{{336, 0}, {931, 778}}";
+		};
+	};
+	4C89959810A662FF009EDFB4 /* Schedule.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 650}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 341}";
+			sepNavWindowFrame = "{{19, 0}, {931, 778}}";
+		};
+	};
+	4C89963A10A676ED009EDFB4 /* XPathQuery.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1030, 5005}}";
+			sepNavSelRange = "{511, 0}";
+			sepNavVisRange = "{0, 982}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* SLT-Aggregator */ = {
+		activeExec = 0;
+		executables = (
+			4C89948F10A62600009EDFB4 /* SLT-Aggregator */,
+		);
+	};
+}

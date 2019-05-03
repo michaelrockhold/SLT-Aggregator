@@ -1,0 +1,242 @@
+timepoint #106 (1 AV & COLUMBIA ST) ##BAD
+timepoint #116 (1 AV & PIKE ST) ##BAD
+timepoint #1601 (10 AV E & E ALOHA ST) ##BAD
+timepoint #1643 (15 AV E & E JOHN ST) ##BAD
+timepoint #2110 (14 AV S & S JACKSON ST) ##BAD
+timepoint #2119 (14 AV & E JEFFERSON ST) ##BAD
+timepoint #2508 (15 AV S & S LUCILE ST (CLEVELAND HIGH)) ##BAD
+timepoint #4011 (13 AV S & S BAILEY ST) ##BAD
+timepoint #5915 (15 AV NE & NE 40 ST) ##BAD
+timepoint #7007 (120 AV NE & NE 128 ST) ##BAD
+timepoint #7031 (164 AV NE & NE REDMOND WY) ##BAD
+timepoint #7034 (161 AV NE & NE 83 ST) ##BAD
+timepoint #7049 (166 AV NE & NE 110 ST) ##BAD
+timepoint #7059 (166 AV NE & NE 104 ST) ##BAD
+timepoint #7071 (160 AV NE LAYOVER C) ##BAD
+timepoint #7079 (160 AV NE & NE 85 ST) ##BAD
+timepoint #7080 (119 PL NE & NE 144 ST) ##BAD
+timepoint #7085 (124 AV NE & NE 136 PL) ##BAD
+timepoint #7088 (120 AV NE & TOTEM LAKE BLVD) ##BAD
+timepoint #7096 (154 AV NE & NE 85 ST) ##BAD
+timepoint #7099 (164 AV NE & CLEVELAND ST) ##BAD
+timepoint #7104 (124 AV NE & NE BELL/RED RD) ##BAD
+timepoint #7111 (164 AV NE & NE 24 ST) ##BAD
+timepoint #7123 (112 AV NE & NE 10 ST) ##BAD
+timepoint #7145 (164 AV SE & SE 14 ST) ##BAD
+timepoint #7151 (140 AV NE & NE 24 ST) ##BAD
+timepoint #7165 (108 AV NE & NE 4 ST) ##BAD
+timepoint #7167 (140 AV NE & NE 20 ST) ##BAD
+timepoint #7171 (112 AV NE & NE 12 ST) ##BAD
+timepoint #7172 (116 AV NE & MAIN ST) ##BAD
+timepoint #7175 (161 AV NE & NE 85 ST) ##BAD
+timepoint #7177 (140 AV NE & NE 40 ST) ##BAD
+timepoint #7193 (124 AV NE & NORTHUP WY) ##BAD
+timepoint #7199 (150 AV SE SOUTHBOUND LAYOVER) ##BAD
+timepoint #7221 (116 AV SE & SE 1 ST) ##BAD
+timepoint #7256 (124 AV NE & NE 32 ST) ##BAD
+timepoint #7257 (130 AV NE & NE 32 ST) ##BAD
+timepoint #7269 (130 AV NE & NE 24 ST) ##BAD
+timepoint #7276 (102 AV NE & NE 10 ST) ##BAD
+timepoint #7284 (116 AV NE & NE 60 ST) ##BAD
+timepoint #7294 (116 AV NE & NE 28 ST) ##BAD
+timepoint #7308 (112 AV NE & NE 87 ST) ##BAD
+timepoint #7354 (106 AV NE & NE 6 ST (NB)) ##BAD
+timepoint #7355 (106 AV NE & NE 6 ST (SB)) ##BAD
+timepoint #7358 (164 AV NE\NE BEAR CREEK PKWY) ##BAD
+timepoint #7608 (1 AV SE & SE BUSH ST) ##BAD
+timepoint #7641 (11 AV NW & LAKE DR) ##BAD
+timepoint #7647 (12 AV NW & NW MALL ST) ##BAD
+timepoint #7879 (164 AV NE & NE 87 ST) ##BAD
+timepoint #8001 (15 AV SW & SW 98 ST (W/B)) ##BAD
+timepoint #8430 (124 AV SE & SE 216 ST) ##BAD
+timepoint #8434 (110 PL SE & SE 248 ST) ##BAD
+timepoint #8453 (116 AV SE & SE 234 ST) ##BAD
+timepoint #8465 (104 AV SE at 26300 BLK) ##BAD
+timepoint #8827 (1 AV N & MAIN ST) ##BAD
+timepoint #9406 (102 AV NE & E RIVERSIDE DR) ##BAD
+timepoint #9410 (125 AV NE & NE 32 ST) ##BAD
+timepoint #9413 (120 AV NE & NE 180 ST) ##BAD
+timepoint #101 (1 AV S & S JACKSON ST) ##OK
+timepoint #108 (1 AV & MARION ST) ##OK
+timepoint #113 (1 AV & UNIVERSITY ST) ##OK
+timepoint #114 (1 AV & UNION ST) ##OK
+timepoint #119 (1 AV & VIRGINIA ST) ##OK
+timepoint #1196 (1 AV NW & NW 90 ST) ##OK
+timepoint #1201 (1 AV NW & NW 87 ST) ##OK
+timepoint #121 (1 AV & BLANCHARD ST) ##OK
+timepoint #1601 (10 AV E & E ALOHA ST) ##OK
+timepoint #1640 (1 AV S & S ATLANTIC ST) ##OK
+timepoint #1643 (15 AV E & E JOHN ST) ##OK
+timepoint #1667 (10 AV E & E MERCER ST) ##OK
+timepoint #1674 (16 AV E & E DENNY WY) ##OK
+timepoint #1680 (15 AV E & E GALER ST) ##OK
+timepoint #2106 (15 AV & E MADISON ST) ##OK
+timepoint #2108 (12 AV S & S JACKSON ST) ##OK
+timepoint #2119 (14 AV & E JEFFERSON ST) ##OK
+timepoint #2150 (17 AV & E JEFFERSON ST) ##OK
+timepoint #2506 (15 AV S & BEACON AV S) ##OK
+timepoint #2633 (15 AV S & S COLUMBIAN WY) ##OK
+timepoint #3003 (15 AV NW & NW 85 ST) ##OK
+timepoint #3004 (15 AV NW & NW MARKET ST) ##OK
+timepoint #3009 (14 AV NW & NW 105 ST) ##OK
+timepoint #3011 (17 AV NW & NW MARKET ST) ##OK
+timepoint #3024 (15 AV NW & NW LEARY WY (N/B)) ##OK
+timepoint #3026 (15 AV NW & NW LEARY WY (S/B)) ##OK
+timepoint #3041 (15 AV NW & NW 64 ST) ##OK
+timepoint #3077 (15 AV NW & NW 90 ST N/B) ##OK
+timepoint #3078 (15 AV NW & NW 90 ST S/B) ##OK
+timepoint #3502 (15 AV W & W GARFIELD ST) ##OK
+timepoint #3504 (15 AV W & W DRAVUS ST) ##OK
+timepoint #3547 (1 AV & WARREN PL) ##OK
+timepoint #3616 (15 AV NE & NE 125 ST) ##OK
+timepoint #3618 (15 AV NE & NE 145 ST) ##OK
+timepoint #3621 (17 AV NE & NE 136 ST) ##OK
+timepoint #3652 (1 AV NE & NE 140 ST) ##OK
+timepoint #3656 (1 AV NE & NE 135 ST) ##OK
+timepoint #3686 (15 AV NE & NE 155 ST) ##OK
+timepoint #4002 (16 AV S & E MARGINAL WY S) ##OK
+timepoint #4006 (1 AV S & S SPOKANE ST (E/N)) ##OK
+timepoint #4011 (13 AV S & S BAILEY ST) ##OK
+timepoint #4017 (1 AV S & S ROYAL BROUGHAM WY) ##OK
+timepoint #4051 (1 AV S & S SPOKANE ST (W/S)) ##OK
+timepoint #4304 (1 AV N & DENNY WY) ##OK
+timepoint #4311 (10 AV W & W FULTON ST) ##OK
+timepoint #4314 (1 AV W & W RAYE ST) ##OK
+timepoint #4324 (1 AV N & REPUBLICAN ST) ##OK
+timepoint #4365 (1 AV W & W MERCER ST) ##OK
+timepoint #4367 (1 AV N & THOMAS ST) ##OK
+timepoint #5204 (15 AV SW & SW ROXBURY ST) ##OK
+timepoint #5205 (16 AV SW & SW ROXBURY ST) ##OK
+timepoint #5227 (15 AV SW & SW 98 ST E\B) ##OK
+timepoint #5505 (15 AV NE & NE 85 ST) ##OK
+timepoint #5506 (15 AV NE & NE 65 ST) ##OK
+timepoint #5517 (15 AV NE & NE 80 ST) ##OK
+timepoint #5523 (12 AV NE & NE 75 ST) ##OK
+timepoint #5529 (15 AV NE & LAKE CITY WY NE) ##OK
+timepoint #5533 (12 AV NE & NE 47 ST) ##OK
+timepoint #5540 (15 AV NE & NE 50 ST) ##OK
+timepoint #5559 (15 AV NE & NE 75 ST) ##OK
+timepoint #5574 (1 AV NE & NE 80 ST) ##OK
+timepoint #5608 (1 AV NE & NE 100 ST) ##OK
+timepoint #5667 (11 AV NE & NE 47 ST) ##OK
+timepoint #5905 (15 AV NE & NE CAMPUS PKWY) ##OK
+timepoint #5912 (15 AV NE & NE 45 ST) ##OK
+timepoint #5917 (15 AV NE & NE 43 ST) ##OK
+timepoint #5928 (11 AV NE & NE 45 ST) ##OK
+timepoint #5953 (12 AV NE & NE CAMPUS PKWY (W/B)) ##OK
+timepoint #6015 (16 AV SW & SW FLORIDA ST) ##OK
+timepoint #7000 (120 AV NE & NE 80 ST) ##OK
+timepoint #7015 (148 AV NE/NE REDMOND WY) ##OK
+timepoint #7023 (124 AV NE & NE 80 ST LWHS) ##OK
+timepoint #7030 (140 AV NE & NE OLD REDMOND RD) ##OK
+timepoint #7037 (124 AV NE & NE 144 ST) ##OK
+timepoint #7041 (108 AV NE & FORBES CREEK DR) ##OK
+timepoint #7042 (100 AV NE & NE 137 ST) ##OK
+timepoint #7043 (100 AV NE & NE 132 ST) ##OK
+timepoint #7045 (116 AV NE & NORTHUP WY) ##OK
+timepoint #7047 (124 AV NE & NE 137 PL) ##OK
+timepoint #7048 (116 AV NE & NE 160 ST) ##OK
+timepoint #7058 (132 AV NE & NE 70 ST) ##OK
+timepoint #7062 (156 AV NE & NE 40 ST) ##OK
+timepoint #7070 (116 AV NE & HOUGHTON P & R) ##OK
+timepoint #7073 (124 AV NE & NE 116 ST) ##OK
+timepoint #7084 (132 AV NE & NE 132 ST) ##OK
+timepoint #7087 (116 AV NE & NE 8 ST) ##OK
+timepoint #7104 (124 AV NE & NE BELL/RED RD) ##OK
+timepoint #7106 (156 AV NE & NE 8 ST) ##OK
+timepoint #7108 (124 AV NE & NE 8 ST) ##OK
+timepoint #7110 (119 AV SE & COAL CREEK PKWY SE) ##OK
+timepoint #7118 (150 AV SE & SE 38 ST) ##OK
+timepoint #7119 (151 AV SE & SE NEWPORT WY) ##OK
+timepoint #7121 (161 AV SE & SE EASTGATE WY) ##OK
+timepoint #7127 (156 AV NE & NE 24 ST) ##OK
+timepoint #7128 (123 AV SE & SE 20 PL) ##OK
+timepoint #7133 (119 AV SE & SE 58 ST) ##OK
+timepoint #7134 (164 AV NE & NE 8 ST) ##OK
+timepoint #7136 (148 AV NE & NE 24 ST) ##OK
+timepoint #7139 (160 AV NE LAYOVER B) ##OK
+timepoint #7143 (168 AV SE & SE 26 ST) ##OK
+timepoint #7144 (145 PL SE KAMBER RD) ##OK
+timepoint #7157 (116 AV NE & NE 34 ST) ##OK
+timepoint #7160 (148 AV NE & NE 8 ST SB) ##OK
+timepoint #7161 (148 AV NE & NE 8 ST NB) ##OK
+timepoint #7164 (116 AV NE & NE 2 PL) ##OK
+timepoint #7166 (124 AV NE & NE 2 ST) ##OK
+timepoint #7173 (108 AV SE & SE 34 ST) ##OK
+timepoint #7179 (148 AV NE & NE 20 ST) ##OK
+timepoint #7180 (128 AV SE & SE 7 PL) ##OK
+timepoint #7185 (108 AV SE & BELLEVUE WY SE) ##OK
+timepoint #7188 (106 AV NE & NE 8 ST LAYOVER) ##OK
+timepoint #719 (16 AV SW SOUTH SEATTLE COMMUNITY COLLEGE) ##OK
+timepoint #7190 (148 AV NE & NE 51 ST SB) ##OK
+timepoint #7198 (148 AV NE & NE 51 ST NB) ##OK
+timepoint #7206 (140 AV SE & SE 8 ST) ##OK
+timepoint #7207 (160 AV SE & SE EASTGATE WY) ##OK
+timepoint #7225 (114 AV SE & SE 8 ST) ##OK
+timepoint #7231 (156 AV NE & NE 31 ST) ##OK
+timepoint #7233 (132 AV NE & NE 120 ST) ##OK
+timepoint #7234 (136 PL SE & SE 36 ST) ##OK
+timepoint #7244 (164 AV NE & NORTHUP WY) ##OK
+timepoint #7259 (156 AV SE & SE 24 ST) ##OK
+timepoint #7261 (140 AV SE & MAIN ST) ##OK
+timepoint #7264 (116 AV SE & SE 77 PL) ##OK
+timepoint #7265 (129 PL SE & SE 80 WY) ##OK
+timepoint #7269 (130 AV NE & NE 24 ST) ##OK
+timepoint #7272 (123 AV SE & SE NEWCASTLE WY) ##OK
+timepoint #7279 (150 AV SE & SE NEWPORT WY) ##OK
+timepoint #7281 (17 AV NW (RENTON RD) & NW SAMMAMISH RD) ##OK
+timepoint #7291 (150 AV SE & SE 46 ST) ##OK
+timepoint #7292 (146 AV SE & SE 55 ST) ##OK
+timepoint #7293 (164 WY SE & SE 46 WY) ##OK
+timepoint #7309 (116 AV NE & NE 100 ST) ##OK
+timepoint #7353 (156 AV NE & NE 15 ST) ##OK
+timepoint #7361 (110 AV NE & NE 12 ST) ##OK
+timepoint #7363 (105 AV NE & NE 2 ST) ##OK
+timepoint #7367 (119 AV NE & NE 160 ST) ##OK
+timepoint #7369 (120 AV NE & NE 75 ST) ##OK
+timepoint #7370 (128 AV SE INTERNATIONAL SCHOOL) ##OK
+timepoint #7371 (101 PL NE & NE 116 ST) ##OK
+timepoint #7608 (1 AV SE & SE BUSH ST) ##OK
+timepoint #7878 (100 AV NE & NE 1 ST) ##OK
+timepoint #7881 (170 AV NE & AVONDALE WY NE) ##OK
+timepoint #8002 (15 AV SW & SW 106 ST) ##OK
+timepoint #8014 (1 AV S & SW 112 ST) ##OK
+timepoint #8019 (15 AV SW & SW 104 ST) ##OK
+timepoint #8030 (14 AV SW & SW 98 ST) ##OK
+timepoint #8113 (14 AV SW & SW 160 ST) ##OK
+timepoint #8125 (1 AV S & S NORMANDY RD) ##OK
+timepoint #8158 (13 AV S & S 312 ST) ##OK
+timepoint #8171 (1 AV S & SW 301 ST) ##OK
+timepoint #8177 (13 WY SW & SW 356 ST) ##OK
+timepoint #8178 (14 AV S & S 312 ST) ##OK
+timepoint #8179 (1 AV S & S 320 ST) ##OK
+timepoint #8406 (140 AV SE & SE PETROVITSKY RD) ##OK
+timepoint #8407 (116 AV SE & SE 168 ST) ##OK
+timepoint #8417 (104 AV SE & SE 240 ST) ##OK
+timepoint #8422 (104 AV SE & SE 256 ST) ##OK
+timepoint #8423 (140 AV SE & SE FAIRWOOD BLVD) ##OK
+timepoint #8424 (156 AV SE & SE FAIRWOOD BLVD) ##OK
+timepoint #8432 (108 AV SE & SE 208 ST) ##OK
+timepoint #8438 (152 AV SE & KENT/KANGLEY RD) ##OK
+timepoint #8439 (132 AV SE & SE 256 ST) ##OK
+timepoint #8441 (116 AV SE & SE 248 ST) ##OK
+timepoint #8451 (164 AV SE & SE 272 ST) ##OK
+timepoint #8452 (132 AV SE & KENT/KANGLEY RD) ##OK
+timepoint #8455 (104 AV SE & SE 248 ST) ##OK
+timepoint #8457 (132 AV SE & LK MERIDIAN P & R  S RDWY) ##OK
+timepoint #8463 (132 AV SE & SE 240 ST) ##OK
+timepoint #8464 (140 AV SE & SE 177 ST) ##OK
+timepoint #8469 (116 AV SE & SE 240 ST) ##OK
+timepoint #8756 (108 AV SE & SE 176 ST) ##OK
+timepoint #8785 (169 AV SE & SE 144 ST) ##OK
+timepoint #8854 (168 PL SE & SE 272 ST) ##OK
+timepoint #8857 (140 WY SE & SE 158 ST) ##OK
+timepoint #8868 (122 AV SE & SE 320 ST) ##OK
+timepoint #8910 (104 AV SW & SW BURTON DR) ##OK
+timepoint #9216 (15 AV NE & NE 175 ST) ##OK
+timepoint #9220 (15 AV NE & BALLINGER WAY NE) ##OK
+timepoint #9225 (10 AV NE & NE 175 ST) ##OK
+timepoint #9232 (104 AV NE & MAIN ST (BOTHELL)) ##OK
+timepoint #9406 (102 AV NE & E RIVERSIDE DR) ##OK
+timepoint #9407 (156 AV NE & NE WOODINVILLE/DUVALL RD) ##OK
+timepoint #9413 (120 AV NE & NE 180 ST) ##OK

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>routesFile</key>
+	<string>/Users/michael/Projects/SeattleLiveTransit/SLT-Aggregator/routes.txt</string>
+	<key>timepointAliasesFile</key>
+	<string>/Users/michael/Projects/SeattleLiveTransit/SLT-Aggregator/timepointaliases.plist</string>
+	<key>timepointsFile</key>
+	<string>/Users/michael/Projects/SeattleLiveTransit/SLT-Aggregator/timepoints.plist</string>
+</dict>
+</plist>

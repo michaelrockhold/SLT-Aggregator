@@ -1,0 +1,2110 @@
+MATCH: "102nd Av NE & E Riverside Dr" matches timepoint ID 9406 (102 AV NE & E RIVERSIDE DR) for route/day 238/1
+MATCH: "102nd Av NE & E Riverside Dr" matches timepoint ID 9406 (102 AV NE & E RIVERSIDE DR) for route/day 238/1
+MATCH: "104th Av SE & SE 240th" matches timepoint ID 8417 (104 AV SE & SE 240 ST) for route/day 158/0
+MATCH: "104th Av SE & SE 240th" matches timepoint ID 8417 (104 AV SE & SE 240 ST) for route/day 158/0
+MATCH: "104th Av SE & SE 240th" matches timepoint ID 8417 (104 AV SE & SE 240 ST) for route/day 162/0
+MATCH: "104th Av SE & SE 240th" matches timepoint ID 8417 (104 AV SE & SE 240 ST) for route/day 162/0
+MATCH: "104th Av SE & SE 240th" matches timepoint ID 8417 (104 AV SE & SE 240 ST) for route/day 916/0
+MATCH: "104th Av SE & SE 240th" matches timepoint ID 8417 (104 AV SE & SE 240 ST) for route/day 916/0
+MATCH: "104th Av SE & SE 240th" matches timepoint ID 8417 (104 AV SE & SE 240 ST) for route/day 916/1
+MATCH: "104th Av SE & SE 240th" matches timepoint ID 8417 (104 AV SE & SE 240 ST) for route/day 916/1
+MATCH: "104th Av SE & SE 248th" matches timepoint ID 8455 (104 AV SE & SE 248 ST) for route/day 164/0
+MATCH: "104th Av SE & SE 248th" matches timepoint ID 8455 (104 AV SE & SE 248 ST) for route/day 164/0
+MATCH: "104th Av SE & SE 248th" matches timepoint ID 8455 (104 AV SE & SE 248 ST) for route/day 168/1
+MATCH: "104th Av SE & SE 248th" matches timepoint ID 8455 (104 AV SE & SE 248 ST) for route/day 168/1
+MATCH: "104th Av SE & SE 256th" matches timepoint ID 8422 (104 AV SE & SE 256 ST) for route/day 158/0
+MATCH: "104th Av SE & SE 256th" matches timepoint ID 8422 (104 AV SE & SE 256 ST) for route/day 158/0
+MATCH: "104th Av SE & SE 256th" matches timepoint ID 8422 (104 AV SE & SE 256 ST) for route/day 162/0
+MATCH: "104th Av SE & SE 256th" matches timepoint ID 8422 (104 AV SE & SE 256 ST) for route/day 162/0
+MATCH: "104th Av SE & SE 256th" matches timepoint ID 8422 (104 AV SE & SE 256 ST) for route/day 169/0
+MATCH: "104th Av SE & SE 256th" matches timepoint ID 8422 (104 AV SE & SE 256 ST) for route/day 169/1
+MATCH: "108th Av SE & SE 176th" matches timepoint ID 8756 (108 AV SE & SE 176 ST) for route/day 169/0
+MATCH: "108th Av SE & SE 176th" matches timepoint ID 8756 (108 AV SE & SE 176 ST) for route/day 169/1
+MATCH: "108th Av SE & SE 208th" matches timepoint ID 8432 (108 AV SE & SE 208 ST) for route/day 161/0
+MATCH: "116th Av SE & SE 168th" matches timepoint ID 8407 (116 AV SE & SE 168 ST) for route/day 155/0
+MATCH: "116th Av SE & SE 168th" matches timepoint ID 8407 (116 AV SE & SE 168 ST) for route/day 155/0
+MATCH: "116th Av SE & SE 240th" matches timepoint ID 8469 (116 AV SE & SE 240 ST) for route/day 157/0
+MATCH: "116th Av SE & SE 240th" matches timepoint ID 8469 (116 AV SE & SE 240 ST) for route/day 157/0
+MATCH: "116th Av SE & SE 240th" matches timepoint ID 8469 (116 AV SE & SE 240 ST) for route/day 916/0
+MATCH: "116th Av SE & SE 240th" matches timepoint ID 8469 (116 AV SE & SE 240 ST) for route/day 916/0
+MATCH: "116th Av SE & SE 240th" matches timepoint ID 8469 (116 AV SE & SE 240 ST) for route/day 916/1
+MATCH: "116th Av SE & SE 240th" matches timepoint ID 8469 (116 AV SE & SE 240 ST) for route/day 916/1
+MATCH: "116th Av SE & SE 248th" matches timepoint ID 8441 (116 AV SE & SE 248 ST) for route/day 914/0
+MATCH: "119th Av NE & NE 160th" matches timepoint ID 7367 (119 AV NE & NE 160 ST) for route/day 252/0
+MATCH: "119th Av NE & NE 160th" matches timepoint ID 7367 (119 AV NE & NE 160 ST) for route/day 257/0
+MATCH: "119th Av SE & SE 58th" matches timepoint ID 7133 (119 AV SE & SE 58 ST) for route/day 114/0
+MATCH: "119th Av SE & SE 58th" matches timepoint ID 7133 (119 AV SE & SE 58 ST) for route/day 240/0
+MATCH: "119th Av SE & SE 58th" matches timepoint ID 7133 (119 AV SE & SE 58 ST) for route/day 240/0
+MATCH: "119th Av SE & SE 58th" matches timepoint ID 7133 (119 AV SE & SE 58 ST) for route/day 240/2
+MATCH: "119th Av SE & SE 58th" matches timepoint ID 7133 (119 AV SE & SE 58 ST) for route/day 240/2
+MATCH: "11th Av NE & NE 45th" matches timepoint ID 5928 (11 AV NE & NE 45 ST) for route/day 66/1
+MATCH: "11th Av NE & NE 47th" matches timepoint ID 5667 (11 AV NE & NE 47 ST) for route/day 271/1
+MATCH: "11th Av NE & NE 47th" matches timepoint ID 5667 (11 AV NE & NE 47 ST) for route/day 271/1
+MATCH: "11th Av NE & NE 47th" matches timepoint ID 5667 (11 AV NE & NE 47 ST) for route/day 271/2
+MATCH: "11th Av NE & NE 47th" matches timepoint ID 5667 (11 AV NE & NE 47 ST) for route/day 271/2
+MATCH: "124th Av NE & NE 137th Pl" matches timepoint ID 7047 (124 AV NE & NE 137 PL) for route/day 252/0
+MATCH: "124th Av NE & NE 137th Pl" matches timepoint ID 7047 (124 AV NE & NE 137 PL) for route/day 252/0
+MATCH: "124th Av NE & NE 137th Pl" matches timepoint ID 7047 (124 AV NE & NE 137 PL) for route/day 257/0
+MATCH: "124th Av NE & NE 137th Pl" matches timepoint ID 7047 (124 AV NE & NE 137 PL) for route/day 257/0
+MATCH: "124th Av NE & NE 144th" matches timepoint ID 7037 (124 AV NE & NE 144 ST) for route/day 252/0
+MATCH: "124th Av NE & NE 144th" matches timepoint ID 7037 (124 AV NE & NE 144 ST) for route/day 257/0
+MATCH: "12th Av S & S Jackson" matches timepoint ID 2108 (12 AV S & S JACKSON ST) for route/day 36/0
+MATCH: "12th Av S & S Jackson" matches timepoint ID 2108 (12 AV S & S JACKSON ST) for route/day 36/0
+MATCH: "12th Av S & S Jackson" matches timepoint ID 2108 (12 AV S & S JACKSON ST) for route/day 36/1
+MATCH: "12th Av S & S Jackson" matches timepoint ID 2108 (12 AV S & S JACKSON ST) for route/day 36/1
+MATCH: "12th Av S & S Jackson" matches timepoint ID 2108 (12 AV S & S JACKSON ST) for route/day 36/2
+MATCH: "12th Av S & S Jackson" matches timepoint ID 2108 (12 AV S & S JACKSON ST) for route/day 36/2
+MATCH: "12th Av S & S Jackson" matches timepoint ID 2108 (12 AV S & S JACKSON ST) for route/day 7/0
+MATCH: "12th Av S & S Jackson" matches timepoint ID 2108 (12 AV S & S JACKSON ST) for route/day 7/0
+MATCH: "132nd Av NE & NE 132nd" matches timepoint ID 7084 (132 AV NE & NE 132 ST) for route/day 252/0
+MATCH: "132nd Av NE & NE 132nd" matches timepoint ID 7084 (132 AV NE & NE 132 ST) for route/day 257/0
+MATCH: "132nd Av SE & SE 240th" matches timepoint ID 8463 (132 AV SE & SE 240 ST) for route/day 158/0
+MATCH: "132nd Av SE & SE 240th" matches timepoint ID 8463 (132 AV SE & SE 240 ST) for route/day 162/0
+MATCH: "132nd Av SE & SE 256th" matches timepoint ID 8439 (132 AV SE & SE 256 ST) for route/day 158/0
+MATCH: "132nd Av SE & SE 256th" matches timepoint ID 8439 (132 AV SE & SE 256 ST) for route/day 162/0
+MATCH: "140th Av SE & SE 177th st" matches timepoint ID 8464 (140 AV SE & SE 177 ST) for route/day 155/0
+MATCH: "140th Av SE & SE 177th" matches timepoint ID 8464 (140 AV SE & SE 177 ST) for route/day 148/0
+MATCH: "140th Av SE & SE 177th" matches timepoint ID 8464 (140 AV SE & SE 177 ST) for route/day 155/0
+MATCH: "140th Av SE & SE 177th" matches timepoint ID 8464 (140 AV SE & SE 177 ST) for route/day 155/0
+MATCH: "140th Av SE & SE 177th" matches timepoint ID 8464 (140 AV SE & SE 177 ST) for route/day 155/0
+MATCH: "148th Av NE & NE 20th" matches timepoint ID 7179 (148 AV NE & NE 20 ST) for route/day 255/0
+MATCH: "148th Av NE & NE 20th" matches timepoint ID 7179 (148 AV NE & NE 20 ST) for route/day 255/0
+MATCH: "148th Av NE & NE 20th" matches timepoint ID 7179 (148 AV NE & NE 20 ST) for route/day 256/0
+MATCH: "148th Av NE & NE 20th" matches timepoint ID 7179 (148 AV NE & NE 20 ST) for route/day 256/0
+MATCH: "14th Av NW & NW 105th" matches timepoint ID 3009 (14 AV NW & NW 105 ST) for route/day 15/2
+MATCH: "14th Av NW & NW 105th" matches timepoint ID 3009 (14 AV NW & NW 105 ST) for route/day 15/2
+MATCH: "14th Av SW & SW 160th" matches timepoint ID 8113 (14 AV SW & SW 160 ST) for route/day 123/0
+MATCH: "156th Av NE & NE 24th" matches timepoint ID 7127 (156 AV NE & NE 24 ST) for route/day 233/0
+MATCH: "156th Av NE & NE 24th" matches timepoint ID 7127 (156 AV NE & NE 24 ST) for route/day 233/0
+MATCH: "156th Av NE & NE 24th" matches timepoint ID 7127 (156 AV NE & NE 24 ST) for route/day 233/1
+MATCH: "156th Av NE & NE 24th" matches timepoint ID 7127 (156 AV NE & NE 24 ST) for route/day 233/1
+MATCH: "156th Av NE & NE 40th" matches timepoint ID 7062 (156 AV NE & NE 40 ST) for route/day 221/1
+MATCH: "156th Av NE & NE 40th" matches timepoint ID 7062 (156 AV NE & NE 40 ST) for route/day 245/0
+MATCH: "156th Av NE & NE 40th" matches timepoint ID 7062 (156 AV NE & NE 40 ST) for route/day 245/0
+MATCH: "156th Av NE & NE 40th" matches timepoint ID 7062 (156 AV NE & NE 40 ST) for route/day 247/0
+MATCH: "156th Av NE & NE 40th" matches timepoint ID 7062 (156 AV NE & NE 40 ST) for route/day 249/1
+MATCH: "156th Av NE & NE 40th" matches timepoint ID 7062 (156 AV NE & NE 40 ST) for route/day 255/0
+MATCH: "156th Av NE & NE 40th" matches timepoint ID 7062 (156 AV NE & NE 40 ST) for route/day 255/0
+MATCH: "156th Av NE & NE 40th" matches timepoint ID 7062 (156 AV NE & NE 40 ST) for route/day 256/0
+MATCH: "156th Av NE & NE 40th" matches timepoint ID 7062 (156 AV NE & NE 40 ST) for route/day 256/0
+MATCH: "156th Av NE & NE 40th" matches timepoint ID 7062 (156 AV NE & NE 40 ST) for route/day 269/0
+MATCH: "156th Av NE & NE 8th" matches timepoint ID 7106 (156 AV NE & NE 8 ST) for route/day 245/0
+MATCH: "156th Av NE & NE 8th" matches timepoint ID 7106 (156 AV NE & NE 8 ST) for route/day 245/0
+MATCH: "156th Av NE & NE 8th" matches timepoint ID 7106 (156 AV NE & NE 8 ST) for route/day 253/2
+MATCH: "15th Av E & E Galer" matches timepoint ID 1680 (15 AV E & E GALER ST) for route/day 10/2
+MATCH: "15th Av E & E Galer" matches timepoint ID 1680 (15 AV E & E GALER ST) for route/day 10/2
+MATCH: "15th Av E & E John" matches timepoint ID 1643 (15 AV E & E JOHN ST) for route/day 10/2
+MATCH: "15th Av E & E John" matches timepoint ID 1643 (15 AV E & E JOHN ST) for route/day 10/2
+MATCH: "15th Av NE & NE 125th" matches timepoint ID 3616 (15 AV NE & NE 125 ST) for route/day 348/0
+MATCH: "15th Av NE & NE 125th" matches timepoint ID 3616 (15 AV NE & NE 125 ST) for route/day 348/2
+MATCH: "15th Av NE & NE 125th" matches timepoint ID 3616 (15 AV NE & NE 125 ST) for route/day 373/0
+MATCH: "15th Av NE & NE 175th" matches timepoint ID 9216 (15 AV NE & NE 175 ST) for route/day 348/0
+MATCH: "15th Av NE & NE 175th" matches timepoint ID 9216 (15 AV NE & NE 175 ST) for route/day 348/2
+MATCH: "15th Av NE & NE 43rd" matches timepoint ID 5917 (15 AV NE & NE 43 ST) for route/day 45/0
+MATCH: "15th Av NE & NE 43rd" matches timepoint ID 5917 (15 AV NE & NE 43 ST) for route/day 45/0
+MATCH: "15th Av NE & NE 45th" matches timepoint ID 5912 (15 AV NE & NE 45 ST) for route/day 48/2
+MATCH: "15th Av NE & NE 45th" matches timepoint ID 5912 (15 AV NE & NE 45 ST) for route/day 48/2
+MATCH: "15th Av NE & NE 65th" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 48/2
+MATCH: "15th Av NE & NE 65th" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 48/2
+MATCH: "15th Av NE & NE 80th" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 373/0
+MATCH: "15th Av NW & NW 85th" matches timepoint ID 3003 (15 AV NW & NW 85 ST) for route/day 15/2
+MATCH: "15th Av NW & NW 85th" matches timepoint ID 3003 (15 AV NW & NW 85 ST) for route/day 15/2
+MATCH: "15th Av NW & NW 85th" matches timepoint ID 3003 (15 AV NW & NW 85 ST) for route/day 75/0
+MATCH: "15th Av NW & NW Market" matches timepoint ID 3004 (15 AV NW & NW MARKET ST) for route/day 15/2
+MATCH: "15th Av NW & NW Market" matches timepoint ID 3004 (15 AV NW & NW MARKET ST) for route/day 15/2
+MATCH: "15th Av SW & SW 106th" matches timepoint ID 8002 (15 AV SW & SW 106 ST) for route/day 22/2
+MATCH: "15th Av SW & SW Roxbury" matches timepoint ID 5204 (15 AV SW & SW ROXBURY ST) for route/day 22/2
+MATCH: "164th Av SE & SE 272nd" matches timepoint ID 8451 (164 AV SE & SE 272 ST) for route/day 158/0
+MATCH: "164th Av SE & SE 272nd" matches timepoint ID 8451 (164 AV SE & SE 272 ST) for route/day 158/0
+MATCH: "164th Av SE & SE 272nd" matches timepoint ID 8451 (164 AV SE & SE 272 ST) for route/day 162/0
+MATCH: "164th Av SE & SE 272nd" matches timepoint ID 8451 (164 AV SE & SE 272 ST) for route/day 162/0
+MATCH: "16th Av E & E Denny Wy" matches timepoint ID 1674 (16 AV E & E DENNY WY) for route/day 8/2
+MATCH: "16th Av E & E Denny Wy" matches timepoint ID 1674 (16 AV E & E DENNY WY) for route/day 8/2
+MATCH: "16th Av S & E Marginal Wy S" matches timepoint ID 4002 (16 AV S & E MARGINAL WY S) for route/day 124/2
+MATCH: "16th Av S & E Marginal Wy S" matches timepoint ID 4002 (16 AV S & E MARGINAL WY S) for route/day 174/1
+MATCH: "16th Av SW & SW Florida" matches timepoint ID 6015 (16 AV SW & SW FLORIDA ST) for route/day 35/0
+MATCH: "16th Av SW & SW Florida" matches timepoint ID 6015 (16 AV SW & SW FLORIDA ST) for route/day 35/0
+MATCH: "16th Av SW & SW Roxbury" matches timepoint ID 5205 (16 AV SW & SW ROXBURY ST) for route/day 120/1
+MATCH: "16th Av SW & SW Roxbury" matches timepoint ID 5205 (16 AV SW & SW ROXBURY ST) for route/day 120/1
+MATCH: "16th Av SW & SW Roxbury" matches timepoint ID 5205 (16 AV SW & SW ROXBURY ST) for route/day 120/2
+MATCH: "16th Av SW & SW Roxbury" matches timepoint ID 5205 (16 AV SW & SW ROXBURY ST) for route/day 120/2
+MATCH: "16th Av SW & SW Roxbury" matches timepoint ID 5205 (16 AV SW & SW ROXBURY ST) for route/day 125/1
+MATCH: "16th Av SW & SW Roxbury" matches timepoint ID 5205 (16 AV SW & SW ROXBURY ST) for route/day 125/1
+MATCH: "172nd Av SE & SE 272nd" matches timepoint ID 8458 (172 AV SE & SE 272 ST) for route/day 168/1
+MATCH: "172nd Av SE & SE 272nd" matches timepoint ID 8458 (172 AV SE & SE 272 ST) for route/day 168/1
+MATCH: "17th Av & E Jefferson" matches timepoint ID 2150 (17 AV & E JEFFERSON ST) for route/day 941/0
+MATCH: "192nd Av SE & SE 272nd" matches timepoint ID 8405 (192 AV SE & SE 272 ST) for route/day 158/0
+MATCH: "192nd Av SE & SE 272nd" matches timepoint ID 8405 (192 AV SE & SE 272 ST) for route/day 158/0
+MATCH: "192nd Av SE & SE 272nd" matches timepoint ID 8405 (192 AV SE & SE 272 ST) for route/day 162/0
+MATCH: "192nd Av SE & SE 272nd" matches timepoint ID 8405 (192 AV SE & SE 272 ST) for route/day 162/0
+MATCH: "228th Av NE & NE 8th" matches timepoint ID 7629 (228 AV NE & NE 8 ST) for route/day 216/0
+MATCH: "228th Av NE & NE 8th" matches timepoint ID 7629 (228 AV NE & NE 8 ST) for route/day 216/0
+MATCH: "228th Av NE & NE 8th" matches timepoint ID 7629 (228 AV NE & NE 8 ST) for route/day 269/0
+MATCH: "228th Av NE & NE 8th" matches timepoint ID 7629 (228 AV NE & NE 8 ST) for route/day 927/1
+MATCH: "228th Av NE & NE 8th" matches timepoint ID 7629 (228 AV NE & NE 8 ST) for route/day 927/1
+MATCH: "23rd Av E & E Madison" matches timepoint ID 3917 (23 AV E & E MADISON ST) for route/day 11/2
+MATCH: "23rd Av E & E Madison" matches timepoint ID 3917 (23 AV E & E MADISON ST) for route/day 11/2
+MATCH: "23rd Av E & E Madison" matches timepoint ID 3917 (23 AV E & E MADISON ST) for route/day 48/2
+MATCH: "23rd Av E & E Madison" matches timepoint ID 3917 (23 AV E & E MADISON ST) for route/day 48/2
+MATCH: "23rd Av S & S Jackson" matches timepoint ID 3922 (23 AV S & S JACKSON ST) for route/day 14/1
+MATCH: "23rd Av S & S Jackson" matches timepoint ID 3922 (23 AV S & S JACKSON ST) for route/day 14/2
+MATCH: "23rd Av S & S Jackson" matches timepoint ID 3922 (23 AV S & S JACKSON ST) for route/day 48/2
+MATCH: "23rd Av S & S Jackson" matches timepoint ID 3922 (23 AV S & S JACKSON ST) for route/day 48/2
+MATCH: "23rd Av S & S Jackson" matches timepoint ID 3922 (23 AV S & S JACKSON ST) for route/day 8/0
+MATCH: "23rd Av S & S Jackson" matches timepoint ID 3922 (23 AV S & S JACKSON ST) for route/day 8/0
+MATCH: "24th Av NW & NW 85th" matches timepoint ID 3020 (24 AV NW & NW 85 ST) for route/day 18/0
+MATCH: "25th Av NE & NE 75th" matches timepoint ID 5598 (25 AV NE & NE 75 ST) for route/day 243/0
+MATCH: "25th Av NE & NE 75th" matches timepoint ID 5598 (25 AV NE & NE 75 ST) for route/day 243/0
+MATCH: "25th Av NE & NE 75th" matches timepoint ID 5598 (25 AV NE & NE 75 ST) for route/day 68/0
+MATCH: "25th Av NE & NE 75th" matches timepoint ID 5598 (25 AV NE & NE 75 ST) for route/day 68/0
+MATCH: "25th Av NE & NE 75th" matches timepoint ID 5598 (25 AV NE & NE 75 ST) for route/day 68/1
+MATCH: "25th Av NE & NE 75th" matches timepoint ID 5598 (25 AV NE & NE 75 ST) for route/day 68/1
+MATCH: "25th Av NE & NE 80th" matches timepoint ID 5645 (25 AV NE & NE 80 ST) for route/day 986/0
+MATCH: "25th Av NE & NE 80th" matches timepoint ID 5645 (25 AV NE & NE 80 ST) for route/day 986/0
+MATCH: "25th Av NE & NE 80th" matches timepoint ID 5645 (25 AV NE & NE 80 ST) for route/day 988/0
+MATCH: "26th Av SW & SW 116th" matches timepoint ID 8035 (26 AV SW & SW 116 ST) for route/day 125/1
+MATCH: "26th Av SW & SW 116th" matches timepoint ID 8035 (26 AV SW & SW 116 ST) for route/day 125/1
+MATCH: "26th Av SW & SW Barton" matches timepoint ID 819 (26 AV SW & SW BARTON ST) for route/day 54/0
+MATCH: "28th Av W & W Blaine" matches timepoint ID 3510 (28 AV W & W BLAINE ST) for route/day 19/0
+MATCH: "28th Av W & W Blaine" matches timepoint ID 3510 (28 AV W & W BLAINE ST) for route/day 19/0
+MATCH: "28th Av W & W Blaine" matches timepoint ID 3510 (28 AV W & W BLAINE ST) for route/day 33/0
+MATCH: "28th Av W & W Blaine" matches timepoint ID 3510 (28 AV W & W BLAINE ST) for route/day 33/1
+MATCH: "2nd Av & Broad" matches timepoint ID 3526 (2 AV & BROAD ST) for route/day 19/0
+MATCH: "2nd Av & Broad" matches timepoint ID 3526 (2 AV & BROAD ST) for route/day 33/0
+MATCH: "2nd Av & Broad" matches timepoint ID 3526 (2 AV & BROAD ST) for route/day 33/1
+MATCH: "2nd Av & Marion" matches timepoint ID 208 (2 AV & MARION) for route/day 33/0
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 132/2
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 158/0
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 162/0
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 170/0
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 177/0
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 19/0
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 192/0
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 192/0
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 33/0
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 33/1
+MATCH: "2nd Av & Pike" matches timepoint ID 216 (2 AV & PIKE ST) for route/day 600/0
+MATCH: "2nd Av & University" matches timepoint ID 207 (2 AV & UNIVERSITY ST) for route/day 216/0
+MATCH: "2nd Av Ext S & S Jackson" matches timepoint ID 201 (2 AV EXT S & S JACKSON ST) for route/day 132/2
+MATCH: "2nd Av Ext S & S Jackson" matches timepoint ID 201 (2 AV EXT S & S JACKSON ST) for route/day 158/0
+MATCH: "2nd Av Ext S & S Jackson" matches timepoint ID 201 (2 AV EXT S & S JACKSON ST) for route/day 161/0
+MATCH: "2nd Av Ext S & S Jackson" matches timepoint ID 201 (2 AV EXT S & S JACKSON ST) for route/day 162/0
+MATCH: "2nd Av Ext S & S Jackson" matches timepoint ID 201 (2 AV EXT S & S JACKSON ST) for route/day 192/0
+MATCH: "2nd Av SE & Front St S" matches timepoint ID 7640 (2 AV SE & FRONT ST S) for route/day 200/0
+MATCH: "30th Av NE & NE 125th" matches timepoint ID 3623 (30 AV NE & NE 125 ST) for route/day 243/0
+MATCH: "30th Av NE & NE 125th" matches timepoint ID 3623 (30 AV NE & NE 125 ST) for route/day 243/0
+MATCH: "32nd Av NW & Loyal Way NW" matches timepoint ID 3016 (32 AV NW & LOYAL WAY NW) for route/day 48/2
+MATCH: "32nd Av NW & Loyal Way NW" matches timepoint ID 3016 (32 AV NW & LOYAL WAY NW) for route/day 48/2
+MATCH: "33rd Av & E Union" matches timepoint ID 3920 (33 AV & E UNION ST) for route/day 84/0
+MATCH: "34th Av & E Union" matches timepoint ID 3903 (34 AV & E UNION ST) for route/day 84/0
+MATCH: "34th Av W & W McGraw" matches timepoint ID 3509 (34 AV W & W MCGRAW ST) for route/day 19/0
+MATCH: "34th Av W & W McGraw" matches timepoint ID 3509 (34 AV W & W MCGRAW ST) for route/day 19/0
+MATCH: "35th Av NE & NE 195th" matches timepoint ID 9229 (35 AV NE & NE 195 ST) for route/day 308/0
+MATCH: "35th Av SW & SW 342nd" matches timepoint ID 8149 (35 AV SW & SW 342 ST) for route/day 903/0
+MATCH: "35th Av SW & SW 342nd" matches timepoint ID 8149 (35 AV SW & SW 342 ST) for route/day 903/2
+MATCH: "35th Av SW & SW Avalon Wy" matches timepoint ID 722 (35 AV SW & SW AVALON WY) for route/day 54/0
+MATCH: "36th Av S & S Atlantic" matches timepoint ID 3915 (36 AV S & S ATLANTIC ST) for route/day 27/2
+MATCH: "36th Av S & S Atlantic" matches timepoint ID 3915 (36 AV S & S ATLANTIC ST) for route/day 27/2
+MATCH: "3rd Av & Bell" matches timepoint ID 322 (3 AV & BELL ST) for route/day 122/0
+MATCH: "3rd Av & Bell" matches timepoint ID 322 (3 AV & BELL ST) for route/day 42/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 11/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 120/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 120/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 122/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 122/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 123/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 124/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 125/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 157/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 16/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 16/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 161/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 2/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 26/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 26/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 26/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 27/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 28/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 308/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 35/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 358/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 358/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 36/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 36/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 36/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 39/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 42/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 43/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 5/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 66/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 7/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 71/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 72/0
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 72/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 72/2
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 73/1
+MATCH: "3rd Av & Pike" matches timepoint ID 316 (3 AV & PIKE ST) for route/day 73/2
+MATCH: "3rd Av & Pine" matches timepoint ID 317 (3 AV & PINE ST) for route/day 120/1
+MATCH: "3rd Av & Pine" matches timepoint ID 317 (3 AV & PINE ST) for route/day 120/2
+MATCH: "3rd Av & Pine" matches timepoint ID 317 (3 AV & PINE ST) for route/day 5/2
+MATCH: "3rd Av & Pine" matches timepoint ID 317 (3 AV & PINE ST) for route/day 54/0
+MATCH: "3rd Av & Pine" matches timepoint ID 317 (3 AV & PINE ST) for route/day 7/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 114/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 123/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 124/2
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 14/1
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 14/2
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 16/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 16/2
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 2/2
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 26/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 26/1
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 26/2
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 27/2
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 28/1
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 35/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 358/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 358/1
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 36/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 36/1
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 36/2
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 39/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 39/1
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 42/2
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 66/1
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 7/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 70/0
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 71/1
+MATCH: "3rd Av & Union" matches timepoint ID 314 (3 AV & UNION ST) for route/day 84/0
+MATCH: "3rd Av & Virginia" matches timepoint ID 319 (3 AV & VIRGINIA ST) for route/day 120/1
+MATCH: "3rd Av & Virginia" matches timepoint ID 319 (3 AV & VIRGINIA ST) for route/day 120/2
+MATCH: "3rd Av S & S Main" matches timepoint ID 302 (3 AV S & S MAIN ST) for route/day 124/2
+MATCH: "3rd Av S & S Main" matches timepoint ID 302 (3 AV S & S MAIN ST) for route/day 161/0
+MATCH: "3rd Av S & S Main" matches timepoint ID 302 (3 AV S & S MAIN ST) for route/day 39/0
+MATCH: "3rd Av S & S Main" matches timepoint ID 302 (3 AV S & S MAIN ST) for route/day 39/1
+MATCH: "3rd Av S & S Main" matches timepoint ID 302 (3 AV S & S MAIN ST) for route/day 42/2
+MATCH: "42nd Av E & E McGilvra" matches timepoint ID 3912 (42 AV E & E MCGILVRA ST) for route/day 11/2
+MATCH: "42nd Av E & E McGilvra" matches timepoint ID 3912 (42 AV E & E MCGILVRA ST) for route/day 11/2
+MATCH: "42nd Av E & E McGilvra" matches timepoint ID 3912 (42 AV E & E MCGILVRA ST) for route/day 84/0
+MATCH: "42nd Av S & S 188th" matches timepoint ID 8109 (42 AV S & S 188 ST) for route/day 170/0
+MATCH: "42nd Av S & S 188th" matches timepoint ID 8109 (42 AV S & S 188 ST) for route/day 170/0
+MATCH: "45th Av NE & NE 203rd Pl" matches timepoint ID 9224 (45 AV NE & NE 203 PL) for route/day 308/0
+MATCH: "45th Av SW & SW Wildwood Pl" matches timepoint ID 764 (45 AV SW & SW WILDWOOD PL) for route/day 54/0
+MATCH: "4th Av & Lenora" matches timepoint ID 420 (4 AV & LENORA ST) for route/day 216/0
+MATCH: "4th Av & Lenora" matches timepoint ID 420 (4 AV & LENORA ST) for route/day 27/2
+MATCH: "4th Av & Lenora" matches timepoint ID 420 (4 AV & LENORA ST) for route/day 35/0
+MATCH: "4th Av & Pike" matches timepoint ID 416 (4 AV & PIKE ST) for route/day 10/2
+MATCH: "4th Av & Pike" matches timepoint ID 416 (4 AV & PIKE ST) for route/day 11/2
+MATCH: "4th Av & Pike" matches timepoint ID 416 (4 AV & PIKE ST) for route/day 125/1
+MATCH: "4th Av & Pike" matches timepoint ID 416 (4 AV & PIKE ST) for route/day 43/0
+MATCH: "4th Av & Union" matches timepoint ID 414 (4 AV & UNION ST) for route/day 202/0
+MATCH: "4th Av & Union" matches timepoint ID 414 (4 AV & UNION ST) for route/day 216/0
+MATCH: "4th Av & University" matches timepoint ID 413 (4 AV & UNIVERSITY ST) for route/day 157/0
+MATCH: "4th Av & University" matches timepoint ID 413 (4 AV & UNIVERSITY ST) for route/day 177/0
+MATCH: "4th Av & University" matches timepoint ID 413 (4 AV & UNIVERSITY ST) for route/day 19/0
+MATCH: "4th Av & University" matches timepoint ID 413 (4 AV & UNIVERSITY ST) for route/day 192/0
+MATCH: "4th Av & University" matches timepoint ID 413 (4 AV & UNIVERSITY ST) for route/day 280/0
+MATCH: "4th Av & University" matches timepoint ID 413 (4 AV & UNIVERSITY ST) for route/day 33/1
+MATCH: "4th Av & University" matches timepoint ID 413 (4 AV & UNIVERSITY ST) for route/day 600/0
+MATCH: "4th Av N & Mercer" matches timepoint ID 4364 (4 AV N & MERCER ST) for route/day 45/0
+MATCH: "4th Av S & S Front" matches timepoint ID 4043 (4 AV S & S FRONT ST) for route/day 123/0
+MATCH: "4th Av S & S Jackson" matches timepoint ID 401 (4 AV S & S JACKSON ST) for route/day 132/2
+MATCH: "4th Av S & S Jackson" matches timepoint ID 401 (4 AV S & S JACKSON ST) for route/day 170/0
+MATCH: "4th Av S & S Jackson" matches timepoint ID 401 (4 AV S & S JACKSON ST) for route/day 177/0
+MATCH: "4th Av S & S Jackson" matches timepoint ID 401 (4 AV S & S JACKSON ST) for route/day 19/0
+MATCH: "4th Av S & S Jackson" matches timepoint ID 401 (4 AV S & S JACKSON ST) for route/day 202/0
+MATCH: "4th Av S & S Jackson" matches timepoint ID 401 (4 AV S & S JACKSON ST) for route/day 280/0
+MATCH: "4th Av S & S Washington" matches timepoint ID 403 (4 AV S & S WASHINGTON ST) for route/day 33/1
+MATCH: "4th St NE & M St NE" matches timepoint ID 8822 (M ST NE & 4 ST NE) for route/day 181/1
+MATCH: "4th St NE & M St NE" matches timepoint ID 8822 (M ST NE & 4 ST NE) for route/day 181/1
+MATCH: "53rd Av S & S Leo" matches timepoint ID 5213 (53 AV S & S LEO ST) for route/day 42/2
+MATCH: "53rd Av S & S Leo" matches timepoint ID 5213 (53 AV S & S LEO ST) for route/day 42/2
+MATCH: "5th Av & Pike" matches timepoint ID 516 (5 AV & PIKE ST) for route/day 252/0
+MATCH: "5th Av & Pike" matches timepoint ID 516 (5 AV & PIKE ST) for route/day 257/0
+MATCH: "5th Av & Pine" matches timepoint ID 517 (5 AV & PINE ST) for route/day 125/1
+MATCH: "5th Av & Terrace" matches timepoint ID 505 (5 AV & TERRACE ST) for route/day 308/0
+MATCH: "5th Av N & Broad" matches timepoint ID 4355 (5 AV N & BROAD ST) for route/day 16/0
+MATCH: "5th Av N & Broad" matches timepoint ID 4355 (5 AV N & BROAD ST) for route/day 16/0
+MATCH: "5th Av N & Broad" matches timepoint ID 4355 (5 AV N & BROAD ST) for route/day 16/2
+MATCH: "5th Av N & Broad" matches timepoint ID 4355 (5 AV N & BROAD ST) for route/day 16/2
+MATCH: "5th Av NE & NE 145th" matches timepoint ID 3617 (5 AV NE & NE 145 ST) for route/day 243/0
+MATCH: "5th Av NE & NE 148th" matches timepoint ID 3647 (5 AV NE & NE 148 ST) for route/day 243/0
+MATCH: "5th Av NE & NE 165th" matches timepoint ID 9215 (5 AV NE & NE 165 ST) for route/day 242/0
+MATCH: "5th Av NE & NE 165th" matches timepoint ID 9215 (5 AV NE & NE 165 ST) for route/day 348/0
+MATCH: "5th Av NE & NE 165th" matches timepoint ID 9215 (5 AV NE & NE 165 ST) for route/day 348/2
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 14/1
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 14/2
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 216/0
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 252/0
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 252/0
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 257/0
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 257/0
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 358/0
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 358/1
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 36/0
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 36/0
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 36/1
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 36/1
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 36/2
+MATCH: "5th Av S & S Jackson" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 36/2
+MATCH: "62nd Av S & S Prentice" matches timepoint ID 5216 (62 AV S & S PRENTICE ST) for route/day 7/0
+MATCH: "68th Av S & S 204th" matches timepoint ID 8443 (68 AV S & S 204 ST) for route/day 247/0
+MATCH: "6th Av & Lenora" matches timepoint ID 620 (6 AV & LENORA ST) for route/day 36/0
+MATCH: "6th Av & Lenora" matches timepoint ID 620 (6 AV & LENORA ST) for route/day 36/0
+MATCH: "6th Av & Lenora" matches timepoint ID 620 (6 AV & LENORA ST) for route/day 36/1
+MATCH: "6th Av & Lenora" matches timepoint ID 620 (6 AV & LENORA ST) for route/day 36/1
+MATCH: "6th Av & Lenora" matches timepoint ID 620 (6 AV & LENORA ST) for route/day 36/2
+MATCH: "6th Av & Lenora" matches timepoint ID 620 (6 AV & LENORA ST) for route/day 36/2
+MATCH: "6th Av S & S Atlantic" matches timepoint ID 4038 (6 AV S & S ATLANTIC ST) for route/day 84/0
+MATCH: "7th Av W & W Raye" matches timepoint ID 4323 (7 AV W & W RAYE ST) for route/day 2/2
+MATCH: "7th Av W & W Raye" matches timepoint ID 4323 (7 AV W & W RAYE ST) for route/day 2/2
+MATCH: "80th Av SE & N Mercer Wy" matches timepoint ID 7526 (80 AV SE & N MERCER WY) for route/day 981/0
+MATCH: "8th Av NW & NW 85th" matches timepoint ID 3005 (8 AV NW & NW 85 ST) for route/day 28/1
+MATCH: "8th Av NW & NW 85th" matches timepoint ID 3005 (8 AV NW & NW 85 ST) for route/day 28/1
+MATCH: "8th Av NW & NW 85th" matches timepoint ID 3005 (8 AV NW & NW 85 ST) for route/day 28/1
+MATCH: "8th Av NW & NW 85th" matches timepoint ID 3005 (8 AV NW & NW 85 ST) for route/day 28/1
+MATCH: "8th Av NW & NW Market" matches timepoint ID 3021 (8 AV NW & NW MARKET ST) for route/day 28/1
+MATCH: "8th Av NW & NW Market" matches timepoint ID 3021 (8 AV NW & NW MARKET ST) for route/day 28/1
+MATCH: "8th Av NW & NW Market" matches timepoint ID 3021 (8 AV NW & NW MARKET ST) for route/day 28/1
+MATCH: "8th Av NW & NW Market" matches timepoint ID 3021 (8 AV NW & NW MARKET ST) for route/day 28/1
+MATCH: "8th Av S & S Kenyon" matches timepoint ID 4016 (8 AV S & S KENYON ST) for route/day 132/2
+MATCH: "8th Av S & S Kenyon" matches timepoint ID 4016 (8 AV S & S KENYON ST) for route/day 132/2
+MATCH: "8th Av S & S King" matches timepoint ID 2642 (8 AV S & S KING ST) for route/day 99/0
+MATCH: "8th Av S & S King" matches timepoint ID 2642 (8 AV S & S KING ST) for route/day 99/0
+MATCH: "8th Av S & S King" matches timepoint ID 2642 (8 AV S & S KING ST) for route/day 99/2
+MATCH: "8th Av S & S King" matches timepoint ID 2642 (8 AV S & S KING ST) for route/day 99/2
+MATCH: "98th Av NE & NE 116th" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 236/0
+MATCH: "98th Av NE & NE 116th" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 236/0
+MATCH: "98th Av NE & NE 116th" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 236/1
+MATCH: "98th Av NE & NE 116th" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 236/1
+MATCH: "98th Av NE & NE 116th" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 255/0
+MATCH: "98th Av NE & NE 116th" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 255/0
+MATCH: "98th Av NE & NE 116th" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 255/1
+MATCH: "98th Av NE & NE 116th" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 255/1
+MATCH: "98th Av NE & NE 116th" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 256/0
+MATCH: "98th Av NE & NE 116th" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 256/0
+MATCH: "98th Av NE & NE 23rd" matches timepoint ID 7115 (98 AV NE & NE 23 ST) for route/day 240/0
+MATCH: "98th Av NE & NE 23rd" matches timepoint ID 7115 (98 AV NE & NE 23 ST) for route/day 240/0
+MATCH: "98th Av NE & NE 23rd" matches timepoint ID 7115 (98 AV NE & NE 23 ST) for route/day 240/2
+MATCH: "98th Av NE & NE 23rd" matches timepoint ID 7115 (98 AV NE & NE 23 ST) for route/day 240/2
+MATCH: "9th Av & Seneca" matches timepoint ID 2128 (9 AV & SENECA ST) for route/day 941/0
+MATCH: "9th Av & Spring" matches timepoint ID 2163 (9 AV & SPRING ST) for route/day 941/0
+MATCH: "9th Av & Stewart" matches timepoint ID 1623 (9 AV & STEWART ST) for route/day 308/0
+MATCH: "9th Av & Stewart" matches timepoint ID 1623 (9 AV & STEWART ST) for route/day 77/0
+MATCH: "9th Av S & S 348th" matches timepoint ID 8196 (9 AV S & S 348 ST) for route/day 182/1
+MATCH: "9th Av S & S 348th" matches timepoint ID 8196 (9 AV S & S 348 ST) for route/day 182/1
+MATCH: "Ambaum Blvd SW & SW 128th" matches timepoint ID 8020 (AMBAUM BLVD SW & SW 128 ST) for route/day 120/1
+MATCH: "Ambaum Blvd SW & SW 128th" matches timepoint ID 8020 (AMBAUM BLVD SW & SW 128 ST) for route/day 120/1
+MATCH: "Ambaum Blvd SW & SW 128th" matches timepoint ID 8020 (AMBAUM BLVD SW & SW 128 ST) for route/day 120/2
+MATCH: "Ambaum Blvd SW & SW 128th" matches timepoint ID 8020 (AMBAUM BLVD SW & SW 128 ST) for route/day 120/2
+MATCH: "Aurora Av N & N 105th" matches timepoint ID 1183 (AURORA AV N & N 105 ST) for route/day 75/0
+MATCH: "Aurora Av N & N 105th" matches timepoint ID 1183 (AURORA AV N & N 105 ST) for route/day 75/0
+MATCH: "Aurora Av N & N 145th" matches timepoint ID 3604 (AURORA AV N & N 145 ST) for route/day 28/1
+MATCH: "Aurora Av N & N 145th" matches timepoint ID 3604 (AURORA AV N & N 145 ST) for route/day 358/0
+MATCH: "Aurora Av N & N 145th" matches timepoint ID 3604 (AURORA AV N & N 145 ST) for route/day 358/0
+MATCH: "Aurora Av N & N 145th" matches timepoint ID 3604 (AURORA AV N & N 145 ST) for route/day 358/1
+MATCH: "Aurora Av N & N 145th" matches timepoint ID 3604 (AURORA AV N & N 145 ST) for route/day 358/1
+MATCH: "Aurora Av N & N 85th" matches timepoint ID 1119 (AURORA AV N & N 85 ST) for route/day 358/0
+MATCH: "Aurora Av N & N 85th" matches timepoint ID 1119 (AURORA AV N & N 85 ST) for route/day 358/1
+MATCH: "Beacon Av S & 15th Av S" matches timepoint ID 2506 (15 AV S & BEACON AV S) for route/day 36/0
+MATCH: "Beacon Av S & 15th Av S" matches timepoint ID 2506 (15 AV S & BEACON AV S) for route/day 36/0
+MATCH: "Beacon Av S & 15th Av S" matches timepoint ID 2506 (15 AV S & BEACON AV S) for route/day 36/1
+MATCH: "Beacon Av S & 15th Av S" matches timepoint ID 2506 (15 AV S & BEACON AV S) for route/day 36/1
+MATCH: "Beacon Av S & 15th Av S" matches timepoint ID 2506 (15 AV S & BEACON AV S) for route/day 36/2
+MATCH: "Beacon Av S & 15th Av S" matches timepoint ID 2506 (15 AV S & BEACON AV S) for route/day 36/2
+MATCH: "Beacon Av S & S Dawson" matches timepoint ID 2603 (BEACON AV S & S DAWSON ST) for route/day 36/0
+MATCH: "Beacon Av S & S Dawson" matches timepoint ID 2603 (BEACON AV S & S DAWSON ST) for route/day 36/0
+MATCH: "Beacon Av S & S Dawson" matches timepoint ID 2603 (BEACON AV S & S DAWSON ST) for route/day 36/1
+MATCH: "Beacon Av S & S Dawson" matches timepoint ID 2603 (BEACON AV S & S DAWSON ST) for route/day 36/1
+MATCH: "Beacon Av S & S Dawson" matches timepoint ID 2603 (BEACON AV S & S DAWSON ST) for route/day 36/2
+MATCH: "Beacon Av S & S Dawson" matches timepoint ID 2603 (BEACON AV S & S DAWSON ST) for route/day 36/2
+MATCH: "Beacon Av S & S Leo" matches timepoint ID 5212 (BEACON AV S & S LEO ST) for route/day 42/2
+MATCH: "Beacon Av S & S Leo" matches timepoint ID 5212 (BEACON AV S & S LEO ST) for route/day 42/2
+MATCH: "Beacon Av S & S Myrtle" matches timepoint ID 2513 (BEACON AV S & S MYRTLE ST) for route/day 36/0
+MATCH: "Beacon Av S & S Myrtle" matches timepoint ID 2513 (BEACON AV S & S MYRTLE ST) for route/day 36/1
+MATCH: "Beacon Av S & S Myrtle" matches timepoint ID 2513 (BEACON AV S & S MYRTLE ST) for route/day 36/2
+MATCH: "Bell & 4th Av" matches timepoint ID 422 (4 AV & BELL ST) for route/day 202/0
+MATCH: "Boeing Everett Gate E-77" matches timepoint ID 9811 (BOEING EVERETT GATE E-77) for route/day 952/0
+MATCH: "Boeing Everett Gate E-77" matches timepoint ID 9811 (BOEING EVERETT GATE E-77) for route/day 952/0
+MATCH: "Boren Av & Madison" matches timepoint ID 2113 (BOREN AV & MADISON ST) for route/day 205/0
+MATCH: "Boren Av & Madison" matches timepoint ID 2113 (BOREN AV & MADISON ST) for route/day 941/0
+MATCH: "Boren Av & Madison" matches timepoint ID 2113 (BOREN AV & MADISON ST) for route/day 941/0
+MATCH: "Broadway & E Pine" matches timepoint ID 1608 (BROADWAY & E PINE ST) for route/day 10/2
+MATCH: "Broadway & E Pine" matches timepoint ID 1608 (BROADWAY & E PINE ST) for route/day 10/2
+MATCH: "Broadway & E Pine" matches timepoint ID 1608 (BROADWAY & E PINE ST) for route/day 11/2
+MATCH: "Broadway & E Pine" matches timepoint ID 1608 (BROADWAY & E PINE ST) for route/day 11/2
+MATCH: "Broadway & E Union" matches timepoint ID 2121 (BROADWAY & E UNION ST) for route/day 2/2
+MATCH: "Broadway & E Union" matches timepoint ID 2121 (BROADWAY & E UNION ST) for route/day 2/2
+MATCH: "Broadway E & E John" matches timepoint ID 1627 (BROADWAY E & E JOHN ST) for route/day 43/0
+MATCH: "Broadway E & E John" matches timepoint ID 1627 (BROADWAY E & E JOHN ST) for route/day 43/0
+MATCH: "C St SW & 15th St SW" matches timepoint ID 8806 (C ST SW & 15 ST SW) for route/day 917/0
+MATCH: "C St SW & 15th St SW" matches timepoint ID 8806 (C ST SW & 15 ST SW) for route/day 917/0
+MATCH: "C St SW & 15th St SW" matches timepoint ID 8806 (C ST SW & 15 ST SW) for route/day 917/1
+MATCH: "C St SW & 15th St SW" matches timepoint ID 8806 (C ST SW & 15 ST SW) for route/day 917/1
+MATCH: "Chelan Av SW & SW Spokane" matches timepoint ID 704 (CHELAN AV SW & SW SPOKANE ST) for route/day 125/1
+MATCH: "Chelan Av SW & SW Spokane" matches timepoint ID 704 (CHELAN AV SW & SW SPOKANE ST) for route/day 125/1
+MATCH: "Coal Creek Pkwy SE & 119th Av SE" matches timepoint ID 7110 (119 AV SE & COAL CREEK PKWY SE) for route/day 114/0
+MATCH: "Dexter Av N & Republican" matches timepoint ID 4318 (DEXTER AV N & REPUBLICAN ST) for route/day 26/0
+MATCH: "Dexter Av N & Republican" matches timepoint ID 4318 (DEXTER AV N & REPUBLICAN ST) for route/day 26/0
+MATCH: "Dexter Av N & Republican" matches timepoint ID 4318 (DEXTER AV N & REPUBLICAN ST) for route/day 26/1
+MATCH: "Dexter Av N & Republican" matches timepoint ID 4318 (DEXTER AV N & REPUBLICAN ST) for route/day 26/1
+MATCH: "Dexter Av N & Republican" matches timepoint ID 4318 (DEXTER AV N & REPUBLICAN ST) for route/day 26/2
+MATCH: "Dexter Av N & Republican" matches timepoint ID 4318 (DEXTER AV N & REPUBLICAN ST) for route/day 26/2
+MATCH: "Dexter Av N & Republican" matches timepoint ID 4318 (DEXTER AV N & REPUBLICAN ST) for route/day 28/1
+MATCH: "Dexter Av N & Republican" matches timepoint ID 4318 (DEXTER AV N & REPUBLICAN ST) for route/day 28/1
+MATCH: "E John & Broadway E" matches timepoint ID 1627 (BROADWAY E & E JOHN ST) for route/day 8/0
+MATCH: "E John & Broadway E" matches timepoint ID 1627 (BROADWAY E & E JOHN ST) for route/day 8/0
+MATCH: "E John & Broadway E" matches timepoint ID 1627 (BROADWAY E & E JOHN ST) for route/day 8/2
+MATCH: "E John & Broadway E" matches timepoint ID 1627 (BROADWAY E & E JOHN ST) for route/day 8/2
+MATCH: "Eastlake Av E & Harvard Av E" matches timepoint ID 5906 (EASTLAKE AV E & HARVARD AV E) for route/day 70/0
+MATCH: "Factory Stores of North Bend" matches timepoint ID 7634 (FACTORY STORES OF NORTH BEND) for route/day 209/0
+MATCH: "Factory Stores of North Bend" matches timepoint ID 7634 (FACTORY STORES OF NORTH BEND) for route/day 209/1
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 26/0
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 26/0
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 26/1
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 26/1
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 26/2
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 26/2
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 28/1
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 28/1
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 28/1
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 28/1
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 30/2
+MATCH: "Fremont Av N & N 34th" matches timepoint ID 1124 (FREMONT AV N & N 34 ST) for route/day 30/2
+MATCH: "Garden Av N & N Park Dr" matches timepoint ID 8727 (GARDEN AV N & N PARK DR) for route/day 240/0
+MATCH: "Greenwood Av N & N 85th" matches timepoint ID 1116 (GREENWOOD AV N & N 85 ST) for route/day 48/2
+MATCH: "Greenwood Av N & N 85th" matches timepoint ID 1116 (GREENWOOD AV N & N 85 ST) for route/day 48/2
+MATCH: "Harrington Av NE & NE 16th" matches timepoint ID 8778 (HARRINGTON AV NE & NE 16 ST) for route/day 105/0
+MATCH: "Harrington Av NE & NE 16th" matches timepoint ID 8778 (HARRINGTON AV NE & NE 16 ST) for route/day 105/2
+MATCH: "Highline Community College" matches timepoint ID 8102 (HIGHLINE COMMUNITY COLLEGE) for route/day 122/0
+MATCH: "Highline Community College" matches timepoint ID 8102 (HIGHLINE COMMUNITY COLLEGE) for route/day 122/0
+MATCH: "Highline Community College" matches timepoint ID 8102 (HIGHLINE COMMUNITY COLLEGE) for route/day 132/2
+MATCH: "Highline Community College" matches timepoint ID 8102 (HIGHLINE COMMUNITY COLLEGE) for route/day 132/2
+MATCH: "Howell & 9th Av" matches timepoint ID 1628 (9 AV & HOWELL ST) for route/day 114/0
+MATCH: "International Blvd & S 160th" matches timepoint ID 8012 (INTERNATIONAL BLVD & S 160 ST) for route/day 170/0
+MATCH: "International Blvd & S 160th" matches timepoint ID 8012 (INTERNATIONAL BLVD & S 160 ST) for route/day 170/0
+MATCH: "International Blvd & S 160th" matches timepoint ID 8012 (INTERNATIONAL BLVD & S 160 ST) for route/day 174/1
+MATCH: "Issaquah Community Center" matches timepoint ID 7607 (ISSAQUAH COMMUNITY CENTER) for route/day 200/0
+MATCH: "Issaquah Community Center" matches timepoint ID 7607 (ISSAQUAH COMMUNITY CENTER) for route/day 200/0
+MATCH: "Kent City Hall" matches timepoint ID 8467 (KENT CITY HALL) for route/day 914/0
+MATCH: "Kent City Hall" matches timepoint ID 8467 (KENT CITY HALL) for route/day 916/0
+MATCH: "Kent City Hall" matches timepoint ID 8467 (KENT CITY HALL) for route/day 916/1
+MATCH: "King County Airport" matches timepoint ID 2524 (KING COUNTY AIRPORT) for route/day 170/0
+MATCH: "King County Airport" matches timepoint ID 2524 (KING COUNTY AIRPORT) for route/day 170/0
+MATCH: "Lake City Wy NE & NE 125th" matches timepoint ID 3624 (LAKE CITY WY NE & NE 125 ST) for route/day 72/0
+MATCH: "Lake City Wy NE & NE 125th" matches timepoint ID 3624 (LAKE CITY WY NE & NE 125 ST) for route/day 72/1
+MATCH: "Lake City Wy NE & NE 125th" matches timepoint ID 3624 (LAKE CITY WY NE & NE 125 ST) for route/day 72/2
+MATCH: "Lake City Wy NE & NE 125th" matches timepoint ID 3624 (LAKE CITY WY NE & NE 125 ST) for route/day 75/0
+MATCH: "Latona Av NE & NE 45th" matches timepoint ID 1132 (LATONA AV NE & NE 45 ST) for route/day 26/0
+MATCH: "Latona Av NE & NE 45th" matches timepoint ID 1132 (LATONA AV NE & NE 45 ST) for route/day 26/1
+MATCH: "Latona Av NE & NE 45th" matches timepoint ID 1132 (LATONA AV NE & NE 45 ST) for route/day 26/2
+MATCH: "Leary Av NW & NW Vernon Pl" matches timepoint ID 3017 (LEARY AV NW & NW VERNON PL) for route/day 75/0
+MATCH: "Lenora & 4th Av" matches timepoint ID 420 (4 AV & LENORA ST) for route/day 170/0
+MATCH: "Lenora & 6th Av" matches timepoint ID 620 (6 AV & LENORA ST) for route/day 157/0
+MATCH: "Lenora & 6th Av" matches timepoint ID 620 (6 AV & LENORA ST) for route/day 161/0
+MATCH: "Madison & 2nd Av" matches timepoint ID 206 (2 AV & MADISON ST) for route/day 10/2
+MATCH: "Magnolia Blvd W & W Emerson" matches timepoint ID 3522 (MAGNOLIA BLVD W & W EMERSON ST) for route/day 19/0
+MATCH: "Marion & 2nd Av" matches timepoint ID 208 (2 AV & MARION) for route/day 10/2
+MATCH: "Market St SW & 15th St SW" matches timepoint ID 8819 (MARKET ST SW & 15 ST SW) for route/day 181/1
+MATCH: "Market St SW & 15th St SW" matches timepoint ID 8819 (MARKET ST SW & 15 ST SW) for route/day 181/1
+MATCH: "N 175th & Meridian Av N" matches timepoint ID 9014 (MERIDIAN AV N & N 175 ST) for route/day 373/0
+MATCH: "N 175th & Meridian Av N" matches timepoint ID 9014 (MERIDIAN AV N & N 175 ST) for route/day 373/0
+MATCH: "N 185th & Aurora Av N" matches timepoint ID 9026 (AURORA AV N & N 185 ST) for route/day 348/0
+MATCH: "N 185th & Aurora Av N" matches timepoint ID 9026 (AURORA AV N & N 185 ST) for route/day 348/2
+MATCH: "N 46th & Phinney Av N" matches timepoint ID 1121 (PHINNEY AV N & N 46 ST) for route/day 44/2
+MATCH: "N 46th & Phinney Av N" matches timepoint ID 1121 (PHINNEY AV N & N 46 ST) for route/day 44/2
+MATCH: "NE 116th & 98th Av NE" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 935/0
+MATCH: "NE 116th & 98th Av NE" matches timepoint ID 7001 (98 AV NE & NE 116 ST) for route/day 935/0
+MATCH: "NE 120th & 132nd Av NE" matches timepoint ID 7233 (132 AV NE & NE 120 ST) for route/day 238/1
+MATCH: "NE 120th & 132nd Av NE" matches timepoint ID 7233 (132 AV NE & NE 120 ST) for route/day 238/1
+MATCH: "NE 124th Wy & 172nd Av NE" matches timepoint ID 7095 (172 AV NE & NE 124 WY) for route/day 251/0
+MATCH: "NE 124th Wy & 172nd Av NE" matches timepoint ID 7095 (172 AV NE & NE 124 WY) for route/day 251/1
+MATCH: "NE 125th & 15th Av NE" matches timepoint ID 3616 (15 AV NE & NE 125 ST) for route/day 73/1
+MATCH: "NE 125th & 15th Av NE" matches timepoint ID 3616 (15 AV NE & NE 125 ST) for route/day 73/1
+MATCH: "NE 125th & 15th Av NE" matches timepoint ID 3616 (15 AV NE & NE 125 ST) for route/day 73/2
+MATCH: "NE 125th & 15th Av NE" matches timepoint ID 3616 (15 AV NE & NE 125 ST) for route/day 73/2
+MATCH: "NE 125th & 15th Av NE" matches timepoint ID 3616 (15 AV NE & NE 125 ST) for route/day 77/0
+MATCH: "NE 125th & 15th Av NE" matches timepoint ID 3616 (15 AV NE & NE 125 ST) for route/day 77/0
+MATCH: "NE 128th & 120th Av NE" matches timepoint ID 7007 (120 AV NE & NE 128 ST) for route/day 236/0
+MATCH: "NE 128th & 120th Av NE" matches timepoint ID 7007 (120 AV NE & NE 128 ST) for route/day 236/0
+MATCH: "NE 128th & 120th Av NE" matches timepoint ID 7007 (120 AV NE & NE 128 ST) for route/day 236/1
+MATCH: "NE 128th & 120th Av NE" matches timepoint ID 7007 (120 AV NE & NE 128 ST) for route/day 238/1
+MATCH: "NE 128th & 120th Av NE" matches timepoint ID 7007 (120 AV NE & NE 128 ST) for route/day 238/1
+MATCH: "NE 130th & 35th Av NE" matches timepoint ID 3661 (35 AV NE & NE 130 ST) for route/day 72/0
+MATCH: "NE 130th & 35th Av NE" matches timepoint ID 3661 (35 AV NE & NE 130 ST) for route/day 72/1
+MATCH: "NE 130th & 35th Av NE" matches timepoint ID 3661 (35 AV NE & NE 130 ST) for route/day 72/2
+MATCH: "NE 132nd & 132nd Av NE" matches timepoint ID 7084 (132 AV NE & NE 132 ST) for route/day 236/0
+MATCH: "NE 132nd & 132nd Av NE" matches timepoint ID 7084 (132 AV NE & NE 132 ST) for route/day 236/0
+MATCH: "NE 132nd & 132nd Av NE" matches timepoint ID 7084 (132 AV NE & NE 132 ST) for route/day 236/1
+MATCH: "NE 132nd & 132nd Av NE" matches timepoint ID 7084 (132 AV NE & NE 132 ST) for route/day 236/1
+MATCH: "NE 136th & 17th Av NE" matches timepoint ID 3621 (17 AV NE & NE 136 ST) for route/day 73/1
+MATCH: "NE 136th & 17th Av NE" matches timepoint ID 3621 (17 AV NE & NE 136 ST) for route/day 73/1
+MATCH: "NE 136th & 17th Av NE" matches timepoint ID 3621 (17 AV NE & NE 136 ST) for route/day 73/2
+MATCH: "NE 136th & 17th Av NE" matches timepoint ID 3621 (17 AV NE & NE 136 ST) for route/day 73/2
+MATCH: "NE 145th & 15th Av NE" matches timepoint ID 3618 (15 AV NE & NE 145 ST) for route/day 373/0
+MATCH: "NE 175th & 10th Av NE" matches timepoint ID 9225 (10 AV NE & NE 175 ST) for route/day 77/0
+MATCH: "NE 175th & 10th Av NE" matches timepoint ID 9225 (10 AV NE & NE 175 ST) for route/day 77/0
+MATCH: "NE 4th & Duvall Av NE" matches timepoint ID 8777 (DUVALL AV NE & NE 4 ST) for route/day 908/1
+MATCH: "NE 4th & Union Av NE" matches timepoint ID 8714 (UNION AV NE & NE 4 ST) for route/day 105/0
+MATCH: "NE 4th & Union Av NE" matches timepoint ID 8714 (UNION AV NE & NE 4 ST) for route/day 105/0
+MATCH: "NE 4th & Union Av NE" matches timepoint ID 8714 (UNION AV NE & NE 4 ST) for route/day 105/2
+MATCH: "NE 4th & Union Av NE" matches timepoint ID 8714 (UNION AV NE & NE 4 ST) for route/day 105/2
+MATCH: "NE 4th & Union Av NE" matches timepoint ID 8714 (UNION AV NE & NE 4 ST) for route/day 908/1
+MATCH: "NE 50th & Brooklyn Av NE" matches timepoint ID 5524 (BROOKLYN AV NE & NE 50 ST) for route/day 70/0
+MATCH: "NE 55th & 35th Av NE" matches timepoint ID 5518 (35 AV NE & NE 55 ST) for route/day 30/2
+MATCH: "NE 55th & 35th Av NE" matches timepoint ID 5518 (35 AV NE & NE 55 ST) for route/day 30/2
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 71/1
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 71/1
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 72/0
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 72/0
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 72/1
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 72/1
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 72/2
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 72/2
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 73/1
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 73/1
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 73/2
+MATCH: "NE 65th & 15th Av NE" matches timepoint ID 5506 (15 AV NE & NE 65 ST) for route/day 73/2
+MATCH: "NE 65th & 35th Av NE" matches timepoint ID 5519 (35 AV NE & NE 65 ST) for route/day 71/1
+MATCH: "NE 65th & 35th Av NE" matches timepoint ID 5519 (35 AV NE & NE 65 ST) for route/day 71/1
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 72/0
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 72/0
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 72/1
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 72/1
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 72/2
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 72/2
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 73/1
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 73/1
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 73/2
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 73/2
+MATCH: "NE 80th & 15th Av NE" matches timepoint ID 5517 (15 AV NE & NE 80 ST) for route/day 77/0
+MATCH: "NE 85th & 15th Av NE" matches timepoint ID 5505 (15 AV NE & NE 85 ST) for route/day 77/0
+MATCH: "NE 85th & 35th Av NE" matches timepoint ID 5522 (35 AV NE & NE 85 ST) for route/day 71/1
+MATCH: "NE 85th & 35th Av NE" matches timepoint ID 5522 (35 AV NE & NE 85 ST) for route/day 71/1
+MATCH: "NE Pacific & NE Pacific Pl" matches timepoint ID 5925 (NE PACIFIC PL & NE PACIFIC ST) for route/day 205/0
+MATCH: "NE Pacific & NE Pacific Pl" matches timepoint ID 5925 (NE PACIFIC PL & NE PACIFIC ST) for route/day 205/0
+MATCH: "NW 54th & 32nd Av NW" matches timepoint ID 3014 (32 AV NW & NW 54 ST) for route/day 44/2
+MATCH: "NW 54th & 32nd Av NW" matches timepoint ID 3014 (32 AV NW & NW 54 ST) for route/day 44/2
+MATCH: "Pacific Hwy S & S 272nd" matches timepoint ID 8133 (PACIFIC HWY S & S 272 ST) for route/day 174/1
+MATCH: "Pacific Hwy S & S 276th" matches timepoint ID 8198 (PACIFIC HWY S & S 276 ST) for route/day 190/0
+MATCH: "Pacific Hwy S & S 308th" matches timepoint ID 8172 (PACIFIC HWY S & S 308 ST) for route/day 901/0
+MATCH: "Pacific Hwy S & S 308th" matches timepoint ID 8172 (PACIFIC HWY S & S 308 ST) for route/day 901/2
+MATCH: "Pacific Hwy S & S 312th" matches timepoint ID 8106 (PACIFIC HWY S & S 312 ST) for route/day 901/0
+MATCH: "Pacific Hwy S & S 312th" matches timepoint ID 8106 (PACIFIC HWY S & S 312 ST) for route/day 901/2
+MATCH: "Park Av N & N 8th" matches timepoint ID 8703 (PARK AV N & N 8 ST) for route/day 240/0
+MATCH: "Park Av N & N 8th" matches timepoint ID 8703 (PARK AV N & N 8 ST) for route/day 240/2
+MATCH: "Park Av N & N 8th" matches timepoint ID 8703 (PARK AV N & N 8 ST) for route/day 240/2
+MATCH: "Pine & 9th Av" matches timepoint ID 1660 (9 AV & PINE ST) for route/day 14/1
+MATCH: "Pine & 9th Av" matches timepoint ID 1660 (9 AV & PINE ST) for route/day 14/2
+MATCH: "Pine & 9th Av" matches timepoint ID 1660 (9 AV & PINE ST) for route/day 150/1
+MATCH: "Pine & 9th Av" matches timepoint ID 1660 (9 AV & PINE ST) for route/day 150/2
+MATCH: "Queen Anne Av N & Boston" matches timepoint ID 4302 (QUEEN ANNE AV N & BOSTON ST) for route/day 45/0
+MATCH: "Queen Anne Av N & Boston" matches timepoint ID 4302 (QUEEN ANNE AV N & BOSTON ST) for route/day 45/0
+MATCH: "Queen Anne Av N & Mercer" matches timepoint ID 4313 (QUEEN ANNE AV N & MERCER ST) for route/day 15/2
+MATCH: "Queen Anne Av N & Mercer" matches timepoint ID 4313 (QUEEN ANNE AV N & MERCER ST) for route/day 15/2
+MATCH: "Queen Anne Av N & Mercer" matches timepoint ID 4313 (QUEEN ANNE AV N & MERCER ST) for route/day 2/2
+MATCH: "Rainier Av S & S Genesee" matches timepoint ID 4714 (RAINIER AV S & S GENESEE ST) for route/day 39/0
+MATCH: "Rainier Av S & S Genesee" matches timepoint ID 4714 (RAINIER AV S & S GENESEE ST) for route/day 39/1
+MATCH: "Rainier Av S & S Genesee" matches timepoint ID 4714 (RAINIER AV S & S GENESEE ST) for route/day 7/0
+MATCH: "Rainier Av S & S Genesee" matches timepoint ID 4714 (RAINIER AV S & S GENESEE ST) for route/day 7/0
+MATCH: "Rainier Av S & S Graham" matches timepoint ID 4707 (RAINIER AV S & S GRAHAM ST) for route/day 7/0
+MATCH: "Rainier Av S & S Graham" matches timepoint ID 4707 (RAINIER AV S & S GRAHAM ST) for route/day 7/0
+MATCH: "Roosevelt Wy NE & NE 45th" matches timepoint ID 5910 (ROOSEVELT WY NE & NE 45 ST) for route/day 66/1
+MATCH: "Roosevelt Wy NE & NE 75th" matches timepoint ID 5531 (ROOSEVELT WY NE & NE 75 ST) for route/day 66/1
+MATCH: "Roosevelt Wy NE & NE 75th" matches timepoint ID 5531 (ROOSEVELT WY NE & NE 75 ST) for route/day 66/1
+MATCH: "S 200th & Des Moines Mem Dr S" matches timepoint ID 8123 (DES MOINES MEM DR S & S 200 ST) for route/day 132/2
+MATCH: "S 200th & Des Moines Mem Dr S" matches timepoint ID 8123 (DES MOINES MEM DR S & S 200 ST) for route/day 132/2
+MATCH: "S 200th St & Des Moines Mem Dr S" matches timepoint ID 8123 (DES MOINES MEM DR S & S 200 ST) for route/day 122/0
+MATCH: "S 223rd & Marine View Dr S" matches timepoint ID 8110 (MARINE VIEW DR S & S 223 ST) for route/day 122/0
+MATCH: "S 223rd & Marine View Dr S" matches timepoint ID 8110 (MARINE VIEW DR S & S 223 ST) for route/day 122/0
+MATCH: "S Jackson & 5th Av S" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 358/0
+MATCH: "S Jackson & 5th Av S" matches timepoint ID 501 (5 AV S & S JACKSON ST) for route/day 358/1
+MATCH: "SE 208th & 108th Av SE" matches timepoint ID 8432 (108 AV SE & SE 208 ST) for route/day 157/0
+MATCH: "SE 208th & 108th Av SE" matches timepoint ID 8432 (108 AV SE & SE 208 ST) for route/day 157/0
+MATCH: "SE 208th & 108th Av SE" matches timepoint ID 8432 (108 AV SE & SE 208 ST) for route/day 161/0
+MATCH: "SE 320th & 122nd Av SE" matches timepoint ID 8868 (122 AV SE & SE 320 ST) for route/day 164/0
+MATCH: "SE 320th & 122nd Av SE" matches timepoint ID 8868 (122 AV SE & SE 320 ST) for route/day 164/0
+MATCH: "SE 320th & 122nd Av SE" matches timepoint ID 8868 (122 AV SE & SE 320 ST) for route/day 181/1
+MATCH: "SE 320th & 122nd Av SE" matches timepoint ID 8868 (122 AV SE & SE 320 ST) for route/day 181/1
+MATCH: "Seneca & 2nd Av" matches timepoint ID 211 (2 AV & SENECA ST) for route/day 5/2
+MATCH: "Shoreline Community College" matches timepoint ID 9004 (SHORELINE COMMUNITY COLLEGE) for route/day 5/2
+MATCH: "Shoreline Community College" matches timepoint ID 9004 (SHORELINE COMMUNITY COLLEGE) for route/day 5/2
+MATCH: "SW Roxbury & 15th Av SW" matches timepoint ID 5204 (15 AV SW & SW ROXBURY ST) for route/day 54/0
+MATCH: "Timberlane Way SE & SE 267th" matches timepoint ID 8456 (TIMBERLANE WAY SE & SE 267 ST) for route/day 168/1
+MATCH: "Timberlane Way SE & SE 267th" matches timepoint ID 8456 (TIMBERLANE WAY SE & SE 267 ST) for route/day 168/1
+MATCH: "Triton Dr NW & NW 100th" matches timepoint ID 3015 (TRITON DR NW & NW 100 ST) for route/day 18/0
+MATCH: "Triton Dr NW & NW 100th" matches timepoint ID 3015 (TRITON DR NW & NW 100 ST) for route/day 18/0
+MATCH: "Triton Dr NW & NW 100th" matches timepoint ID 3015 (TRITON DR NW & NW 100 ST) for route/day 18/2
+MATCH: "Triton Dr NW & NW 100th" matches timepoint ID 3015 (TRITON DR NW & NW 100 ST) for route/day 18/2
+MATCH: "Union Av NE & NE 4th" matches timepoint ID 8714 (UNION AV NE & NE 4 ST) for route/day 114/0
+MATCH: "Union Av SE & SE 2nd Pl" matches timepoint ID 8745 (UNION AV SE & SE 2 PL) for route/day 114/0
+MATCH: "Washington Av & W Meeker" matches timepoint ID 8409 (WASHINGTON AV & W MEEKER ST) for route/day 914/0
+MATCH: "Washington Av & W Meeker" matches timepoint ID 8409 (WASHINGTON AV & W MEEKER ST) for route/day 916/0
+MATCH: "Washington Av & W Meeker" matches timepoint ID 8409 (WASHINGTON AV & W MEEKER ST) for route/day 916/1
+NO MATCH: "   " for route/day 348/0
+NO MATCH: "   " for route/day 348/2
+NO MATCH: "  " for route/day 134/0
+NO MATCH: "  HUB" for route/day 68/0
+NO MATCH: "  HUB" for route/day 68/0
+NO MATCH: "  HUB" for route/day 68/1
+NO MATCH: "  HUB" for route/day 68/1
+NO MATCH: " " for route/day 134/0
+NO MATCH: " " for route/day 28/1
+NO MATCH: " " for route/day 39/0
+NO MATCH: " " for route/day 57/0
+NO MATCH: " (Fred Meyer)" for route/day 200/0
+NO MATCH: " 21st Av & E Jefferson" for route/day 4/2
+NO MATCH: " 23rd Av & E Jefferson" for route/day 4/2
+NO MATCH: " 3rd Av & Pike" for route/day 4/2
+NO MATCH: " 3rd Av & Union" for route/day 4/2
+NO MATCH: " 5th Av N & Broad" for route/day 4/2
+NO MATCH: " 5th Av N & Broad" for route/day 4/2
+NO MATCH: " Av S Route 129 </u" for route/day 129/0
+NO MATCH: " Bastyr University" for route/day 935/0
+NO MATCH: " Bastyr University" for route/day 935/0
+NO MATCH: " Broadway & E Jefferson" for route/day 4/2
+NO MATCH: " Broadway & E Jefferson" for route/day 4/2
+NO MATCH: " Four Freedoms </u>" for route/day 345/2
+NO MATCH: " Four Freedoms </u>&#187;<u" for route/day 345/2
+NO MATCH: " Kenm <u>  e 522" for route/day 331/1
+NO MATCH: " Kent City Hall" for route/day 914/0
+NO MATCH: " Kent City Hall" for route/day 916/0
+NO MATCH: " Kent City Hall" for route/day 916/1
+NO MATCH: " Meeker Court" for route/day 914/0
+NO MATCH: " Meeker Court" for route/day 916/0
+NO MATCH: " Meeker Court" for route/day 916/1
+NO MATCH: " Northwest Hospital " for route/day 345/2
+NO MATCH: " Northwest Hospital >  Route 345" for route/day 345/2
+NO MATCH: " ore P&R  </u>     <u>" for route/day 331/1
+NO MATCH: " Queen Anne Av N & Boston" for route/day 4/2
+NO MATCH: " Queen Anne Av N & Boston" for route/day 4/2
+NO MATCH: " Royal Hills" for route/day 148/0
+NO MATCH: " tion LINK </u>" for route/day 129/0
+NO MATCH: " To Route" for route/day 134/0
+NO MATCH: " To Route" for route/day 39/0
+NO MATCH: " To y      Route" for route/day 57/0
+NO MATCH: " Tukwila P&R" for route/day 150/1
+NO MATCH: " Tukwila P&R" for route/day 150/2
+NO MATCH: " Tukwila Station " for route/day 140/0
+NO MATCH: " Tukwila Station" for route/day 140/0
+NO MATCH: " U of W HUB " for route/day 205/0
+NO MATCH: " U of W HUB " for route/day 205/0
+NO MATCH: " Westlake Station <u>" for route/day 129/0
+NO MATCH: " Woodinville P&R" for route/day 251/0
+NO MATCH: " Woodinville P&R" for route/day 251/0
+NO MATCH: " Woodinville P&R" for route/day 251/1
+NO MATCH: " Woodinville P&R" for route/day 251/1
+NO MATCH: "-5 & S 272nd Southbound Off-Ramp" for route/day 192/0
+NO MATCH: "" for route/day 102/0
+NO MATCH: "" for route/day 120/1
+NO MATCH: "" for route/day 120/2
+NO MATCH: "" for route/day 161/0
+NO MATCH: "" for route/day 192/0
+NO MATCH: "" for route/day 209/0
+NO MATCH: "" for route/day 209/1
+NO MATCH: "" for route/day 237/0
+NO MATCH: "" for route/day 240/2
+NO MATCH: "" for route/day 75/0
+NO MATCH: "(Fred Meyer)" for route/day 200/0
+NO MATCH: "/u>" for route/day 1/2
+NO MATCH: "&     3rd Av n        & d       Pike " for route/day 39/0
+NO MATCH: "&   1st Av S ew     & SW Normandy " for route/day 134/0
+NO MATCH: "&   Highline w   Community College" for route/day 134/0
+NO MATCH: ">" for route/day 129/0
+NO MATCH: "1 Royal Hills" for route/day 148/0
+NO MATCH: "1" for route/day 221/0
+NO MATCH: "1" for route/day 221/1
+NO MATCH: "104th Av SE & SE 256th " for route/day 169/0
+NO MATCH: "104th Av SE & SE 256th " for route/day 169/1
+NO MATCH: "104th Av SE at 26300 Block" for route/day 914/0
+NO MATCH: "104th Av SE at 26300 Block" for route/day 914/0
+NO MATCH: "104th Av SE at 26300 Block" for route/day 916/0
+NO MATCH: "104th Av SE at 26300 Block" for route/day 916/1
+NO MATCH: "108th Av NE & NE 38th Pl" for route/day 255/0
+NO MATCH: "108th Av NE & NE 38th Pl" for route/day 255/0
+NO MATCH: "108th Av NE & NE 38th Pl" for route/day 255/1
+NO MATCH: "108th Av NE & NE 38th Pl" for route/day 255/1
+NO MATCH: "108th Av NE & NE 38th Pl" for route/day 256/0
+NO MATCH: "108th Av NE & NE 38th Pl" for route/day 256/0
+NO MATCH: "108th Av NE & NE 6th " for route/day 280/0
+NO MATCH: "108th Av NE & NE 6th" for route/day 233/0
+NO MATCH: "108th Av NE & NE 6th" for route/day 233/1
+NO MATCH: "108th Av NE & NE 6th" for route/day 240/0
+NO MATCH: "108th Av NE & NE 6th" for route/day 240/0
+NO MATCH: "108th Av NE & NE 6th" for route/day 240/2
+NO MATCH: "108th Av NE & NE 6th" for route/day 240/2
+NO MATCH: "108th Av NE & NE 6th" for route/day 249/1
+NO MATCH: "108th Av NE & NE 6th" for route/day 271/1
+NO MATCH: "108th Av NE & NE 6th" for route/day 271/2
+NO MATCH: "108th Av SE & SE 176th " for route/day 169/0
+NO MATCH: "108th Av SE & SE 176th " for route/day 169/1
+NO MATCH: "10th Av W & </u>      W F Route 1" for route/day 1/2
+NO MATCH: "10th Av W & W Fulton <u>      R" for route/day 1/2
+NO MATCH: "112th Av SE & I-405 " for route/day 247/0
+NO MATCH: "112th Av SE & I-405 " for route/day 247/0
+NO MATCH: "116th Av NE & NE 12th" for route/day 981/0
+NO MATCH: "116th Av NE & NE 160th (after loop)" for route/day 252/0
+NO MATCH: "116th Av NE & NE 160th (after loop)" for route/day 257/0
+NO MATCH: "116th Av NE & NE 70th Pl" for route/day 238/1
+NO MATCH: "116th Av NE & NE 70th Pl" for route/day 238/1
+NO MATCH: "116th Av NE & NE 70th Pl" for route/day 245/0
+NO MATCH: "116th Av NE & NE 70th Pl" for route/day 245/0
+NO MATCH: "116th Av NE & NE 70th Pl" for route/day 986/0
+NO MATCH: "116th Av NE & NE 70th Pl" for route/day 986/0
+NO MATCH: "116th Av NE & Northup Way" for route/day 249/1
+NO MATCH: "116th Av NE & Northup Way" for route/day 249/1
+NO MATCH: "116th Way NE &      a NE 132nd" for route/day 252/0
+NO MATCH: "116th Way NE &      a NE 132nd" for route/day 257/0
+NO MATCH: "116th Way NE & NE 132nd" for route/day 252/0
+NO MATCH: "116th Way NE & NE 132nd" for route/day 255/0
+NO MATCH: "116th Way NE & NE 132nd" for route/day 255/0
+NO MATCH: "116th Way NE & NE 132nd" for route/day 255/1
+NO MATCH: "116th Way NE & NE 132nd" for route/day 255/1
+NO MATCH: "116th Way NE & NE 132nd" for route/day 256/0
+NO MATCH: "116th Way NE & NE 132nd" for route/day 256/0
+NO MATCH: "116th Way NE & NE 132nd" for route/day 257/0
+NO MATCH: "119th Av SE & SE 58th " for route/day 114/0
+NO MATCH: "120th Av NE & Totem Lake Way" for route/day 935/0
+NO MATCH: "120th Av NE & Totem Lake Way" for route/day 935/0
+NO MATCH: "124th Av SE & Kent- Kangley" for route/day 161/0
+NO MATCH: "124th Av SE & SE 44th" for route/day 245/0
+NO MATCH: "124th Av SE & SE 44th" for route/day 245/0
+NO MATCH: "12th Av NE & NE Campus Pkwy" for route/day 30/2
+NO MATCH: "132nd Av SE & SE 270th" for route/day 158/0
+NO MATCH: "132nd Av SE & SE 270th" for route/day 158/0
+NO MATCH: "132nd Av SE & SE 270th" for route/day 161/0
+NO MATCH: "132nd Av SE & SE 270th" for route/day 161/0
+NO MATCH: "132nd Av SE & SE 270th" for route/day 162/0
+NO MATCH: "132nd Av SE & SE 270th" for route/day 162/0
+NO MATCH: "132nd Av SE & SE 270th" for route/day 168/1
+NO MATCH: "132nd Av SE & SE 270th" for route/day 168/1
+NO MATCH: "132nd Av SE & SE 270th" for route/day 914/0
+NO MATCH: "132nd Av SE & SE 272nd" for route/day 157/0
+NO MATCH: "132nd Av SE & SE 272nd" for route/day 157/0
+NO MATCH: "132nd Av SE & SE 272nd" for route/day 164/0
+NO MATCH: "132nd Av SE & SE 272nd" for route/day 164/0
+NO MATCH: "13th Av & Wy   S Bailey " for route/day 134/0
+NO MATCH: "140th Av NE & NE 179th" for route/day 236/0
+NO MATCH: "140th Av NE & NE 179th" for route/day 236/0
+NO MATCH: "140th Av NE & NE 179th" for route/day 236/1
+NO MATCH: "140th Av NE & NE 179th" for route/day 236/1
+NO MATCH: "140th Av NE & NE 179th" for route/day 237/0
+NO MATCH: "140th Av NE & NE 179th" for route/day 237/0
+NO MATCH: "140th Av SE & Petrovitsky " for route/day 101/0
+NO MATCH: "140th Av SE & Petrovitsky" for route/day 101/0
+NO MATCH: "140th Av SE & Petrovitsky" for route/day 102/0
+NO MATCH: "140th Av SE & Petrovitsky" for route/day 102/0
+NO MATCH: "140th Way SE & SE 158th " for route/day 101/0
+NO MATCH: "140th Way SE & SE 158th" for route/day 101/0
+NO MATCH: "140th Way SE & SE 158th" for route/day 102/0
+NO MATCH: "148th Av NE & NE 51st " for route/day 242/0
+NO MATCH: "148th Av NE & NE 51st " for route/day 253/2
+NO MATCH: "148th Av NE & NE 51st" for route/day 242/0
+NO MATCH: "148th Av NE & NE 51st" for route/day 253/2
+NO MATCH: "148th Av NE & NE 8th " for route/day 247/0
+NO MATCH: "148th Av NE & NE 8th " for route/day 247/0
+NO MATCH: "148th Av NE & NE 8th" for route/day 221/0
+NO MATCH: "148th Av NE & NE 8th" for route/day 221/1
+NO MATCH: "148th Av NE & y 3       NE" for route/day 221/0
+NO MATCH: "148th Av NE & y 3       NE" for route/day 221/1
+NO MATCH: "14th Av SW & SW 160th " for route/day 123/0
+NO MATCH: "152nd Av NE & 2600 Crossing" for route/day 242/0
+NO MATCH: "152nd Av NE & 2600 Crossing" for route/day 247/0
+NO MATCH: "152nd Av NE & 2600 Crossing" for route/day 247/0
+NO MATCH: "152nd Av NE & 2600 Crossing" for route/day 249/1
+NO MATCH: "152nd Av NE & 2600 Crossing" for route/day 253/2
+NO MATCH: "152nd Av NE & 2600 Crossing" for route/day 253/2
+NO MATCH: "152nd Av NE & 2600 Crossing" for route/day 269/0
+NO MATCH: "152nd Av NE & 2600" for route/day 242/0
+NO MATCH: "152nd Av NE & 2600" for route/day 249/1
+NO MATCH: "152nd Av NE & 2600" for route/day 269/0
+NO MATCH: "152nd Way SE & SE 272nd" for route/day 158/0
+NO MATCH: "152nd Way SE & SE 272nd" for route/day 158/0
+NO MATCH: "152nd Way SE & SE 272nd" for route/day 162/0
+NO MATCH: "152nd Way SE & SE 272nd" for route/day 162/0
+NO MATCH: "156th Av NE & NE 40th " for route/day 247/0
+NO MATCH: "156th Av NE & NE 40th " for route/day 249/1
+NO MATCH: "156th Av NE & NE 40th " for route/day 269/0
+NO MATCH: "156th Av NE & NE 8th " for route/day 253/2
+NO MATCH: "156th Av SE & SE Fairwood" for route/day 155/0
+NO MATCH: "156th Av SE & SE Fairwood" for route/day 155/0
+NO MATCH: "15th Av N & N   NE 205th " for route/day 348/0
+NO MATCH: "15th Av N & N   NE 205th " for route/day 348/2
+NO MATCH: "15th Av NE & NE 125th " for route/day 373/0
+NO MATCH: "15th Av NE & NE 205th  " for route/day 331/1
+NO MATCH: "15th Av NE & NE 205th" for route/day 348/0
+NO MATCH: "15th Av NE & NE 205th" for route/day 348/2
+NO MATCH: "15th Av NE & NE 80th " for route/day 373/0
+NO MATCH: "15th Av NE N & inger    NE 2  " for route/day 331/1
+NO MATCH: "15th Av NW & l   NW 85th" for route/day 75/0
+NO MATCH: "15th Av SW & SW 102nd " for route/day 22/2
+NO MATCH: "15th Av SW & SW Roxbury " for route/day 22/2
+NO MATCH: "15th Av SW & SW Roxbury " for route/day 54/0
+NO MATCH: "15th St NE & A St NE" for route/day 952/0
+NO MATCH: "15th St NE & A St NE" for route/day 952/0
+NO MATCH: "15th St NE & D St NE" for route/day 180/0
+NO MATCH: "15th St NE & D St NE" for route/day 180/0
+NO MATCH: "161st Av NE -    & NE 83rd" for route/day 221/1
+NO MATCH: "161st Av NE & NE 83rd " for route/day 253/2
+NO MATCH: "161st Av NE & NE 83rd" for route/day 253/2
+NO MATCH: "16th Av S & E Marginal Way S" for route/day 174/1
+NO MATCH: "16th Av SW at SSCC Entrance" for route/day 125/1
+NO MATCH: "16th Av SW at SSCC Entrance" for route/day 125/1
+NO MATCH: "178th Pl NE & NE 78th Pl " for route/day 248/2
+NO MATCH: "178th Pl NE & NE 78th Pl " for route/day 253/2
+NO MATCH: "178th Pl NE & NE 78th Pl " for route/day 269/0
+NO MATCH: "178th Pl NE & NE 78th Pl" for route/day 216/0
+NO MATCH: "178th Pl NE & NE 78th Pl" for route/day 216/0
+NO MATCH: "178th Pl NE & NE 78th Pl" for route/day 233/0
+NO MATCH: "178th Pl NE & NE 78th Pl" for route/day 233/0
+NO MATCH: "178th Pl NE & NE 78th Pl" for route/day 233/1
+NO MATCH: "178th Pl NE & NE 78th Pl" for route/day 233/1
+NO MATCH: "178th Pl NE & NE 78th Pl" for route/day 248/2
+NO MATCH: "178th Pl NE & NE 78th Pl" for route/day 253/2
+NO MATCH: "178th Pl NE & NE 78th Pl" for route/day 269/0
+NO MATCH: "17th Av & Jefferson" for route/day 941/0
+NO MATCH: "180th St & Sperry Dr" for route/day 150/1
+NO MATCH: "180th St & Sperry Dr" for route/day 150/2
+NO MATCH: "1st & <u>    Rep 3          </" for route/day 1/2
+NO MATCH: "1st Av & Denny Way " for route/day 22/2
+NO MATCH: "1st Av & Denny Wy " for route/day 21/1
+NO MATCH: "1st Av & n   Universit" for route/day 57/0
+NO MATCH: "1st Av & Pike" for route/day 10/2
+NO MATCH: "1st Av & Union " for route/day 21/1
+NO MATCH: "1st Av & Union " for route/day 22/2
+NO MATCH: "1st Av & Union " for route/day 56/2
+NO MATCH: "1st Av & Union" for route/day 15/2
+NO MATCH: "1st Av & Union" for route/day 18/0
+NO MATCH: "1st Av & Union" for route/day 18/2
+NO MATCH: "1st Av & Univ" for route/day 22/2
+NO MATCH: "1st Av & University" for route/day 11/2
+NO MATCH: "1st Av & University" for route/day 122/0
+NO MATCH: "1st Av & University" for route/day 15/2
+NO MATCH: "1st Av & University" for route/day 18/0
+NO MATCH: "1st Av & University" for route/day 18/2
+NO MATCH: "1st Av & University" for route/day 21/1
+NO MATCH: "1st Av & University" for route/day 56/2
+NO MATCH: "1st Av & ute   Union " for route/day 57/0
+NO MATCH: "1st Av N & Denny Way" for route/day 19/0
+NO MATCH: "1st Av N & Denny Way" for route/day 33/0
+NO MATCH: "1st Av N & Denny Way" for route/day 33/1
+NO MATCH: "1st Av N & Denny Wy" for route/day 2/2
+NO MATCH: "1st Av N & Republican" for route/day 30/2
+NO MATCH: "1st Av N & Republican" for route/day 30/2
+NO MATCH: "1st Av NE & NE 103rd" for route/day 16/0
+NO MATCH: "1st Av NE & NE 103rd" for route/day 16/0
+NO MATCH: "1st Av NE & NE 103rd" for route/day 16/2
+NO MATCH: "1st Av NE & NE 103rd" for route/day 16/2
+NO MATCH: "1st Av NE & NE 135th" for route/day 981/0
+NO MATCH: "1st Av NE & NE 135th" for route/day 986/0
+NO MATCH: "1st Av NE & NE 135th" for route/day 986/0
+NO MATCH: "1st Av NE & NE 135th" for route/day 988/0
+NO MATCH: "1st Av NE & NE 135th" for route/day 988/0
+NO MATCH: "1st Av NE & NE 140th" for route/day 981/0
+NO MATCH: "1st Av NE & NE 140th" for route/day 986/0
+NO MATCH: "1st Av NE & NE 140th" for route/day 986/0
+NO MATCH: "1st Av NE & NE 140th" for route/day 988/0
+NO MATCH: "1st Av NE & NE 140th" for route/day 988/0
+NO MATCH: "1st Av S   S & SW Normandy" for route/day 122/0
+NO MATCH: "1st Av S & e    S Jackso" for route/day 57/0
+NO MATCH: "1st Av S & Main" for route/day 917/0
+NO MATCH: "1st Av S & Main" for route/day 917/0
+NO MATCH: "1st Av S & Main" for route/day 917/1
+NO MATCH: "1st Av S & Main" for route/day 917/1
+NO MATCH: "1st Av S & n    S Spokan " for route/day 57/0
+NO MATCH: "1st Av S & S 112th " for route/day 134/0
+NO MATCH: "1st Av S & S 320th" for route/day 903/0
+NO MATCH: "1st Av S & S 320th" for route/day 903/0
+NO MATCH: "1st Av S & S 320th" for route/day 903/2
+NO MATCH: "1st Av S & S 320th" for route/day 903/2
+NO MATCH: "1st Av S & S Jackso " for route/day 57/0
+NO MATCH: "1st Av S & S Jackson " for route/day 21/1
+NO MATCH: "1st Av S & S Jackson " for route/day 56/2
+NO MATCH: "1st Av S & S Jackson" for route/day 15/2
+NO MATCH: "1st Av S & S Jackson" for route/day 15/2
+NO MATCH: "1st Av S & S Jackson" for route/day 18/0
+NO MATCH: "1st Av S & S Jackson" for route/day 18/0
+NO MATCH: "1st Av S & S Jackson" for route/day 18/2
+NO MATCH: "1st Av S & S Jackson" for route/day 18/2
+NO MATCH: "1st Av S & S Jackson" for route/day 21/1
+NO MATCH: "1st Av S & S Jackson" for route/day 56/2
+NO MATCH: "1st Av S & S Spokan" for route/day 57/0
+NO MATCH: "1st Av S & S Spokane " for route/day 21/1
+NO MATCH: "1st Av S & S Spokane " for route/day 22/2
+NO MATCH: "1st Av S & S Spokane " for route/day 56/2
+NO MATCH: "1st Av S & S Spokane" for route/day 132/2
+NO MATCH: "1st Av S & S Spokane" for route/day 132/2
+NO MATCH: "1st Av S & S Spokane" for route/day 21/1
+NO MATCH: "1st Av S & S Spokane" for route/day 22/2
+NO MATCH: "1st Av S & S Spokane" for route/day 56/2
+NO MATCH: "1st Av S & SW Normandy" for route/day 122/0
+NO MATCH: "1st Av S & SW Normandy" for route/day 134/0
+NO MATCH: "1st Av SE & SE Bush" for route/day 200/0
+NO MATCH: "1st Av SE & SE Bush" for route/day 209/0
+NO MATCH: "1st Av SE & SE Bush" for route/day 209/0
+NO MATCH: "1st Av SE & SE Bush" for route/day 209/1
+NO MATCH: "1st Av SE & SE Bush" for route/day 209/1
+NO MATCH: "1st Av W & W Mercer" for route/day 8/0
+NO MATCH: "1st Av W & W Mercer" for route/day 8/0
+NO MATCH: "1st Av W & W Mercer" for route/day 8/2
+NO MATCH: "1st Av W & W Mercer" for route/day 8/2
+NO MATCH: "1st St SW & Transit Rdwy" for route/day 181/1
+NO MATCH: "200th St & Des Moines Mem Dr S" for route/day 122/0
+NO MATCH: "21st Av SW & SW 152nd " for route/day 123/0
+NO MATCH: "21st Av SW & SW 152nd" for route/day 123/0
+NO MATCH: "21st Av SW & SW 344th" for route/day 181/1
+NO MATCH: "21st Av SW & SW 344th" for route/day 181/1
+NO MATCH: "21st Av SW & SW Campus Dr" for route/day 903/0
+NO MATCH: "21st Av SW & SW Campus Dr" for route/day 903/0
+NO MATCH: "21st Av SW & SW Campus Dr" for route/day 903/2
+NO MATCH: "21st Av SW & SW Campus Dr" for route/day 903/2
+NO MATCH: "220th Av SE & SE 51st" for route/day 200/0
+NO MATCH: "220th Av SE & SE 51st" for route/day 200/0
+NO MATCH: "220th Av SE & SE 51st" for route/day 216/0
+NO MATCH: "220th Av SE & SE 51st" for route/day 216/0
+NO MATCH: "228th Av NE & NE 8th " for route/day 269/0
+NO MATCH: "228th Av SE & Issaquah- Pine Lake" for route/day 927/1
+NO MATCH: "228th Av SE & Issaquah- Pine Lake" for route/day 927/1
+NO MATCH: "228th Av SE & Issaquah- Pine Lk SE " for route/day 269/0
+NO MATCH: "228th Av SE & Issaquah- Pine Lk SE" for route/day 269/0
+NO MATCH: "228th Av SE & SE Pine Lake" for route/day 216/0
+NO MATCH: "228th Av SE & SE Pine Lake" for route/day 216/0
+NO MATCH: "236th Av d        & NW      I-5 " for route/day 348/0
+NO MATCH: "236th Av d        & NW      I-5 " for route/day 348/2
+NO MATCH: "236th St SW & I-5" for route/day 348/0
+NO MATCH: "236th St SW & I-5" for route/day 348/2
+NO MATCH: "23rd Av & E Yesler Way" for route/day 27/2
+NO MATCH: "23rd Av & E Yesler Way" for route/day 27/2
+NO MATCH: "23rd Av S & S 317th " for route/day 174/1
+NO MATCH: "23rd Av S & S Jackson " for route/day 14/1
+NO MATCH: "23rd Av S & S Jackson " for route/day 14/2
+NO MATCH: "24th Av NW & NW 85th (northbound)" for route/day 18/0
+NO MATCH: "24th Av NW & NW 85th (northbound)" for route/day 18/0
+NO MATCH: "24th Av NW & NW 85th (northbound)" for route/day 18/2
+NO MATCH: "24th Av NW & NW 85th (northbound)" for route/day 18/2
+NO MATCH: "24th Av NW & NW 85th (southbound)" for route/day 18/0
+NO MATCH: "24th Av NW & NW 85th (southbound)" for route/day 18/2
+NO MATCH: "24th Av NW & NW 85th (southbound)" for route/day 18/2
+NO MATCH: "26th Av SW & SW Barton " for route/day 54/0
+NO MATCH: "26th Av SW & SW e     Spokane " for route/day 57/0
+NO MATCH: "26th Av SW & SW Spokane " for route/day 56/2
+NO MATCH: "26th Av SW & SW Spokane" for route/day 56/2
+NO MATCH: "2nd Av     S & Pike" for route/day 190/0
+NO MATCH: "2nd Av & Univ" for route/day 202/0
+NO MATCH: "2nd Av & Universit " for route/day 215/0
+NO MATCH: "2nd Av & ute    Pike " for route/day 134/0
+NO MATCH: "2nd Av Ext & S Jackson" for route/day 192/0
+NO MATCH: "2nd Av SE & Alder" for route/day 927/1
+NO MATCH: "2nd Av SE & Alder" for route/day 927/1
+NO MATCH: "2nd Ext S & S Jackson" for route/day 157/0
+NO MATCH: "2nd Ext S & S Jackson" for route/day 158/0
+NO MATCH: "2nd Ext S & S Jackson" for route/day 158/0
+NO MATCH: "2nd Ext S & S Jackson" for route/day 162/0
+NO MATCH: "2nd Ext S & S Jackson" for route/day 162/0
+NO MATCH: "2nd St SW & Transit Rdwy" for route/day 181/1
+NO MATCH: "33rd Av W & W Govt Way" for route/day 33/0
+NO MATCH: "33rd Av W & W Govt Way" for route/day 33/1
+NO MATCH: "34th Av & E Cherry" for route/day 988/0
+NO MATCH: "34th Av & E Cherry" for route/day 988/0
+NO MATCH: "34th Av W & W Govt Way" for route/day 33/0
+NO MATCH: "34th Av W & W Govt Way" for route/day 33/1
+NO MATCH: "35th Av NE & NE 195th " for route/day 308/0
+NO MATCH: "35th Av SW & SW Avalon Way" for route/day 21/1
+NO MATCH: "35th Av SW & SW Avalon Way" for route/day 21/1
+NO MATCH: "35th Av SW & SW Avalon Way" for route/day 22/2
+NO MATCH: "35th Av SW & SW Avalon Way" for route/day 22/2
+NO MATCH: "35th Av SW & SW Avalon Wy " for route/day 54/0
+NO MATCH: "35th Av SW & SW Roxbury (northbound) " for route/day 21/1
+NO MATCH: "35th Av SW & SW Roxbury (northbound)" for route/day 21/1
+NO MATCH: "35th Av SW & SW Roxbury (southbound) " for route/day 21/1
+NO MATCH: "35th Av SW & SW Roxbury (southbound)" for route/day 21/1
+NO MATCH: "3rd & Park Lane " for route/day 248/2
+NO MATCH: "3rd & Park Lane" for route/day 236/0
+NO MATCH: "3rd & Park Lane" for route/day 236/0
+NO MATCH: "3rd & Park Lane" for route/day 236/1
+NO MATCH: "3rd & Park Lane" for route/day 236/1
+NO MATCH: "3rd & Park Lane" for route/day 238/1
+NO MATCH: "3rd & Park Lane" for route/day 238/1
+NO MATCH: "3rd & Park Lane" for route/day 245/0
+NO MATCH: "3rd & Park Lane" for route/day 245/0
+NO MATCH: "3rd & Park Lane" for route/day 248/2
+NO MATCH: "3rd & Park Lane" for route/day 255/0
+NO MATCH: "3rd & Park Lane" for route/day 255/0
+NO MATCH: "3rd & Park Lane" for route/day 255/1
+NO MATCH: "3rd & Park Lane" for route/day 255/1
+NO MATCH: "3rd & Park Lane" for route/day 256/0
+NO MATCH: "3rd & Park Lane" for route/day 256/0
+NO MATCH: "3rd Av & </u>        U > Route 2, 13" for route/day 1/2
+NO MATCH: "3rd Av & Cedar" for route/day 123/0
+NO MATCH: "3rd Av & Pike " for route/day 114/0
+NO MATCH: "3rd Av & Pike " for route/day 54/0
+NO MATCH: "3rd Av & Pike " for route/day 70/0
+NO MATCH: "3rd Av & Pike (southbound)" for route/day 77/0
+NO MATCH: "3rd Av & Pike Route 2 or 1" for route/day 1/2
+NO MATCH: "3rd Av & Union " for route/day 308/0
+NO MATCH: "3rd Av & Union (northbound)" for route/day 77/0
+NO MATCH: "3rd Av & Yesler Way" for route/day 27/2
+NO MATCH: "3rd Av & Yesler Way" for route/day 27/2
+NO MATCH: "3rd Av NW & NW 12        Ri Beach Dr " for route/day 331/1
+NO MATCH: "3rd Av NW & NW Beach Dr  " for route/day 331/1
+NO MATCH: "3rd Av S & Prefontaine " for route/day 70/0
+NO MATCH: "40th Av SE & SE 177th" for route/day 148/0
+NO MATCH: "40th Way SE & SE 158th" for route/day 102/0
+NO MATCH: "41st Av SW & SW Thistle " for route/day 22/2
+NO MATCH: "41st Av SW & SW Thistle" for route/day 22/2
+NO MATCH: "42nd Av S & S 212th" for route/day 913/0
+NO MATCH: "42nd Av S & S 212th" for route/day 913/0
+NO MATCH: "44th Av S & ute  SW Orego " for route/day 57/0
+NO MATCH: "44th Av SW & SW Alaska " for route/day 22/2
+NO MATCH: "45th Av NE & NE 203 Pl " for route/day 308/0
+NO MATCH: "45th Av SW & SW Wildwood Pl " for route/day 54/0
+NO MATCH: "49th Av NE & 42nd St NE" for route/day 182/1
+NO MATCH: "49th Av NE & 42nd St NE" for route/day 182/1
+NO MATCH: "4th Av & c      Univ" for route/day 134/0
+NO MATCH: "4th Av & James <u>" for route/day 1/2
+NO MATCH: "4th Av & niversity" for route/day 190/0
+NO MATCH: "4th Av & Pike " for route/day 14/1
+NO MATCH: "4th Av & Pike " for route/day 14/2
+NO MATCH: "4th Av & S     Union" for route/day 215/0
+NO MATCH: "4th Av & Univ." for route/day 252/0
+NO MATCH: "4th Av & Univ." for route/day 257/0
+NO MATCH: "4th Av & Univ." for route/day 84/0
+NO MATCH: "4th Av & Univ" for route/day 132/2
+NO MATCH: "4th Av & Univ" for route/day 158/0
+NO MATCH: "4th Av & Univ" for route/day 161/0
+NO MATCH: "4th Av & Univ" for route/day 162/0
+NO MATCH: "4th Av & Univ" for route/day 170/0
+NO MATCH: "4th Av & Univ" for route/day 33/0
+NO MATCH: "4th Av & University " for route/day 280/0
+NO MATCH: "4th Av S & S Front " for route/day 123/0
+NO MATCH: "4th Av S & S Jackson " for route/day 280/0
+NO MATCH: "4th Av S & S Jackson (island " for route/day 26/0
+NO MATCH: "4th Av S & S Jackson (island " for route/day 26/1
+NO MATCH: "4th Av S & S Jackson (island " for route/day 26/2
+NO MATCH: "4th Av S & S Jackson (island " for route/day 28/1
+NO MATCH: "4th Av S & S Jackson (island " for route/day 308/0
+NO MATCH: "4th Av S & S Jackson (Island stop) " for route/day 124/2
+NO MATCH: "4th Av S & S Jackson (island stop)" for route/day 123/0
+NO MATCH: "4th Av S & S Jackson (island stop)" for route/day 39/1
+NO MATCH: "4th Av S & S Lander" for route/day 35/0
+NO MATCH: "4th Av S & S Spokane " for route/day 123/0
+NO MATCH: "4th Av S & S Spokane " for route/day 124/2
+NO MATCH: "4th Av S & S Spokane " for route/day 174/1
+NO MATCH: "4th Av S & S Spokane" for route/day 123/0
+NO MATCH: "4th Av S & S Spokane" for route/day 124/2
+NO MATCH: "4th Av S & S Spokane" for route/day 174/1
+NO MATCH: "4th Av S & S Spokane" for route/day 280/0
+NO MATCH: "4th Av SW & SW 148th " for route/day 140/0
+NO MATCH: "4th Av SW & SW 148th" for route/day 140/0
+NO MATCH: "5" for route/day 221/0
+NO MATCH: "52nd Av S & Interurban S" for route/day 150/1
+NO MATCH: "52nd Av S & Interurban S" for route/day 150/2
+NO MATCH: "52nd Av S & Interurban S" for route/day 941/0
+NO MATCH: "52nd Av S & Interurban S" for route/day 941/0
+NO MATCH: "52nd Av S & Interurban" for route/day 161/0
+NO MATCH: "52nd Av S & Interurban" for route/day 161/0
+NO MATCH: "5th Av & James" for route/day 77/0
+NO MATCH: "5th Av & Jefferson" for route/day 77/0
+NO MATCH: "5th Av & Olive Way" for route/day 216/0
+NO MATCH: "5th Av NE & NE 163rd " for route/day 242/0
+NO MATCH: "5th Av S & S Jackson " for route/day 114/0
+NO MATCH: "5th Av S & S Jackson " for route/day 14/1
+NO MATCH: "5th Av S & S Jackson " for route/day 14/2
+NO MATCH: "61st Av SW & Alki Av SW " for route/day 56/2
+NO MATCH: "61st Av SW & Alki Av SW" for route/day 56/2
+NO MATCH: "62nd Av S & S Prentice " for route/day 7/0
+NO MATCH: "68th Av NE & NE 181st" for route/day 935/0
+NO MATCH: "68th Av NE & NE 181st" for route/day 935/0
+NO MATCH: "6th Av S & Royal Brougham " for route/day 134/0
+NO MATCH: "7th Av & Blanchard" for route/day 122/0
+NO MATCH: "80th Av SE & N Mercer Way " for route/day 205/0
+NO MATCH: "80th Av SE & N Mercer Way (westbound)" for route/day 202/0
+NO MATCH: "80th Av SE & N Mercer Way" for route/day 205/0
+NO MATCH: "80th Av SE & North Mercer Way (westbound)" for route/day 204/1
+NO MATCH: "80th Av SE & North Mercer Way (westbound)" for route/day 204/2
+NO MATCH: "9th Av NE & Highlands Dr NE" for route/day 269/0
+NO MATCH: "9th Av NE & Highlands" for route/day 269/0
+NO MATCH: "A St SE & 41st St SE" for route/day 180/0
+NO MATCH: "A St SE & 41st St SE" for route/day 180/0
+NO MATCH: "A St SE & 41st St SE" for route/day 180/2
+NO MATCH: "A St SE & 41st St SE" for route/day 180/2
+NO MATCH: "A St SE & 41st St SE" for route/day 917/0
+NO MATCH: "A St SE & 41st St SE" for route/day 917/0
+NO MATCH: "A St SE & 41st St SE" for route/day 917/1
+NO MATCH: "A St SE & 41st St SE" for route/day 917/1
+NO MATCH: "Airport & 100th St SW" for route/day 952/0
+NO MATCH: "Airport & 100th St SW" for route/day 952/0
+NO MATCH: "Alaskan Way & Clay" for route/day 99/0
+NO MATCH: "Alaskan Way & Clay" for route/day 99/0
+NO MATCH: "Alaskan Way & Clay" for route/day 99/2
+NO MATCH: "Alaskan Way & Clay" for route/day 99/2
+NO MATCH: "Alaskan Way & Marion" for route/day 66/1
+NO MATCH: "Alaskan Way & Marion" for route/day 66/1
+NO MATCH: "Alaskan Wy & Marion" for route/day 16/0
+NO MATCH: "Alaskan Wy & Marion" for route/day 16/0
+NO MATCH: "Alaskan Wy & Marion" for route/day 16/2
+NO MATCH: "Alaskan Wy & Marion" for route/day 16/2
+NO MATCH: "Andover Park W & Baker" for route/day 150/1
+NO MATCH: "Andover Park W & Baker" for route/day 150/2
+NO MATCH: "Andover Park W & Strander" for route/day 150/1
+NO MATCH: "Andover Park W & Strander" for route/day 150/2
+NO MATCH: "Andover Pk W & Baker " for route/day 140/0
+NO MATCH: "Andover Pk W & Baker " for route/day 140/1
+NO MATCH: "Andover Pk W & Baker " for route/day 140/2
+NO MATCH: "Andover Pk W & Baker" for route/day 140/0
+NO MATCH: "Andover Pk W & Baker" for route/day 140/1
+NO MATCH: "Andover Pk W & Baker" for route/day 140/2
+NO MATCH: "Andover Pk W & Baker" for route/day 155/0
+NO MATCH: "Andover Pk W & Baker" for route/day 155/0
+NO MATCH: "Andover Pk W & Strander" for route/day 126/0
+NO MATCH: "Andover Pk W & Strander" for route/day 126/0
+NO MATCH: "Ashworth Av & N 200th" for route/day 358/0
+NO MATCH: "Ashworth Av & N 200th" for route/day 358/1
+NO MATCH: "Ashworth Av N & N 200th" for route/day 358/0
+NO MATCH: "Ashworth Av N & N 200th" for route/day 358/1
+NO MATCH: "Auburn Station Bay 1" for route/day 180/0
+NO MATCH: "Auburn Station Bay 2" for route/day 180/0
+NO MATCH: "Aurora Av N & 85th" for route/day 358/0
+NO MATCH: "Aurora Av N & 85th" for route/day 358/1
+NO MATCH: "Aurora Av N & N 192nd " for route/day 373/0
+NO MATCH: "Aurora Av N & N 192nd " for route/day 373/0
+NO MATCH: "Aurora Av N & N 46th" for route/day 358/0
+NO MATCH: "Aurora Av N & N 46th" for route/day 358/0
+NO MATCH: "Aurora Av N & N 46th" for route/day 358/1
+NO MATCH: "Aurora Av N & N 46th" for route/day 358/1
+NO MATCH: "Aurora Bridge On-Ramp" for route/day 5/2
+NO MATCH: "Aurora N southbound on-ramp" for route/day 26/2
+NO MATCH: "Aurora Vill TC 05th      Bay  " for route/day 331/1
+NO MATCH: "Aurora Vill TC Bay 4  " for route/day 331/1
+NO MATCH: "Aurora Village TC Bay-12 <u>Route 3" for route/day 345/2
+NO MATCH: "Aurora Village TC Bay-4 " for route/day 345/2
+NO MATCH: "Av   SE Ridge & Center Bl SE" for route/day 215/0
+NO MATCH: "Av  Healy Av & Stow Av" for route/day 215/0
+NO MATCH: "Av N  ublican St u>        <u>" for route/day 1/2
+NO MATCH: "Avondale NE & Avondale Pl " for route/day 248/2
+NO MATCH: "Avondale NE & Avondale Pl NE" for route/day 248/2
+NO MATCH: "ay   On  I-90 at W   142nd Pl" for route/day 215/0
+NO MATCH: "ay   SE Ridge & y   Center Bl SE" for route/day 215/0
+NO MATCH: "ay  4th Av S S Jackso ne     (islan stop)" for route/day 39/0
+NO MATCH: "ay  Newport W NW & y   17th Av N" for route/day 215/0
+NO MATCH: "ay  Newport W SW & W   Sunset Wa " for route/day 215/0
+NO MATCH: "Ballard Av NW & NW Market" for route/day 18/0
+NO MATCH: "Ballard Av NW & NW Market" for route/day 18/0
+NO MATCH: "Ballard Av NW & NW Market" for route/day 18/2
+NO MATCH: "Ballard Av NW & NW Market" for route/day 18/2
+NO MATCH: "Ballard Av NW & NW Market" for route/day 44/2
+NO MATCH: "Ballard Av NW & NW Market" for route/day 44/2
+NO MATCH: "Beacon Av S & S Othello" for route/day 36/0
+NO MATCH: "Beacon Av S & S Othello" for route/day 36/1
+NO MATCH: "Beacon Av S & S Othello" for route/day 36/2
+NO MATCH: "Bell-Red & 124th Av NE" for route/day 233/0
+NO MATCH: "Bell-Red & 124th Av NE" for route/day 233/0
+NO MATCH: "Bell-Red & 124th Av NE" for route/day 233/1
+NO MATCH: "Bell-Red & 124th Av NE" for route/day 233/1
+NO MATCH: "Bellevue Av & Bellevue Pl " for route/day 14/1
+NO MATCH: "Bellevue Av & Bellevue Pl " for route/day 14/2
+NO MATCH: "Bellevue Av & E Pike " for route/day 14/1
+NO MATCH: "Bellevue Av & E Pike " for route/day 14/2
+NO MATCH: "Bellevue Av E & Bellevue Pl E" for route/day 14/1
+NO MATCH: "Bellevue Av E & Bellevue Pl E" for route/day 14/2
+NO MATCH: "Bellevue Way SE & 112th Av SE" for route/day 222/1
+NO MATCH: "Bellevue Way SE & 112th Av SE" for route/day 222/1
+NO MATCH: "Bellevue Wy SE & 112th Av SE" for route/day 240/0
+NO MATCH: "Bellevue Wy SE & 112th Av SE" for route/day 240/0
+NO MATCH: "Bellevue Wy SE & 112th Av SE" for route/day 240/2
+NO MATCH: "Bellevue Wy SE & 112th Av SE" for route/day 240/2
+NO MATCH: "Boren Av & Madison " for route/day 205/0
+NO MATCH: "Bothell Way & </u>   Ball Way NE Route 331" for route/day 331/1
+NO MATCH: "Bothell Way NE & Ballinger Way NE Route 331" for route/day 331/1
+NO MATCH: "Bothell Way NE & Ballinger Way NE" for route/day 308/0
+NO MATCH: "Bothell Way NE & Ballinger Way NE" for route/day 308/0
+NO MATCH: "Broadway & E Yesler Way" for route/day 27/2
+NO MATCH: "Broadway & E Yesler Way" for route/day 27/2
+NO MATCH: "Brooklyn Av NE & NE Campus Pkwy" for route/day 30/2
+NO MATCH: "Burien TC Bay 2" for route/day 180/0
+NO MATCH: "Burien TC Bay 3" for route/day 122/0
+NO MATCH: "Burien TC Bay 5" for route/day 122/0
+NO MATCH: "Burien TC Bay 6" for route/day 180/0
+NO MATCH: "Burien Transit Ctr Bay 3 " for route/day 123/0
+NO MATCH: "Burien Transit Ctr Bay 3" for route/day 120/1
+NO MATCH: "Burien Transit Ctr Bay 3" for route/day 120/2
+NO MATCH: "Burien Transit Ctr Bay 3" for route/day 123/0
+NO MATCH: "Burien Transit Ctr Bay 5" for route/day 120/1
+NO MATCH: "Burien Transit Ctr Bay 5" for route/day 120/2
+NO MATCH: "Burien Transit Ctr Bay 6" for route/day 123/0
+NO MATCH: "Calif Av SW & SW Alaska" for route/day 54/0
+NO MATCH: "Calif. Av & SW Admir Wy" for route/day 57/0
+NO MATCH: "Calif. Av SW & SW Admiral Wy" for route/day 56/2
+NO MATCH: "Calif. Av SW & SW Admiral Wy" for route/day 56/2
+NO MATCH: "Calif. Av SW & SW Alaska " for route/day 54/0
+NO MATCH: "Calif. Av SW & SW Alaska" for route/day 22/2
+NO MATCH: "Calif. Av SW & SW Fauntleroy Wy" for route/day 54/0
+NO MATCH: "Calif. Av SW & SW Fauntleroy Wy" for route/day 54/0
+NO MATCH: "Campus Wy NE across from Bookstore" for route/day 238/1
+NO MATCH: "Campus Wy NE at Bookstore" for route/day 238/1
+NO MATCH: "Children's Hospital " for route/day 75/0
+NO MATCH: "Children's Hospital " for route/day 75/0
+NO MATCH: "Coal Creek Pkwy & I-405 " for route/day 114/0
+NO MATCH: "Coal Creek Pkwy & Newcastle Way" for route/day 114/0
+NO MATCH: "Coal Creek Pkwy SE & Newcastle Way" for route/day 114/0
+NO MATCH: "College Way & N 97th" for route/day 16/0
+NO MATCH: "College Way & N 97th" for route/day 16/0
+NO MATCH: "College Way & N 97th" for route/day 16/2
+NO MATCH: "College Way & N 97th" for route/day 16/2
+NO MATCH: "Columbia & 2nd Av " for route/day 54/0
+NO MATCH: "Convention Pl Station Bay-C " for route/day 174/1
+NO MATCH: "Convention Pl Station Bay-C" for route/day 101/0
+NO MATCH: "Convention Pl Station Bay-C" for route/day 101/1
+NO MATCH: "Convention Pl Station Bay-C" for route/day 101/2
+NO MATCH: "Convention Pl Station Bay-C" for route/day 102/0
+NO MATCH: "Convention Place Sta Bay-C" for route/day 150/1
+NO MATCH: "Convention Place Sta Bay-C" for route/day 150/2
+NO MATCH: "Convention Place Station" for route/day 101/0
+NO MATCH: "Convention Place Station" for route/day 101/1
+NO MATCH: "Convention Place Station" for route/day 101/2
+NO MATCH: "Convention Place Station" for route/day 150/1
+NO MATCH: "Convention Place Station" for route/day 150/2
+NO MATCH: "Convention Place Station" for route/day 174/1
+NO MATCH: "Delridge Way SW & SW Orchard" for route/day 120/1
+NO MATCH: "Delridge Way SW & SW Orchard" for route/day 120/1
+NO MATCH: "Delridge Way SW & SW Orchard" for route/day 120/2
+NO MATCH: "Delridge Way SW & SW Orchard" for route/day 120/2
+NO MATCH: "Denny Way & Dexter Av N" for route/day 8/0
+NO MATCH: "Denny Way & Dexter Av N" for route/day 8/2
+NO MATCH: "Denny Way & Dexter Av" for route/day 8/0
+NO MATCH: "Denny Way & Dexter Av" for route/day 8/2
+NO MATCH: "Duvall Av NE & NE Sunset" for route/day 240/0
+NO MATCH: "Duvall Av NE & NE Sunset" for route/day 240/0
+NO MATCH: "Duvall Av NE & NE Sunset" for route/day 240/2
+NO MATCH: "Duvall Av NE & NE Sunset" for route/day 240/2
+NO MATCH: "E    5th Av N & NE 165th " for route/day 348/0
+NO MATCH: "E    5th Av N & NE 165th " for route/day 348/2
+NO MATCH: "E   15th Av N & NE 125th " for route/day 348/0
+NO MATCH: "E   15th Av N & NE 125th " for route/day 348/2
+NO MATCH: "E   15th Av N & NE 175th " for route/day 348/0
+NO MATCH: "E   15th Av N & NE 175th " for route/day 348/2
+NO MATCH: "E   Northgate Transit Center Bay-3" for route/day 348/0
+NO MATCH: "E   Northgate Transit Center Bay-3" for route/day 348/2
+NO MATCH: "E Lk Samm Pkwy SE & SE 56th " for route/day 269/0
+NO MATCH: "E Lk Samm Pkwy SE & SE 56th" for route/day 269/0
+NO MATCH: "E Madison & E Garfield" for route/day 988/0
+NO MATCH: "E Marginal & S 124th" for route/day 600/0
+NO MATCH: "E Marginal Way S & 16th Av S" for route/day 124/2
+NO MATCH: "E Marginal Way S & S 120th Pl" for route/day 126/0
+NO MATCH: "E Marginal Way S & S 120th Pl" for route/day 126/0
+NO MATCH: "E Marginal Way S & S 124th" for route/day 600/0
+NO MATCH: "Eastgate P&amp;R 8th       Bay" for route/day 221/0
+NO MATCH: "Eastgate P&amp;R 8th       Bay" for route/day 221/1
+NO MATCH: "Eastgate P&R Bay 2" for route/day 221/0
+NO MATCH: "Eastlake Av E & Harvard Av E " for route/day 70/0
+NO MATCH: "Edmonds Av  M SE & Puget Dr SE" for route/day 102/0
+NO MATCH: "Edmonds Av NE & NE 7th" for route/day 908/1
+NO MATCH: "Edmonds Av SE & Puget Dr SE " for route/day 101/0
+NO MATCH: "Factoria SE & I-90" for route/day 240/0
+NO MATCH: "Factoria SE & I-90" for route/day 240/0
+NO MATCH: "Factoria SE & I-90" for route/day 240/2
+NO MATCH: "Factoria SE & I-90" for route/day 240/2
+NO MATCH: "Factoria SE & SE Newport Way" for route/day 222/1
+NO MATCH: "Factoria SE & SE Newport Way" for route/day 222/1
+NO MATCH: "Factory Stores  of North Bend" for route/day 209/0
+NO MATCH: "Factory Stores  of North Bend" for route/day 209/1
+NO MATCH: "Fairview Av & Denny Way " for route/day 70/0
+NO MATCH: "Fairview Av & Denny Way" for route/day 70/0
+NO MATCH: "Fairview Av & Denny Way" for route/day 71/1
+NO MATCH: "Fairview Av & Denny Way" for route/day 72/0
+NO MATCH: "Fairview Av & Denny Way" for route/day 72/1
+NO MATCH: "Fairview Av & Denny Way" for route/day 72/2
+NO MATCH: "Fairview Av & Denny Way" for route/day 73/1
+NO MATCH: "Fairview Av & Denny Way" for route/day 73/2
+NO MATCH: "Fairview Av N & Denny Way" for route/day 71/1
+NO MATCH: "Fairview Av N & Denny Way" for route/day 72/0
+NO MATCH: "Fairview Av N & Denny Way" for route/day 72/1
+NO MATCH: "Fairview Av N & Denny Way" for route/day 72/2
+NO MATCH: "Fairview Av N & Denny Way" for route/day 73/1
+NO MATCH: "Fairview Av N & Denny Way" for route/day 73/2
+NO MATCH: "Fed Way Transit Cntr Bay 3" for route/day 182/1
+NO MATCH: "Fremont Wy N & Linden Av N" for route/day 5/2
+NO MATCH: "Greenwood Av N & Holman N" for route/day 5/2
+NO MATCH: "Greenwood Av N & N 103rd" for route/day 5/2
+NO MATCH: "h Pl SE   Sam mber Rd  High" for route/day 890/0
+NO MATCH: "Harrington NE & NE 16th" for route/day 105/0
+NO MATCH: "Harrington NE & NE 16th" for route/day 105/2
+NO MATCH: "Harvard Av E & E Roanoke" for route/day 988/0
+NO MATCH: "Harvard Av E & E Roanoke" for route/day 988/0
+NO MATCH: "Highline Communit ute   College " for route/day 134/0
+NO MATCH: "Hollyhills NE & NE 192nd" for route/day 251/0
+NO MATCH: "Hollyhills NE & NE 192nd" for route/day 251/0
+NO MATCH: "I-405 & 112th Av SE" for route/day 952/0
+NO MATCH: "I-405 & 112th Av SE" for route/day 952/0
+NO MATCH: "I-405 & Juanita- Wdvlle Wy NE" for route/day 952/0
+NO MATCH: "I-405 & N 30th" for route/day 952/0
+NO MATCH: "I-405 & NE 160th" for route/day 237/0
+NO MATCH: "I-405 & NE 160th" for route/day 237/0
+NO MATCH: "I-405 & NE 160th" for route/day 252/0
+NO MATCH: "I-405 & NE 160th" for route/day 252/0
+NO MATCH: "I-405 & NE 160th" for route/day 255/0
+NO MATCH: "I-405 & NE 160th" for route/day 255/0
+NO MATCH: "I-405 & NE 160th" for route/day 255/1
+NO MATCH: "I-405 & NE 160th" for route/day 255/1
+NO MATCH: "I-405 & NE 160th" for route/day 256/0
+NO MATCH: "I-405 & NE 160th" for route/day 256/0
+NO MATCH: "I-405 & NE 160th" for route/day 257/0
+NO MATCH: "I-405 & NE 160th" for route/day 257/0
+NO MATCH: "I-405 & NE 160th" for route/day 952/0
+NO MATCH: "I-405 & NE 30th" for route/day 952/0
+NO MATCH: "I-405 & NE 70th Pl" for route/day 952/0
+NO MATCH: "I-405 & NE 70th Pl" for route/day 952/0
+NO MATCH: "I-405 & SE 8th" for route/day 243/0
+NO MATCH: "I-405 & SE 8th" for route/day 952/0
+NO MATCH: "I-405 & SE 8th" for route/day 952/0
+NO MATCH: "I-5 & 272nd Southbound Off-Ramp" for route/day 941/0
+NO MATCH: "I-5 & Kent- Des Moines" for route/day 941/0
+NO MATCH: "I-5 & Kent- DesMoines On-Ramp" for route/day 941/0
+NO MATCH: "I-5 & Kent-Des Moines" for route/day 158/0
+NO MATCH: "I-5 & Kent-Des Moines" for route/day 158/0
+NO MATCH: "I-5 & Kent-Des Moines" for route/day 162/0
+NO MATCH: "I-5 & Kent-Des Moines" for route/day 162/0
+NO MATCH: "I-5 & S 272nd" for route/day 941/0
+NO MATCH: "I-90 & 142nd Pl SE" for route/day 216/0
+NO MATCH: "I-90 at 142nd Pl SE" for route/day 216/0
+NO MATCH: "ila Blvd tation /u>       <u>" for route/day 129/0
+NO MATCH: "ila Blvd tation /u>       <u>" for route/day 129/0
+NO MATCH: "Illinois Av & Texas Way" for route/day 33/0
+NO MATCH: "Illinois Av & Texas Way" for route/day 33/0
+NO MATCH: "Illinois Av & Texas Way" for route/day 33/1
+NO MATCH: "Illinois Av & Texas Way" for route/day 33/1
+NO MATCH: "Int'l Blvd & S 160th " for route/day 174/1
+NO MATCH: "International Blvd & S 112th" for route/day 124/2
+NO MATCH: "International Dist Station Bay-A" for route/day 71/1
+NO MATCH: "International Dist Station Bay-A" for route/day 72/0
+NO MATCH: "International Dist Station Bay-A" for route/day 72/1
+NO MATCH: "International Dist Station Bay-A" for route/day 72/2
+NO MATCH: "International Dist Station Bay-A" for route/day 73/1
+NO MATCH: "International Dist Station Bay-A" for route/day 73/2
+NO MATCH: "International Dist Station Bay-B" for route/day 255/0
+NO MATCH: "International Dist Station Bay-B" for route/day 255/1
+NO MATCH: "International Dist Station Bay-B" for route/day 256/0
+NO MATCH: "International Dist Station Bay-C" for route/day 71/1
+NO MATCH: "International Dist Station Bay-C" for route/day 72/0
+NO MATCH: "International Dist Station Bay-C" for route/day 72/1
+NO MATCH: "International Dist Station Bay-C" for route/day 72/2
+NO MATCH: "International Dist Station Bay-C" for route/day 73/1
+NO MATCH: "International Dist Station Bay-C" for route/day 73/2
+NO MATCH: "Interurban Av S & 52nd Av S" for route/day 280/0
+NO MATCH: "Interurban Av S & Gateway Dr" for route/day 126/0
+NO MATCH: "Interurban Av S & Gateway Dr" for route/day 126/0
+NO MATCH: "Intl & S 112th " for route/day 124/2
+NO MATCH: "Island Crest Way & SE 40th " for route/day 204/1
+NO MATCH: "Island Crest Way & SE 40th " for route/day 204/2
+NO MATCH: "Island Crest Way & SE 40th " for route/day 205/0
+NO MATCH: "Island Crest Way & SE 40th" for route/day 202/0
+NO MATCH: "Island Crest Way & SE 40th" for route/day 204/1
+NO MATCH: "Island Crest Way & SE 40th" for route/day 204/2
+NO MATCH: "Island Crest Way & SE 40th" for route/day 205/0
+NO MATCH: "Island Crest Wy SE & SE 40th" for route/day 202/0
+NO MATCH: "Issaquah TC Bay 3" for route/day 209/0
+NO MATCH: "Issaquah TC Bay 3" for route/day 209/1
+NO MATCH: "Issaquah TC Bay 4" for route/day 209/0
+NO MATCH: "Issaquah TC Bay 4" for route/day 209/1
+NO MATCH: "Issaquah-Fall City & Klahanie Dr" for route/day 927/1
+NO MATCH: "Issaquah-Fall City & Klahanie Dr" for route/day 927/1
+NO MATCH: "Kenm P& <u>Inside Lo <" for route/day 331/1
+NO MATCH: "Kent Station Bay 4" for route/day 150/1
+NO MATCH: "Kent Station Bay 4" for route/day 150/2
+NO MATCH: "Kent Station Bay 4" for route/day 180/0
+NO MATCH: "Kent Station Bay 8" for route/day 150/1
+NO MATCH: "Kent Station Bay 8" for route/day 150/2
+NO MATCH: "Kent Station Bay 9" for route/day 180/0
+NO MATCH: "King County Aquatics Center" for route/day 903/0
+NO MATCH: "King County Aquatics Center" for route/day 903/0
+NO MATCH: "King County Aquatics Center" for route/day 903/2
+NO MATCH: "King County Aquatics Center" for route/day 903/2
+NO MATCH: "L King Jr   S Way S & S 129th" for route/day 102/0
+NO MATCH: "l ol" for route/day 890/0
+NO MATCH: "l" for route/day 124/2
+NO MATCH: "Lake City Way NE & NE 125th" for route/day 75/0
+NO MATCH: "Lake City Way NE & NE 130th" for route/day 72/0
+NO MATCH: "Lake City Way NE & NE 130th" for route/day 72/1
+NO MATCH: "Lake City Way NE & NE 130th" for route/day 72/2
+NO MATCH: "Lake City Way NE & NE 145th " for route/day 308/0
+NO MATCH: "Lake City Way NE & NE 145th" for route/day 308/0
+NO MATCH: "Lakemont SE & SE ewport Way" for route/day 271/1
+NO MATCH: "Lakemont SE & SE ewport Way" for route/day 271/2
+NO MATCH: "Lakemont SE & SE Newport Way" for route/day 271/1
+NO MATCH: "Lakemont SE & SE Newport Way" for route/day 271/2
+NO MATCH: "Lakeside E & S 228th" for route/day 913/0
+NO MATCH: "Lakeside E & S 228th" for route/day 913/0
+NO MATCH: "Leary Av NW & NW Vernon P" for route/day 75/0
+NO MATCH: "Lenora & ute   4th Av " for route/day 215/0
+NO MATCH: "Lind Av SW & SW 41st " for route/day 247/0
+NO MATCH: "Lind Av SW & SW 41st" for route/day 247/0
+NO MATCH: "Lind Av SW & SW 43rd " for route/day 153/0
+NO MATCH: "Lind Av SW & SW 43rd" for route/day 153/0
+NO MATCH: "Lk Samm  Eas kwy &amp; I-90      Bay" for route/day 890/0
+NO MATCH: "Lower Rdwy (Bag Claim) Bay-1" for route/day 140/1
+NO MATCH: "Lower Rdwy (Bag Claim) Bay-1" for route/day 140/2
+NO MATCH: "Lower Rdwy (Bag Claim) Bay-1" for route/day 180/2
+NO MATCH: "Lower Rdwy (Bag Claim) Bay-2 " for route/day 140/1
+NO MATCH: "Lower Rdwy (Bag Claim) Bay-2 " for route/day 140/2
+NO MATCH: "Lower Rdwy (Bag Claim) Bay-2" for route/day 180/2
+NO MATCH: "Madrona Dr & Lake Wash" for route/day 2/2
+NO MATCH: "Madrona Dr & Lake Wash" for route/day 2/2
+NO MATCH: "Magnolia W & W Emerson" for route/day 19/0
+NO MATCH: "mamish   Int' School  Scho" for route/day 890/0
+NO MATCH: "McGilvra & E Madison" for route/day 988/0
+NO MATCH: "Memorial Way & Stevens Way " for route/day 373/0
+NO MATCH: "Memorial Way & Stevens Way" for route/day 373/0
+NO MATCH: "Mercer Village Center " for route/day 204/1
+NO MATCH: "Mercer Village Center " for route/day 204/2
+NO MATCH: "Mercer Village Center" for route/day 202/0
+NO MATCH: "Mercer Village Center" for route/day 202/0
+NO MATCH: "Mercer Village Center" for route/day 204/1
+NO MATCH: "Mercer Village Center" for route/day 204/2
+NO MATCH: "Mercer Village Shopping Ctr " for route/day 205/0
+NO MATCH: "Mercer Village Shopping Ctr" for route/day 205/0
+NO MATCH: "Mercer Way 80th Av SE (eastbound)" for route/day 204/1
+NO MATCH: "Mercer Way 80th Av SE (eastbound)" for route/day 204/2
+NO MATCH: "Military S & </u>     24th Route 129" for route/day 129/0
+NO MATCH: "Military S & 24th Av S <u>" for route/day 129/0
+NO MATCH: "Military S & 24th Av S" for route/day 170/0
+NO MATCH: "Military S & 24th Av S" for route/day 170/0
+NO MATCH: "Military S & Kent- Des Moines" for route/day 192/0
+NO MATCH: "Military S & Kent- Des Moines" for route/day 192/0
+NO MATCH: "Military S & S 128th" for route/day 132/2
+NO MATCH: "Military S & S 128th" for route/day 132/2
+NO MATCH: "Military S & S 272nd" for route/day 192/0
+NO MATCH: "Military S & S 272nd" for route/day 192/0
+NO MATCH: "ML King Jr Way & E Madison" for route/day 8/0
+NO MATCH: "ML King Jr Way & E Madison" for route/day 8/0
+NO MATCH: "ML King Jr Way S & S 129th" for route/day 101/0
+NO MATCH: "ML King Jr Way S & S 129th" for route/day 101/0
+NO MATCH: "ML King Jr Way S & S 129th" for route/day 101/1
+NO MATCH: "ML King Jr Way S & S 129th" for route/day 101/1
+NO MATCH: "ML King Jr Way S & S 129th" for route/day 101/2
+NO MATCH: "ML King Jr Way S & S 129th" for route/day 101/2
+NO MATCH: "ML King Jr Way S & S 129th" for route/day 102/0
+NO MATCH: "ML King Jr Way S & S Hanford" for route/day 42/2
+NO MATCH: "ML King Jr Way S & S Hanford" for route/day 42/2
+NO MATCH: "ML King Jr Way S & S Myrtle" for route/day 42/2
+NO MATCH: "ML King Jr Way S & S Othello" for route/day 42/2
+NO MATCH: "Montlake Blvd NE & E Shelby" for route/day 243/0
+NO MATCH: "Montlake NE & NE Pacific Pl" for route/day 44/2
+NO MATCH: "Montlake NE & NE Pacific Pl" for route/day 44/2
+NO MATCH: "Mt Rainier Dr S & S Ridgeway Pl" for route/day 14/1
+NO MATCH: "Mt Rainier Dr S & S Ridgeway Pl" for route/day 14/2
+NO MATCH: "Mt Rainier S & 37th Pl S " for route/day 14/1
+NO MATCH: "Mt Rainier S & 37th Pl S " for route/day 14/2
+NO MATCH: "Mt Si Senior ute   Center " for route/day 215/0
+NO MATCH: "Myers Wy & Olson Pl " for route/day 134/0
+NO MATCH: "N 143rd & Linden Av N" for route/day 28/1
+NO MATCH: "N 143rd & Linden Av N" for route/day 28/1
+NO MATCH: "N 145th & Greenwood N" for route/day 5/2
+NO MATCH: "N 145th & Greenwood N" for route/day 5/2
+NO MATCH: "N 160th & chmond   Dayt " for route/day 331/1
+NO MATCH: "N 160th & Dayton Av N  <u>" for route/day 331/1
+NO MATCH: "N 200th & Ashworth Av " for route/day 373/0
+NO MATCH: "N 200th & Ashworth Av N" for route/day 373/0
+NO MATCH: "N 45th & Stone Way N" for route/day 44/2
+NO MATCH: "N 45th & Stone Way N" for route/day 44/2
+NO MATCH: "N 46th & Phinney N" for route/day 5/2
+NO MATCH: "N 46th & Phinney N" for route/day 5/2
+NO MATCH: "N 85th & Greenwood N" for route/day 5/2
+NO MATCH: "N 85th & Greenwood N" for route/day 5/2
+NO MATCH: "N Mercer Way & 80th Av SE (eastbound)" for route/day 202/0
+NO MATCH: "N Mercer Way & 80th Av SE" for route/day 216/0
+NO MATCH: "N Mercer Way & 80th Av SE" for route/day 216/0
+NO MATCH: "N Seattle Community College " for route/day 345/2
+NO MATCH: "N Seattle Community College ute 345" for route/day 345/2
+NO MATCH: "NE 109th & Woodinvill Redmond Rd" for route/day 221/0
+NO MATCH: "NE 109th & Woodinvill Redmond Rd" for route/day 221/1
+NO MATCH: "NE 109th & Woodinville </u>    Redmo" for route/day 221/0
+NO MATCH: "NE 109th & Woodinville Redmond Rd" for route/day 221/1
+NO MATCH: "NE 124th & 172nd Av NE" for route/day 251/0
+NO MATCH: "NE 124th & 172nd Av NE" for route/day 251/1
+NO MATCH: "NE 128th & !20th Av NE" for route/day 236/1
+NO MATCH: "NE 128th & I-405" for route/day 237/0
+NO MATCH: "NE 128th & I-405" for route/day 237/0
+NO MATCH: "NE 132nd & 124th Av NE" for route/day 252/0
+NO MATCH: "NE 132nd & 124th Av NE" for route/day 257/0
+NO MATCH: "NE 145th & 15th Av NE " for route/day 373/0
+NO MATCH: "NE 145th & I-5 " for route/day 308/0
+NO MATCH: "NE 145th & I-5" for route/day 308/0
+NO MATCH: "NE 160th & I-405" for route/day 236/0
+NO MATCH: "NE 160th & I-405" for route/day 236/0
+NO MATCH: "NE 160th & I-405" for route/day 236/1
+NO MATCH: "NE 160th & I-405" for route/day 236/1
+NO MATCH: "NE 38th Pl & 108th Av NE" for route/day 986/0
+NO MATCH: "NE 38th Pl & 108th Av NE" for route/day 986/0
+NO MATCH: "NE 45th & Brooklyn Av NE" for route/day 44/2
+NO MATCH: "NE 45th & Univ Way NE " for route/day 205/0
+NO MATCH: "NE 45th & Univ Way NE" for route/day 43/0
+NO MATCH: "NE 45th & Univ Way NE" for route/day 43/0
+NO MATCH: "NE 45th & Univ Way NE" for route/day 44/2
+NO MATCH: "NE 50th & Brooklyn Av" for route/day 70/0
+NO MATCH: "NE 6th & 08th Av NE" for route/day 271/1
+NO MATCH: "NE 6th & 08th Av NE" for route/day 271/2
+NO MATCH: "NE 6th & 108th Av NE " for route/day 253/2
+NO MATCH: "NE 6th & 108th Av NE" for route/day 222/1
+NO MATCH: "NE 6th & 108th Av NE" for route/day 222/1
+NO MATCH: "NE 6th & 108th Av NE" for route/day 233/0
+NO MATCH: "NE 6th & 108th Av NE" for route/day 233/1
+NO MATCH: "NE 6th & 108th Av NE" for route/day 237/0
+NO MATCH: "NE 6th & 108th Av NE" for route/day 237/0
+NO MATCH: "NE 6th & 108th Av NE" for route/day 243/0
+NO MATCH: "NE 6th & 108th Av NE" for route/day 243/0
+NO MATCH: "NE 6th & 108th Av NE" for route/day 249/1
+NO MATCH: "NE 6th & 108th Av NE" for route/day 253/2
+NO MATCH: "NE 74th & Sand Point Way NE" for route/day 30/2
+NO MATCH: "NE 74th & Sand Point Way NE" for route/day 30/2
+NO MATCH: "NE 74th & Sand Point Way NE" for route/day 75/0
+NO MATCH: "NE 74th & Sand Point Way NE" for route/day 75/0
+NO MATCH: "NE 7th & Edmonds Av NE" for route/day 908/1
+NO MATCH: "NE 83rd & 161st Av NE " for route/day 248/2
+NO MATCH: "NE 83rd & 161st Av NE" for route/day 221/1
+NO MATCH: "NE 83rd & 161st Av NE" for route/day 248/2
+NO MATCH: "NE 85th & 132nd Av NE " for route/day 248/2
+NO MATCH: "NE 85th & 132nd Av NE" for route/day 248/2
+NO MATCH: "ne Av N  blican St /u>        <u" for route/day 1/2
+NO MATCH: "NE Campus Pk & Brooklyn Av" for route/day 75/0
+NO MATCH: "NE Campus Pkwy & 12th Av NE" for route/day 68/0
+NO MATCH: "NE Campus Pkwy & 12th Av NE" for route/day 68/1
+NO MATCH: "NE Campus Pkwy & Brooklyn Av " for route/day 68/0
+NO MATCH: "NE Campus Pkwy & Brooklyn Av " for route/day 68/1
+NO MATCH: "NE Campus Pkwy & Brooklyn NE" for route/day 75/0
+NO MATCH: "NE Pacific & Univ Way NE " for route/day 205/0
+NO MATCH: "Newport W NW & E   17th Av N " for route/day 215/0
+NO MATCH: "Newport W SW & vd  Sunset Wa " for route/day 215/0
+NO MATCH: "Newport Way NW & 17th Av NW " for route/day 269/0
+NO MATCH: "Newport Way NW & 17th Av NW" for route/day 200/0
+NO MATCH: "Newport Way NW & 17th Av NW" for route/day 200/0
+NO MATCH: "Newport Way NW & 17th Av NW" for route/day 269/0
+NO MATCH: "Newport Way NW & 17th Av NW" for route/day 271/1
+NO MATCH: "Newport Way NW & 17th Av NW" for route/day 271/2
+NO MATCH: "Newport Way NW & 17th Av NW" for route/day 927/1
+NO MATCH: "Newport Way NW & 17th Av NW" for route/day 927/1
+NO MATCH: "Newport Way NW & 7th Av NW   N" for route/day 271/1
+NO MATCH: "Newport Way NW & 7th Av NW   N" for route/day 271/2
+NO MATCH: "Newport Wy SW & Sunset Wy  1" for route/day 271/1
+NO MATCH: "Newport Wy SW & Sunset Wy  1" for route/day 271/2
+NO MATCH: "Newport Wy SW & W Sunset Wy" for route/day 271/1
+NO MATCH: "Newport Wy SW & W Sunset Wy" for route/day 271/2
+NO MATCH: "nion , 15 or 18  <" for route/day 1/2
+NO MATCH: "niversity   C t Station Bay-A" for route/day 102/0
+NO MATCH: "Northbound at South Entrance " for route/day 247/0
+NO MATCH: "Northbound on Rainier Av S at S Henderson" for route/day 7/0
+NO MATCH: "Northbound Train Arrives" for route/day 126/0
+NO MATCH: "Northgate TC Bay-3 <u>      Ro" for route/day 345/2
+NO MATCH: "Northgate TC Bay-4 " for route/day 345/2
+NO MATCH: "Northgate TC Bay-4" for route/day 348/0
+NO MATCH: "Northgate TC Bay-4" for route/day 348/2
+NO MATCH: "Northgate Transit Center" for route/day 75/0
+NO MATCH: "Northgate Transit Center" for route/day 75/0
+NO MATCH: "nternational ist Station Bay-D" for route/day 255/0
+NO MATCH: "nternational ist Station Bay-D" for route/day 256/0
+NO MATCH: "NW 196th & Richmon ute Beach Dr " for route/day 348/0
+NO MATCH: "NW 196th & Richmon ute Beach Dr " for route/day 348/2
+NO MATCH: "NW 196th & Richmond Beach Dr NW" for route/day 348/0
+NO MATCH: "NW 196th & Richmond Beach Dr NW" for route/day 348/2
+NO MATCH: "ODO Busway  U &       S S Spokane" for route/day 102/0
+NO MATCH: "ODO Busway & S Spokane" for route/day 190/0
+NO MATCH: "Olive Wa & 5th Av" for route/day 215/0
+NO MATCH: "Olive Way & 8th Av" for route/day 150/1
+NO MATCH: "Olive Way & 8th Av" for route/day 150/2
+NO MATCH: "on  Seward Pa Av S & v S  Wilson A " for route/day 39/0
+NO MATCH: "On 1st Av S At S Spokane" for route/day 35/0
+NO MATCH: "On 4th Av at James" for route/day 33/0
+NO MATCH: "On 7th Av at Blanchard" for route/day 158/0
+NO MATCH: "On 7th Av at Blanchard" for route/day 162/0
+NO MATCH: "on Av N </u>" for route/day 331/1
+NO MATCH: "On Bell at 7th Av " for route/day 114/0
+NO MATCH: "On I-90 at S   142 Pl S " for route/day 215/0
+NO MATCH: "On I-90 at SE Rainier Av" for route/day 215/0
+NO MATCH: "On I-90 at y  Rainier Av " for route/day 215/0
+NO MATCH: "On Linden Av N at N 143rd" for route/day 28/1
+NO MATCH: "On Montlake Blvd at SR-520" for route/day 243/0
+NO MATCH: "On Montlake Blvd at SR-520" for route/day 43/0
+NO MATCH: "On Montlake Blvd at SR-520" for route/day 43/0
+NO MATCH: "On Montlake Blvd at SR-520" for route/day 44/2
+NO MATCH: "On Montlake Blvd at SR-520" for route/day 44/2
+NO MATCH: "On Montlake Blvd at SR-520" for route/day 48/2
+NO MATCH: "On Montlake Blvd at SR-520" for route/day 48/2
+NO MATCH: "On Montlake Blvd, at E Shelby" for route/day 271/1
+NO MATCH: "On Montlake Blvd, at E Shelby" for route/day 271/2
+NO MATCH: "On Montlake Blvd, at SR-520     1" for route/day 271/1
+NO MATCH: "On Montlake Blvd, at SR-520     1" for route/day 271/2
+NO MATCH: "On Pine at 9th Av" for route/day 177/0
+NO MATCH: "On S Henderson St at Rainier Av S" for route/day 7/0
+NO MATCH: "On S Jackson at 5th Av S" for route/day 71/1
+NO MATCH: "On S Jackson at 5th Av S" for route/day 72/0
+NO MATCH: "On S Jackson at 5th Av S" for route/day 72/1
+NO MATCH: "On S Jackson at 5th Av S" for route/day 72/2
+NO MATCH: "On S Jackson St at 5th Av S" for route/day 73/2
+NO MATCH: "On S Spokane At 1st Av S" for route/day 35/0
+NO MATCH: "On S Walden at Rainier Av S" for route/day 48/2
+NO MATCH: "On S Washington at 4th Av S" for route/day 33/1
+NO MATCH: "On SE 8th at 118th Av" for route/day 243/0
+NO MATCH: "On Shattuck Av S at S Grady Way " for route/day 247/0
+NO MATCH: "On Shattuck Av S at S Grady Way" for route/day 101/0
+NO MATCH: "On Shattuck Av S at S Grady Way" for route/day 101/1
+NO MATCH: "On Shattuck Av S at S Grady Way" for route/day 101/2
+NO MATCH: "On Shattuck Av S at S Grady Way" for route/day 102/0
+NO MATCH: "On SR-520 At Evergreen Point" for route/day 243/0
+NO MATCH: "On SR-520 At Evergreen Point" for route/day 243/0
+NO MATCH: "On SR-520 at Evergreen Point" for route/day 252/0
+NO MATCH: "On SR-520 at Evergreen Point" for route/day 257/0
+NO MATCH: "On SR-520 at Evergreen Pt Road" for route/day 986/0
+NO MATCH: "On SR-520 At Montlake " for route/day 242/0
+NO MATCH: "On SR-520 At Montlake " for route/day 280/0
+NO MATCH: "On SR-520 at Montlake Blvd" for route/day 986/0
+NO MATCH: "On SR-520 At Montlake" for route/day 242/0
+NO MATCH: "On SR-520 At Montlake" for route/day 252/0
+NO MATCH: "On SR-520 At Montlake" for route/day 252/0
+NO MATCH: "On SR-520 At Montlake" for route/day 255/0
+NO MATCH: "On SR-520 At Montlake" for route/day 255/0
+NO MATCH: "On SR-520 At Montlake" for route/day 255/1
+NO MATCH: "On SR-520 At Montlake" for route/day 255/1
+NO MATCH: "On SR-520 At Montlake" for route/day 256/0
+NO MATCH: "On SR-520 At Montlake" for route/day 256/0
+NO MATCH: "On SR-520 At Montlake" for route/day 257/0
+NO MATCH: "On SR-520 At Montlake" for route/day 257/0
+NO MATCH: "On SR-520 t Evergreen Point" for route/day 252/0
+NO MATCH: "On SR-520 t Evergreen Point" for route/day 257/0
+NO MATCH: "On Stewart at 9th Av" for route/day 192/0
+NO MATCH: "onvention Place Station" for route/day 102/0
+NO MATCH: "op oute 522</u>" for route/day 331/1
+NO MATCH: "ore R t    Eastboun /u>     <u>" for route/day 331/1
+NO MATCH: "Overlake Transit Ctr </u>     Ba" for route/day 221/0
+NO MATCH: "Overlake Transit Ctr </u>     Ba" for route/day 221/1
+NO MATCH: "Overlake Transit Ctr Bay 4" for route/day 221/0
+NO MATCH: "Pacific Hwy & Kent- Des Moines " for route/day 174/1
+NO MATCH: "Pacific Hwy & S 272nd " for route/day 174/1
+NO MATCH: "Pacific Hwy S & Kent- Des Moines" for route/day 174/1
+NO MATCH: "Park Av N & N 8th " for route/day 247/0
+NO MATCH: "Park Av N & N 8th " for route/day 247/0
+NO MATCH: "Pike & 6th Av " for route/day 308/0
+NO MATCH: "Providence Dr & SE 43rd Wy" for route/day 927/1
+NO MATCH: "Providence Pt Dr & SE 43rd Wy" for route/day 927/1
+NO MATCH: "Queen An & <u>   Repu oute 1      <" for route/day 1/2
+NO MATCH: "Queen Anne N & Mercer" for route/day 18/0
+NO MATCH: "Queen Anne N & Mercer" for route/day 18/0
+NO MATCH: "Queen Anne N & Mercer" for route/day 18/2
+NO MATCH: "Queen Anne N & Mercer" for route/day 18/2
+NO MATCH: "Railroad Av & W Pioneer" for route/day 913/0
+NO MATCH: "Railroad Av N  & W Pioneer" for route/day 913/0
+NO MATCH: "Railroad Av N & Pioneer " for route/day 153/0
+NO MATCH: "Railroad Av N & Pioneer " for route/day 169/0
+NO MATCH: "Railroad Av N & Pioneer " for route/day 169/1
+NO MATCH: "Railroad Av N & Pioneer" for route/day 153/0
+NO MATCH: "Railroad Av N & Pioneer" for route/day 158/0
+NO MATCH: "Railroad Av N & Pioneer" for route/day 158/0
+NO MATCH: "Railroad Av N & Pioneer" for route/day 162/0
+NO MATCH: "Railroad Av N & Pioneer" for route/day 162/0
+NO MATCH: "Railroad Av N & Pioneer" for route/day 164/0
+NO MATCH: "Railroad Av N & Pioneer" for route/day 164/0
+NO MATCH: "Railroad Av N & Pioneer" for route/day 168/1
+NO MATCH: "Railroad Av N & Pioneer" for route/day 168/1
+NO MATCH: "Railroad Av N & Pioneer" for route/day 169/0
+NO MATCH: "Railroad Av N & Pioneer" for route/day 169/1
+NO MATCH: "Railroad Av N & Pioneer" for route/day 180/2
+NO MATCH: "Railroad Av N & Pioneer" for route/day 180/2
+NO MATCH: "Railroad Av N & Pioneer" for route/day 952/0
+NO MATCH: "Railroad Av N & Pioneer" for route/day 952/0
+NO MATCH: "Railroad Av SE & SE King" for route/day 209/0
+NO MATCH: "Railroad Av SE & SE King" for route/day 209/0
+NO MATCH: "Railroad Av SE & SE King" for route/day 209/1
+NO MATCH: "Railroad Av SE & SE King" for route/day 209/1
+NO MATCH: "Railroad SE & King " for route/day 215/0
+NO MATCH: "Railroad SE & vd     King " for route/day 215/0
+NO MATCH: "Rainier Av S & S Genesee " for route/day 39/1
+NO MATCH: "Rainier Av S & S Henderson" for route/day 36/0
+NO MATCH: "Rainier Av S & S Henderson" for route/day 36/0
+NO MATCH: "Rainier Av S & S Henderson" for route/day 36/1
+NO MATCH: "Rainier Av S & S Henderson" for route/day 36/1
+NO MATCH: "Rainier Av S & S Henderson" for route/day 36/2
+NO MATCH: "Rainier Av S & S Henderson" for route/day 36/2
+NO MATCH: "Rainier Av S & S Henderson" for route/day 42/2
+NO MATCH: "Rainier Av S & S Henderson" for route/day 7/0
+NO MATCH: "Rainier Av S & S Walden" for route/day 48/2
+NO MATCH: "ransit Ctr Leaves Bay-4" for route/day 221/0
+NO MATCH: "ransit Ctr Leaves Bay-4" for route/day 221/1
+NO MATCH: "ransit Ctr Leaves Bay-5" for route/day 221/0
+NO MATCH: "Redmond - Transit Ctr nd Rd     Bay" for route/day 221/0
+NO MATCH: "Redmond T Arrives <u>  Bay-1" for route/day 221/0
+NO MATCH: "Redmond T e-  Arrives <u>   Bay-5" for route/day 221/0
+NO MATCH: "Redmond T e-  Arrives <u>   Bay-5" for route/day 221/1
+NO MATCH: "Redmond Transit Ctr Bay 5" for route/day 221/0
+NO MATCH: "Redmond Transit Ctr Bay 5" for route/day 221/1
+NO MATCH: "Redmond Transit Ctr Bay-5" for route/day 251/0
+NO MATCH: "Redmond Transit Ctr Bay-5" for route/day 251/0
+NO MATCH: "Redmond Transit Ctr Bay-5" for route/day 251/1
+NO MATCH: "Redmond Transit Ctr Bay-5" for route/day 251/1
+NO MATCH: "Redondo Heights P&R" for route/day 190/0
+NO MATCH: "Renton Transit Cntr Bay 2" for route/day 148/0
+NO MATCH: "Renton Transit Cntr Bay 4" for route/day 148/0
+NO MATCH: "rk Rainier Av & v S   S Genes " for route/day 39/0
+NO MATCH: "Roosevelt Way NE & NE 92nd" for route/day 68/0
+NO MATCH: "Roosevelt Way NE & NE 92nd" for route/day 68/0
+NO MATCH: "Roosevelt Way NE & NE 92nd" for route/day 68/1
+NO MATCH: "Roosevelt Way NE & NE 92nd" for route/day 68/1
+NO MATCH: "Route 3 34th Av & E Union" for route/day 4/2
+NO MATCH: "Route 3 34th Av & E Union" for route/day 4/2
+NO MATCH: "Route 331</u>" for route/day 345/2
+NO MATCH: "Route 345</" for route/day 345/2
+NO MATCH: "Route 4 25th Av S & S Walker" for route/day 4/2
+NO MATCH: "Route 4 25th Av S & S Walker" for route/day 4/2
+NO MATCH: "Route 4 Nob Hill Av N & Galer" for route/day 4/2
+NO MATCH: "Route 4 Nob Hill Av N & Galer" for route/day 4/2
+NO MATCH: "Route 4 Queen Anne Av N & McGraw" for route/day 4/2
+NO MATCH: "Route 4 Queen Anne Av N & McGraw" for route/day 4/2
+NO MATCH: "Roy & Warren Av N" for route/day 45/0
+NO MATCH: "S      VA Medical ee     Center " for route/day 39/0
+NO MATCH: "S    13th Av & Wy   S Bailey " for route/day 134/0
+NO MATCH: "S    16th Av & E Margina Way S" for route/day 134/0
+NO MATCH: "S    16th Av & E SW  Marginal S" for route/day 134/0
+NO MATCH: "S    1st Av S & SW    S 112th" for route/day 134/0
+NO MATCH: "S    6th Av S & S Atlanti" for route/day 134/0
+NO MATCH: "S   Myers Wy & l   Olson Pl " for route/day 134/0
+NO MATCH: "S  S" for route/day 215/0
+NO MATCH: "S 180th & Sperry Dr" for route/day 150/1
+NO MATCH: "S 180th & Sperry Dr" for route/day 150/2
+NO MATCH: "S 212th & 42nd Av S" for route/day 157/0
+NO MATCH: "S 212th & 42nd Av S" for route/day 157/0
+NO MATCH: "S 223rd & Marine View Drive S" for route/day 132/2
+NO MATCH: "S 223rd & Marine View Drive S" for route/day 132/2
+NO MATCH: "S 223rd St Marine Vie Dr S" for route/day 134/0
+NO MATCH: "S 223rd St y   Marine Vi Dr S " for route/day 134/0
+NO MATCH: "S 2nd & Burnett Av S " for route/day 140/0
+NO MATCH: "S 2nd & Burnett Av S " for route/day 140/1
+NO MATCH: "S 2nd & Burnett Av S " for route/day 140/2
+NO MATCH: "S 2nd & Burnett Av S " for route/day 908/1
+NO MATCH: "S 2nd & Burnett Av S" for route/day 101/0
+NO MATCH: "S 2nd & Burnett Av S" for route/day 101/1
+NO MATCH: "S 2nd & Burnett Av S" for route/day 101/2
+NO MATCH: "S 2nd & Burnett Av S" for route/day 105/0
+NO MATCH: "S 2nd & Burnett Av S" for route/day 105/0
+NO MATCH: "S 2nd & Burnett Av S" for route/day 105/2
+NO MATCH: "S 2nd & Burnett Av S" for route/day 105/2
+NO MATCH: "S 2nd & Burnett Av S" for route/day 140/0
+NO MATCH: "S 2nd & Burnett Av S" for route/day 140/1
+NO MATCH: "S 2nd & Burnett Av S" for route/day 140/2
+NO MATCH: "S 2nd & Burnett Av S" for route/day 240/0
+NO MATCH: "S 2nd & Burnett Av S" for route/day 240/0
+NO MATCH: "S 2nd & Burnett Av S" for route/day 240/2
+NO MATCH: "S 2nd & Burnett Av S" for route/day 240/2
+NO MATCH: "S 2nd Av & Burnett Av S" for route/day 908/1
+NO MATCH: "S 317th & 23rd Av S" for route/day 174/1
+NO MATCH: "S 317th & 23rd Av S" for route/day 181/1
+NO MATCH: "S 317th & 23rd Av S" for route/day 181/1
+NO MATCH: "S 317th & 23rd Av S" for route/day 182/1
+NO MATCH: "S 317th & 23rd Av S" for route/day 901/0
+NO MATCH: "S 317th & 23rd Av S" for route/day 901/0
+NO MATCH: "S 317th & 23rd Av S" for route/day 901/2
+NO MATCH: "S 317th & 23rd Av S" for route/day 901/2
+NO MATCH: "S 317th & 23rd Av S" for route/day 903/0
+NO MATCH: "S 317th & 23rd Av S" for route/day 903/0
+NO MATCH: "S 317th & 23rd Av S" for route/day 903/2
+NO MATCH: "S 317th & 23rd Av S" for route/day 903/2
+NO MATCH: "S 320th & I-5 " for route/day 174/1
+NO MATCH: "S 320th & I-5" for route/day 174/1
+NO MATCH: "S 320th & I-5" for route/day 177/0
+NO MATCH: "S 320th & I-5" for route/day 177/0
+NO MATCH: "S 3rd & Burnett Av S " for route/day 101/0
+NO MATCH: "S 3rd & Burnett Av S " for route/day 101/1
+NO MATCH: "S 3rd & Burnett Av S " for route/day 101/2
+NO MATCH: "S 3rd & Burnett Av S " for route/day 153/0
+NO MATCH: "S 3rd & Burnett Av S " for route/day 169/0
+NO MATCH: "S 3rd & Burnett Av S " for route/day 169/1
+NO MATCH: "S 3rd & Burnett Av S" for route/day 153/0
+NO MATCH: "S 3rd & Burnett Av S" for route/day 169/0
+NO MATCH: "S 3rd & Burnett Av S" for route/day 169/1
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 140/0
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 140/0
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 140/1
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 140/1
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 140/2
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 140/2
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 153/0
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 153/0
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 169/0
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 169/0
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 169/1
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 169/1
+NO MATCH: "S Grady Way & Shattuck Av S" for route/day 247/0
+NO MATCH: "S Grady Wy & Shattuck Av S" for route/day 101/0
+NO MATCH: "S Grady Wy & Shattuck Av S" for route/day 101/1
+NO MATCH: "S Grady Wy & Shattuck Av S" for route/day 101/2
+NO MATCH: "S Henders & ute Rainier A " for route/day 39/0
+NO MATCH: "S Henderson & Rainier Av S " for route/day 39/1
+NO MATCH: "S Henderson & Rainier Av S" for route/day 39/0
+NO MATCH: "S Henderson & Rainier Av S" for route/day 39/1
+NO MATCH: "S Henderson & Rainier Av S" for route/day 7/0
+NO MATCH: "S Henderson St & Rainier Av S" for route/day 126/0
+NO MATCH: "S Henderson St & Rainier Av S" for route/day 126/0
+NO MATCH: "S Jackson & Occidental S" for route/day 99/0
+NO MATCH: "S Jackson & Occidental S" for route/day 99/2
+NO MATCH: "S Renton P&R Bay 1" for route/day 148/0
+NO MATCH: "S Renton P&R Bay 2" for route/day 148/0
+NO MATCH: "S Walden & Rainier Av S" for route/day 8/0
+NO MATCH: "S Walden & Rainier Av S" for route/day 8/0
+NO MATCH: "SE 42nd Pl & 334th Pl SE" for route/day 209/0
+NO MATCH: "SE 42nd Pl & 334th Pl SE" for route/day 209/0
+NO MATCH: "SE 42nd Pl & 334th Pl SE" for route/day 209/1
+NO MATCH: "SE 42nd Pl & 334th Pl SE" for route/day 209/1
+NO MATCH: "SE 82nd & SE High Point Way" for route/day 209/0
+NO MATCH: "SE 82nd & SE High Point Way" for route/day 209/0
+NO MATCH: "SE 82nd & SE High Point Way" for route/day 209/1
+NO MATCH: "SE 82nd & SE High Point Way" for route/day 209/1
+NO MATCH: "SE Eastgate Way & 140th Av SE" for route/day 221/1
+NO MATCH: "SE Eastgate Way & 140th Av SE" for route/day 222/1
+NO MATCH: "SE Eastgate Way & 140th Av SE" for route/day 222/1
+NO MATCH: "SE Eastgate Way & 140th Av SE" for route/day 245/0
+NO MATCH: "SE Eastgate Way & 140th Av SE" for route/day 245/0
+NO MATCH: "SE Eastgate Wy & 140th Av SE " for route/day 247/0
+NO MATCH: "SE Eastgate Wy & 140th Av SE " for route/day 247/0
+NO MATCH: "SE Eastgate Wy & 140th Av SE" for route/day 271/1
+NO MATCH: "SE Eastgate Wy & 140th Av SE" for route/day 271/1
+NO MATCH: "SE Eastgate Wy & 140th Av SE" for route/day 271/2
+NO MATCH: "SE Eastgate Wy & 140th Av SE" for route/day 271/2
+NO MATCH: "SE Eastgate Wy & 140th Av SE" for route/day 981/0
+NO MATCH: "Sea-Tac (Bag Claim) Bay-1" for route/day 140/0
+NO MATCH: "Sea-Tac (Bag Claim) Bay-1" for route/day 174/1
+NO MATCH: "Sea-Tac (Bag Claim) Bay-1" for route/day 180/0
+NO MATCH: "Sea-Tac (Bag Claim) Bay-2 " for route/day 140/0
+NO MATCH: "Sea-Tac (Bag Claim) Bay-2 " for route/day 174/1
+NO MATCH: "Sea-Tac (Bag Claim) Bay-2" for route/day 180/0
+NO MATCH: "Seneca at 2nd Av" for route/day 120/1
+NO MATCH: "Seneca at 2nd Av" for route/day 120/2
+NO MATCH: "Seward Park Av S & Wilson Av S " for route/day 39/1
+NO MATCH: "Seward Park Av S & Wilson Av S" for route/day 39/0
+NO MATCH: "Seward Park Av S & Wilson Av S" for route/day 39/1
+NO MATCH: "Shoreline Community College &#187;<u>" for route/day 345/2
+NO MATCH: "Shoreline Community College 31" for route/day 345/2
+NO MATCH: "SODO Busw & S Spoka " for route/day 39/0
+NO MATCH: "SODO Busway & S Spokane   U" for route/day 190/0
+NO MATCH: "SODO Busway & S Spokane " for route/day 39/1
+NO MATCH: "SODO Busway & S Spokane" for route/day 101/0
+NO MATCH: "SODO Busway & S Spokane" for route/day 101/0
+NO MATCH: "SODO Busway & S Spokane" for route/day 101/1
+NO MATCH: "SODO Busway & S Spokane" for route/day 101/1
+NO MATCH: "SODO Busway & S Spokane" for route/day 101/2
+NO MATCH: "SODO Busway & S Spokane" for route/day 101/2
+NO MATCH: "SODO Busway & S Spokane" for route/day 102/0
+NO MATCH: "SODO Busway & S Spokane" for route/day 150/1
+NO MATCH: "SODO Busway & S Spokane" for route/day 150/1
+NO MATCH: "SODO Busway & S Spokane" for route/day 150/2
+NO MATCH: "SODO Busway & S Spokane" for route/day 150/2
+NO MATCH: "SODO Busway & S Spokane" for route/day 177/0
+NO MATCH: "SODO Busway & S Spokane" for route/day 177/0
+NO MATCH: "SODO Busway & S Spokane" for route/day 39/0
+NO MATCH: "SODO Busway & S Spokane" for route/day 39/1
+NO MATCH: "Sounder Train to Seattle" for route/day 158/0
+NO MATCH: "Sounder Train to Seattle" for route/day 162/0
+NO MATCH: "South Kirkland P&R" for route/day 981/0
+NO MATCH: "Southbound Train Departs" for route/day 126/0
+NO MATCH: "SR-520 & NE 51st" for route/day 233/0
+NO MATCH: "SR-520 & NE 51st" for route/day 233/0
+NO MATCH: "SR-520 & NE 51st" for route/day 233/1
+NO MATCH: "SR-520 & NE 51st" for route/day 233/1
+NO MATCH: "Star Lake Freeway Station" for route/day 190/0
+NO MATCH: "Star Lake Freeway Station" for route/day 190/0
+NO MATCH: "Stone Way N & N 40th" for route/day 45/0
+NO MATCH: "Stone Way N & N 40th" for route/day 45/0
+NO MATCH: "Stone Way N & N 45th" for route/day 16/0
+NO MATCH: "Stone Way N & N 45th" for route/day 16/0
+NO MATCH: "Stone Way N & N 45th" for route/day 16/2
+NO MATCH: "Stone Way N & N 45th" for route/day 16/2
+NO MATCH: "SW    26th Av SW & SW al    Spokane " for route/day 57/0
+NO MATCH: "SW    N 185th & Aurora Av " for route/day 348/0
+NO MATCH: "SW    N 185th & Aurora Av " for route/day 348/2
+NO MATCH: "SW  61st Av S & al  Alki Av S " for route/day 57/0
+NO MATCH: "SW 152nd & 6th Av SW " for route/day 123/0
+NO MATCH: "SW 356th & 13th Way SW" for route/day 182/1
+NO MATCH: "SW 356th & 14th Av SW" for route/day 182/1
+NO MATCH: "SW Dash Pt & SW 312th" for route/day 901/0
+NO MATCH: "SW Dash Pt & SW 312th" for route/day 901/2
+NO MATCH: "SW Grady Way & Shattuck Av S" for route/day 280/0
+NO MATCH: "Talbot S & S Carr" for route/day 155/0
+NO MATCH: "Talbot S & S Carr" for route/day 155/0
+NO MATCH: "Talbot S & S Carr" for route/day 161/0
+NO MATCH: "Talbot S & S Carr" for route/day 161/0
+NO MATCH: "Temperance & 1st Av N" for route/day 914/0
+NO MATCH: "Temperance St & 1st Av N" for route/day 916/0
+NO MATCH: "Temperance St & 1st Av N" for route/day 916/1
+NO MATCH: "tgate P&R    145t 2   &amp; Ka" for route/day 890/0
+NO MATCH: "Thackeray Pl NE & NE 45th" for route/day 26/0
+NO MATCH: "Thackeray Pl NE & NE 45th" for route/day 26/1
+NO MATCH: "Thackeray Pl NE & NE 45th" for route/day 26/2
+NO MATCH: "Thorndyke Av W & W Blaine" for route/day 33/0
+NO MATCH: "Thorndyke Av W & W Blaine" for route/day 33/1
+NO MATCH: "To Route" for route/day 10/2
+NO MATCH: "To Route" for route/day 11/2
+NO MATCH: "To Route" for route/day 124/2
+NO MATCH: "To Route" for route/day 125/1
+NO MATCH: "To Route" for route/day 132/2
+NO MATCH: "To Route" for route/day 15/2
+NO MATCH: "To Route" for route/day 153/0
+NO MATCH: "To Route" for route/day 164/0
+NO MATCH: "To Route" for route/day 168/1
+NO MATCH: "To Route" for route/day 18/0
+NO MATCH: "To Route" for route/day 18/2
+NO MATCH: "To Route" for route/day 19/0
+NO MATCH: "To Route" for route/day 21/1
+NO MATCH: "To Route" for route/day 22/2
+NO MATCH: "To Route" for route/day 222/1
+NO MATCH: "To Route" for route/day 233/0
+NO MATCH: "To Route" for route/day 233/1
+NO MATCH: "To Route" for route/day 236/0
+NO MATCH: "To Route" for route/day 236/1
+NO MATCH: "To Route" for route/day 238/1
+NO MATCH: "To Route" for route/day 26/0
+NO MATCH: "To Route" for route/day 26/1
+NO MATCH: "To Route" for route/day 26/2
+NO MATCH: "To Route" for route/day 28/1
+NO MATCH: "To Route" for route/day 33/0
+NO MATCH: "To Route" for route/day 331/1
+NO MATCH: "To Route" for route/day 36/0
+NO MATCH: "To Route" for route/day 36/1
+NO MATCH: "To Route" for route/day 36/2
+NO MATCH: "To Route" for route/day 39/1
+NO MATCH: "To Route" for route/day 42/2
+NO MATCH: "To Route" for route/day 43/0
+NO MATCH: "To Route" for route/day 44/2
+NO MATCH: "To Route" for route/day 5/2
+NO MATCH: "To Route" for route/day 54/0
+NO MATCH: "To Route" for route/day 56/2
+NO MATCH: "To Route" for route/day 68/0
+NO MATCH: "To Route" for route/day 68/1
+NO MATCH: "To Route" for route/day 7/0
+NO MATCH: "To Route" for route/day 901/0
+NO MATCH: "To Route" for route/day 901/2
+NO MATCH: "To Route" for route/day 903/0
+NO MATCH: "To Route" for route/day 903/2
+NO MATCH: "To Route" for route/day 914/0
+NO MATCH: "To Route" for route/day 916/0
+NO MATCH: "To Route" for route/day 916/1
+NO MATCH: "Transit & SW 148th " for route/day 140/1
+NO MATCH: "Transit Ctr Rdway & NE 103rd" for route/day 68/0
+NO MATCH: "Transit Ctr Rdway & NE 103rd" for route/day 68/1
+NO MATCH: "Transit Ctr Rdwy & NE 103rd " for route/day 242/0
+NO MATCH: "Transit Ctr Rdwy & NE 103rd" for route/day 242/0
+NO MATCH: "Transit Ctr Rdwy & NE 103rd" for route/day 66/1
+NO MATCH: "Transit Ctr Rdwy & NE 103rd" for route/day 66/1
+NO MATCH: "Transit Ctr Rdwy & NE 103rd" for route/day 68/0
+NO MATCH: "Transit Ctr Rdwy & NE 103rd" for route/day 68/1
+NO MATCH: "Transit Rdway & SW 148th " for route/day 134/0
+NO MATCH: "Transit Rdway & SW 148th " for route/day 140/2
+NO MATCH: "Transit Rdway & SW 148th" for route/day 132/2
+NO MATCH: "Transit Rdway & SW 148th" for route/day 132/2
+NO MATCH: "Transit Rdway & SW 148th" for route/day 134/0
+NO MATCH: "Transit Rdway & SW 148th" for route/day 140/1
+NO MATCH: "Transit Rdway & SW 148th" for route/day 140/2
+NO MATCH: "Transit Rdway & SW 148th" for route/day 180/2
+NO MATCH: "Transit Rdwy & 1st St SW" for route/day 917/0
+NO MATCH: "Transit Rdwy & 1st St SW" for route/day 917/0
+NO MATCH: "Transit Rdwy & 1st St SW" for route/day 917/1
+NO MATCH: "Transit Rdwy & 1st St SW" for route/day 917/1
+NO MATCH: "Transit Rdwy & A St SW" for route/day 180/2
+NO MATCH: "Transit Rdwy & A St SW" for route/day 180/2
+NO MATCH: "Transit Roadway & SW 148th" for route/day 180/2
+NO MATCH: "Tukw Int'l <u>      S LINK <" for route/day 129/0
+NO MATCH: "Tukw Int'l <u>      S Route 129<" for route/day 129/0
+NO MATCH: "Tukwila Int' Blvd Station" for route/day 124/2
+NO MATCH: "Tukwila Intl Blvd & S 112th " for route/day 174/1
+NO MATCH: "Tukwila Intl Blvd Station " for route/day 124/2
+NO MATCH: "Tukwila Train Station" for route/day 126/0
+NO MATCH: "Tukwila Train Station" for route/day 126/0
+NO MATCH: "Tuwila Intl Blvd & S 112th" for route/day 174/1
+NO MATCH: "u>" for route/day 345/2
+NO MATCH: "ulton </u>" for route/day 1/2
+NO MATCH: "Union Av NE & NE 4th " for route/day 114/0
+NO MATCH: "Union Av SE & SE 2nd Pl " for route/day 114/0
+NO MATCH: "University  I St Station  D Bay-D" for route/day 255/0
+NO MATCH: "University  I St Station  D Bay-D" for route/day 256/0
+NO MATCH: "University NE & NE 45th" for route/day 72/0
+NO MATCH: "University NE & NE 45th" for route/day 72/1
+NO MATCH: "University NE & NE 45th" for route/day 72/2
+NO MATCH: "University NE & NE 45th" for route/day 73/1
+NO MATCH: "University NE & NE 45th" for route/day 73/2
+NO MATCH: "University St Station Bay-A" for route/day 101/0
+NO MATCH: "University St Station Bay-A" for route/day 101/1
+NO MATCH: "University St Station Bay-A" for route/day 101/2
+NO MATCH: "University St Station Bay-A" for route/day 73/1
+NO MATCH: "University St Station Bay-A" for route/day 73/2
+NO MATCH: "University St Station Bay-B" for route/day 255/1
+NO MATCH: "University St Station Bay-C " for route/day 174/1
+NO MATCH: "University St Station Bay-C" for route/day 101/0
+NO MATCH: "University St Station Bay-C" for route/day 101/1
+NO MATCH: "University St Station Bay-C" for route/day 101/2
+NO MATCH: "University St Station Bay-C" for route/day 102/0
+NO MATCH: "University St Station Bay-C" for route/day 73/1
+NO MATCH: "University St Station Bay-C" for route/day 73/2
+NO MATCH: "University St Station Bay-D" for route/day 255/1
+NO MATCH: "University Street Sta Bay-A" for route/day 150/1
+NO MATCH: "University Street Sta Bay-A" for route/day 150/2
+NO MATCH: "University Street Sta Bay-A" for route/day 71/1
+NO MATCH: "University Street Sta Bay-A" for route/day 72/0
+NO MATCH: "University Street Sta Bay-A" for route/day 72/1
+NO MATCH: "University Street Sta Bay-A" for route/day 72/2
+NO MATCH: "University Street Sta Bay-B" for route/day 255/0
+NO MATCH: "University Street Sta Bay-B" for route/day 256/0
+NO MATCH: "University Street Sta Bay-C" for route/day 150/1
+NO MATCH: "University Street Sta Bay-C" for route/day 150/2
+NO MATCH: "University Street Sta Bay-C" for route/day 71/1
+NO MATCH: "University Street Sta Bay-C" for route/day 72/0
+NO MATCH: "University Street Sta Bay-C" for route/day 72/1
+NO MATCH: "University Street Sta Bay-C" for route/day 72/2
+NO MATCH: "University Street Station" for route/day 174/1
+NO MATCH: "University Way NE & NE 45th " for route/day 373/0
+NO MATCH: "University Way NE & NE 45th" for route/day 30/2
+NO MATCH: "University Way NE & NE 45th" for route/day 30/2
+NO MATCH: "University Way NE & NE 45th" for route/day 373/0
+NO MATCH: "University Way NE & NE 45th" for route/day 71/1
+NO MATCH: "University Way NE & NE 45th" for route/day 71/1
+NO MATCH: "University Way NE & NE 45th" for route/day 72/0
+NO MATCH: "University Way NE & NE 45th" for route/day 72/1
+NO MATCH: "University Way NE & NE 45th" for route/day 72/2
+NO MATCH: "University Way NE & NE 45th" for route/day 73/1
+NO MATCH: "University Way NE & NE 45th" for route/day 73/2
+NO MATCH: "UW/CCC N Campus d</u>      Lo R" for route/day 331/1
+NO MATCH: "UW/CCC N Campus Loop  <u>      Rout" for route/day 331/1
+NO MATCH: "UW/CCC North Loop" for route/day 251/0
+NO MATCH: "UW/CCC North Loop" for route/day 251/0
+NO MATCH: "UW/CCC North Loop" for route/day 251/1
+NO MATCH: "UW/CCC North Loop" for route/day 251/1
+NO MATCH: "VA Medical Center " for route/day 39/1
+NO MATCH: "VA Medical Center" for route/day 36/0
+NO MATCH: "VA Medical Center" for route/day 36/0
+NO MATCH: "VA Medical Center" for route/day 36/1
+NO MATCH: "VA Medical Center" for route/day 36/1
+NO MATCH: "VA Medical Center" for route/day 36/2
+NO MATCH: "VA Medical Center" for route/day 36/2
+NO MATCH: "VA Medical Center" for route/day 39/0
+NO MATCH: "VA Medical Center" for route/day 39/1
+NO MATCH: "W   44th Av S & a    SW Alask" for route/day 57/0
+NO MATCH: "W   55th Av S & n    SW Dakot " for route/day 57/0
+NO MATCH: "W   55th Av S & W    SW Dakot" for route/day 57/0
+NO MATCH: "W   61st Av S & a   Alki Av S " for route/day 57/0
+NO MATCH: "W  a" for route/day 57/0
+NO MATCH: "W  Calif. Av & W    SW Admir Wy" for route/day 57/0
+NO MATCH: "W Lk Samm Pkwy NE & NE 24th " for route/day 249/1
+NO MATCH: "W Lk Samm Pkwy NE & NE 24th" for route/day 249/1
+NO MATCH: "Wax & SE 272nd" for route/day 168/1
+NO MATCH: "Wax & SE 272nd" for route/day 168/1
+NO MATCH: "Weedin Pl NE & 8th Av NE " for route/day 242/0
+NO MATCH: "Weedin Pl NE & NE 8th" for route/day 242/0
+NO MATCH: "Westlake </u>      Sta LINK" for route/day 129/0
+NO MATCH: "Woodlawn Av NE & NE Ravenna" for route/day 16/0
+NO MATCH: "Woodlawn Av NE & NE Ravenna" for route/day 16/0
+NO MATCH: "Woodlawn Av NE & NE Ravenna" for route/day 16/2
+NO MATCH: "Woodlawn Av NE & NE Ravenna" for route/day 16/2
+NO MATCH: "Woodlawn Av NE & NE Ravenna" for route/day 48/2
+NO MATCH: "Woodlawn Av NE & NE Ravenna" for route/day 48/2
+NO MATCH: "Woodlawn NE & NE Ravenna" for route/day 26/0
+NO MATCH: "Woodlawn NE & NE Ravenna" for route/day 26/0
+NO MATCH: "Woodlawn NE & NE Ravenna" for route/day 26/1
+NO MATCH: "Woodlawn NE & NE Ravenna" for route/day 26/1
+NO MATCH: "Woodlawn NE & NE Ravenna" for route/day 26/2
+NO MATCH: "wy NE" for route/day 75/0
+NO MATCH: "y  " for route/day 215/0
+NO MATCH: "Yesler Way & Post Av" for route/day 99/0
+NO MATCH: "Yesler Way & Post Av" for route/day 99/2

@@ -1,0 +1,849 @@
+"Yesler Way & Post Av"|4041
+
+"Woodlawn Av NE & NE Ravenna"|1118
+"Woodlawn NE & NE Ravenna"|1118
+
+"University Way NE & NE 45th" for route/day 30/2
+"University NE & NE 45th" for route/day 72/0
+
+"Weedin Pl NE & 8th Av NE" for route/day 242/0
+"Weedin Pl NE & NE 8th" for route/day 242/0
+
+"University Street Station" for route/day 174/1
+
+"University St Station Bay-A" for route/day 101/0
+"University Street Sta Bay-A" for route/day 150/1
+
+"University St Station Bay-B" for route/day 255/1
+"University Street Sta Bay-B" for route/day 255/0
+
+"University St Station Bay-C" for route/day 174/1
+"University Street Sta Bay-C" for route/day 150/1
+
+"University St Station Bay-D" for route/day 255/1
+
+"Tukwila Int' Blvd Station" for route/day 124/2
+"Tukwila Intl Blvd Station" for route/day 124/2
+
+"Tukwila Intl Blvd & S 112th" for route/day 174/1
+"Tuwila Intl Blvd & S 112th" for route/day 174/1
+
+"Transit Rdway & SW 148th" for route/day 132/2
+"Transit Roadway & SW 148th" for route/day 180/2
+
+"Transit Ctr Rdwy & NE 103rd" for route/day 242/0
+"Transit Ctr Rdway & NE 103rd" for route/day 68/0
+
+"Temperance & 1st Av N" for route/day 914/0
+"Temperance St & 1st Av N" for route/day 916/0
+
+"SE Eastgate Way & 140th Av SE" for route/day 221/1
+"SE Eastgate Wy & 140th Av SE" for route/day 247/0
+
+"W Lk Samm Pkwy NE & NE 24th" for route/day 249/1
+"Wax & SE 272nd" for route/day 168/1
+"VA Medical Center" for route/day 36/0
+"UW/CCC North Loop" for route/day 251/0
+"Tukwila Train Station" for route/day 126/0
+"Transit Rdwy & 1st St SW" for route/day 917/0
+"Transit Rdwy & A St SW" for route/day 180/2
+"Thackeray Pl NE & NE 45th" for route/day 26/0
+"Thorndyke Av W & W Blaine" for route/day 33/0
+"SW 356th & 13th Way SW" for route/day 182/1
+"SW 356th & 14th Av SW" for route/day 182/1
+"SW Dash Pt & SW 312th" for route/day 901/0
+"SW Grady Way & Shattuck Av S" for route/day 280/0
+"Talbot S & S Carr" for route/day 155/0
+"SODO Busway & S Spokane" for route/day 101/0
+"Sounder Train to Seattle" for route/day 158/0
+"Sounder Train to Seattle" for route/day 162/0
+"South Kirkland P&R" for route/day 981/0
+"Southbound Train Departs" for route/day 126/0
+"SR-520 & NE 51st" for route/day 233/0
+"Star Lake Freeway Station" for route/day 190/0
+"Stone Way N & N 40th" for route/day 45/0
+"Stone Way N & N 45th" for route/day 16/0
+"S Henderson & Rainier Av S" for route/day 39/1
+"S Henderson St & Rainier Av S" for route/day 126/0
+"S Jackson & Occidental S" for route/day 99/0
+"S Renton P&R Bay 1" for route/day 148/0
+"S Renton P&R Bay 2" for route/day 148/0
+"S Walden & Rainier Av S" for route/day 8/0
+"SE 42nd Pl & 334th Pl SE" for route/day 209/0
+"SE 82nd & SE High Point Way" for route/day 209/0
+"Sea-Tac (Bag Claim) Bay-1" for route/day 140/0
+"Sea-Tac (Bag Claim) Bay-1" for route/day 174/1
+"Sea-Tac (Bag Claim) Bay-1" for route/day 180/0
+"Sea-Tac (Bag Claim) Bay-2" for route/day 140/0
+"Sea-Tac (Bag Claim) Bay-2" for route/day 174/1
+"Sea-Tac (Bag Claim) Bay-2" for route/day 180/0
+"Seneca at 2nd Av" for route/day 120/1
+"Seneca at 2nd Av" for route/day 120/2
+"Seward Park Av S & Wilson Av S" for route/day 39/1
+"Seward Park Av S & Wilson Av S" for route/day 39/0
+"Seward Park Av S & Wilson Av S" for route/day 39/1
+"S 3rd & Burnett Av S" for route/day 153/0
+"S 3rd & Burnett Av S" for route/day 169/0
+"S 3rd & Burnett Av S" for route/day 169/1
+"S Grady Way & Shattuck Av S" for route/day 140/0
+"S Grady Way & Shattuck Av S" for route/day 140/1
+"S Grady Way & Shattuck Av S" for route/day 140/2
+"S Grady Way & Shattuck Av S" for route/day 153/0
+"S Grady Way & Shattuck Av S" for route/day 169/0
+"S Grady Way & Shattuck Av S" for route/day 169/1
+"S Grady Way & Shattuck Av S" for route/day 247/0
+"S Grady Wy & Shattuck Av S" for route/day 101/0
+"S Grady Wy & Shattuck Av S" for route/day 101/1
+"S Grady Wy & Shattuck Av S" for route/day 101/2
+"S 3rd & Burnett Av S" for route/day 101/0
+"S 3rd & Burnett Av S" for route/day 101/1
+"S 3rd & Burnett Av S" for route/day 101/2
+"S 3rd & Burnett Av S" for route/day 153/0
+"S 3rd & Burnett Av S" for route/day 169/0
+"S 3rd & Burnett Av S" for route/day 169/1
+"SODO Busway & S Spokane" for route/day 39/1
+"VA Medical Center" for route/day 39/1
+"Union Av NE & NE 4th" for route/day 114/0
+"Union Av SE & SE 2nd Pl" for route/day 114/0
+"Transit Rdway & SW 148th" for route/day 134/0
+"Transit Rdway & SW 148th" for route/day 140/2
+"Transit Ctr Rdwy & NE 103rd" for route/day 242/0
+"S 2nd & Burnett Av S" for route/day 140/0
+"S 2nd Av & Burnett Av S" for route/day 908/1
+"S 317th & 23rd Av S" for route/day 174/1
+"S 320th & I-5" for route/day 174/1
+"S 180th & Sperry Dr" for route/day 150/1
+"S 212th & 42nd Av S" for route/day 157/0
+"S 223rd & Marine View Drive S" for route/day 132/2
+"S 223rd St Marine Vie Dr S" for route/day 134/0
+"Roy & Warren Av N" for route/day 45/0
+"Roosevelt Way NE & NE 92nd" for route/day 68/0
+"Roosevelt Way NE & NE 92nd" for route/day 68/1
+"Redmond Transit Ctr Bay 5" for route/day 221/0
+"Redmond Transit Ctr Bay 5" for route/day 221/1
+"Redmond Transit Ctr Bay-5" for route/day 251/0
+"Redmond Transit Ctr Bay-5" for route/day 251/1
+"Redondo Heights P&R" for route/day 190/0
+"Renton Transit Cntr Bay 2" for route/day 148/0
+"Renton Transit Cntr Bay 4" for route/day 148/0
+"Rainier Av S & S Genesee" for route/day 39/1
+"Rainier Av S & S Henderson" for route/day 36/0
+"Rainier Av S & S Henderson" for route/day 36/1
+"Rainier Av S & S Henderson" for route/day 36/2
+"Rainier Av S & S Henderson" for route/day 42/2
+"Rainier Av S & S Henderson" for route/day 7/0
+"Rainier Av S & S Walden" for route/day 48/2
+"Railroad Av & W Pioneer" for route/day 913/0
+"Railroad Av N  & W Pioneer" for route/day 913/0
+"Railroad Av N & Pioneer" for route/day 153/0
+"Railroad Av N & Pioneer" for route/day 169/0
+"Railroad Av N & Pioneer" for route/day 169/1
+"Railroad Av N & Pioneer" for route/day 153/0
+"Railroad Av N & Pioneer" for route/day 158/0
+"Railroad Av N & Pioneer" for route/day 162/0
+"Railroad Av N & Pioneer" for route/day 164/0
+"Railroad Av N & Pioneer" for route/day 168/1
+"Railroad Av N & Pioneer" for route/day 169/0
+"Railroad Av N & Pioneer" for route/day 169/1
+"Railroad Av N & Pioneer" for route/day 180/2
+"Railroad Av N & Pioneer" for route/day 952/0
+"Railroad Av SE & SE King" for route/day 209/0
+"Railroad Av SE & SE King" for route/day 209/1
+"Railroad SE & King" for route/day 215/0
+"Queen Anne N & Mercer" for route/day 18/0
+"Queen Anne N & Mercer" for route/day 18/2
+"Overlake Transit Ctr Bay 4" for route/day 221/0
+"Pacific Hwy & Kent- Des Moines" for route/day 174/1
+"Pacific Hwy & S 272nd" for route/day 174/1
+"Pacific Hwy S & Kent- Des Moines" for route/day 174/1
+"Park Av N & N 8th" for route/day 247/0
+"Pike & 6th Av" for route/day 308/0
+"Providence Dr & SE 43rd Wy" for route/day 927/1
+"Providence Pt Dr & SE 43rd Wy" for route/day 927/1
+"On Linden Av N at N 143rd" for route/day 28/1
+"On Montlake Blvd at SR-520" for route/day 243/0
+"On Montlake Blvd at SR-520" for route/day 43/0
+"On Montlake Blvd at SR-520" for route/day 44/2
+"On Montlake Blvd at SR-520" for route/day 48/2
+"On Montlake Blvd, at E Shelby" for route/day 271/1
+"On Montlake Blvd, at E Shelby" for route/day 271/2
+"On Montlake Blvd, at SR-520     1" for route/day 271/2
+"On Pine at 9th Av" for route/day 177/0
+"On S Henderson St at Rainier Av S" for route/day 7/0
+"On S Jackson at 5th Av S" for route/day 71/1
+"On S Jackson at 5th Av S" for route/day 72/0
+"On S Jackson at 5th Av S" for route/day 72/1
+"On S Jackson at 5th Av S" for route/day 72/2
+"On S Jackson St at 5th Av S" for route/day 73/2
+"On S Spokane At 1st Av S" for route/day 35/0
+"On S Walden at Rainier Av S" for route/day 48/2
+"On S Washington at 4th Av S" for route/day 33/1
+"On SE 8th at 118th Av" for route/day 243/0
+"On Shattuck Av S at S Grady Way" for route/day 247/0
+"On Shattuck Av S at S Grady Way" for route/day 101/0
+"On Shattuck Av S at S Grady Way" for route/day 101/1
+"On Shattuck Av S at S Grady Way" for route/day 101/2
+"On Shattuck Av S at S Grady Way" for route/day 102/0
+"On SR-520 At Evergreen Point" for route/day 243/0
+"On SR-520 at Evergreen Point" for route/day 252/0
+"On SR-520 at Evergreen Point" for route/day 257/0
+"On SR-520 at Evergreen Pt Road" for route/day 986/0
+"On SR-520 At Montlake" for route/day 242/0
+"On SR-520 At Montlake" for route/day 280/0
+"On SR-520 at Montlake Blvd" for route/day 986/0
+"On SR-520 At Montlake" for route/day 242/0
+"On SR-520 At Montlake" for route/day 252/0
+"On SR-520 At Montlake" for route/day 255/0
+"On SR-520 At Montlake" for route/day 255/1
+"On SR-520 At Montlake" for route/day 256/0
+"On SR-520 At Montlake" for route/day 257/0
+"On Stewart at 9th Av" for route/day 192/0
+"On I-90 at SE Rainier Av" for route/day 215/0
+"On Bell at 7th Av" for route/day 114/0
+"On 1st Av S At S Spokane" for route/day 35/0
+"On 4th Av at James" for route/day 33/0
+"On 7th Av at Blanchard" for route/day 158/0
+"On 7th Av at Blanchard" for route/day 162/0
+" HUB" for route/day 68/0
+" HUB" for route/day 68/1
+"21st Av & E Jefferson" for route/day 4/2
+"23rd Av & E Jefferson" for route/day 4/2
+"3rd Av & Pike" for route/day 4/2
+"3rd Av & Union" for route/day 4/2
+"5th Av N & Broad" for route/day 4/2
+"Bastyr University" for route/day 935/0
+"Broadway & E Jefferson" for route/day 4/2
+"Kent City Hall" for route/day 914/0
+"Kent City Hall" for route/day 916/0
+"Kent City Hall" for route/day 916/1
+"Meeker Court" for route/day 914/0
+"Meeker Court" for route/day 916/0
+"Meeker Court" for route/day 916/1
+"Northwest Hospital" for route/day 345/2
+"Queen Anne Av N & Boston" for route/day 4/2
+"104th Av SE & SE 256th" for route/day 169/0
+"104th Av SE & SE 256th" for route/day 169/1
+"104th Av SE at 26300 Block" for route/day 914/0
+"104th Av SE at 26300 Block" for route/day 916/0
+"104th Av SE at 26300 Block" for route/day 916/1
+"108th Av NE & NE 38th Pl" for route/day 255/0
+"108th Av NE & NE 38th Pl" for route/day 255/1
+"108th Av NE & NE 38th Pl" for route/day 256/0
+"108th Av NE & NE 6th" for route/day 280/0
+"108th Av NE & NE 6th" for route/day 233/0
+"108th Av NE & NE 6th" for route/day 233/1
+"108th Av NE & NE 6th" for route/day 240/0
+"108th Av NE & NE 6th" for route/day 240/2
+"108th Av NE & NE 6th" for route/day 249/1
+"108th Av NE & NE 6th" for route/day 271/1
+"108th Av NE & NE 6th" for route/day 271/2
+"108th Av SE & SE 176th" for route/day 169/0
+"108th Av SE & SE 176th" for route/day 169/1
+"Tukwila P&R" for route/day 150/1
+"Tukwila P&R" for route/day 150/2
+"Tukwila Station" for route/day 140/0
+"Tukwila Station" for route/day 140/0
+"U of W HUB" for route/day 205/0
+"Woodinville P&R" for route/day 251/0
+"Woodinville P&R" for route/day 251/1
+"112th Av SE & I-405" for route/day 247/0
+"116th Av NE & NE 12th" for route/day 981/0
+"116th Av NE & NE 160th (after loop)" for route/day 252/0
+"116th Av NE & NE 160th (after loop)" for route/day 257/0
+"116th Av NE & NE 70th Pl" for route/day 238/1
+"116th Av NE & NE 70th Pl" for route/day 245/0
+"116th Av NE & NE 70th Pl" for route/day 986/0
+"116th Av NE & Northup Way" for route/day 249/1
+"116th Way NE & NE 132nd" for route/day 252/0
+"116th Way NE & NE 132nd" for route/day 255/0
+"116th Way NE & NE 132nd" for route/day 255/1
+"116th Way NE & NE 132nd" for route/day 256/0
+"116th Way NE & NE 132nd" for route/day 257/0
+"119th Av SE & SE 58th" for route/day 114/0
+"120th Av NE & Totem Lake Way" for route/day 935/0
+"124th Av SE & SE 44th" for route/day 245/0
+"12th Av NE & NE Campus Pkwy" for route/day 30/2
+"132nd Av SE & SE 270th" for route/day 158/0
+"132nd Av SE & SE 270th" for route/day 161/0
+"132nd Av SE & SE 270th" for route/day 162/0
+"132nd Av SE & SE 270th" for route/day 168/1
+"132nd Av SE & SE 270th" for route/day 914/0
+"132nd Av SE & SE 272nd" for route/day 157/0
+"132nd Av SE & SE 272nd" for route/day 164/0
+"140th Av NE & NE 179th" for route/day 236/0
+"140th Av NE & NE 179th" for route/day 236/1
+"140th Av NE & NE 179th" for route/day 237/0
+"140th Av SE & Petrovitsky" for route/day 101/0
+"140th Av SE & Petrovitsky" for route/day 101/0
+"140th Av SE & Petrovitsky" for route/day 102/0
+"140th Way SE & SE 158th" for route/day 101/0
+"140th Way SE & SE 158th" for route/day 101/0
+"140th Way SE & SE 158th" for route/day 102/0
+"148th Av NE & NE 51st" for route/day 242/0
+"148th Av NE & NE 51st" for route/day 253/2
+"148th Av NE & NE 51st" for route/day 242/0
+"148th Av NE & NE 51st" for route/day 253/2
+"148th Av NE & NE 8th" for route/day 247/0
+"148th Av NE & NE 8th" for route/day 221/0
+"148th Av NE & NE 8th" for route/day 221/1
+"14th Av SW & SW 160th" for route/day 123/0
+"152nd Av NE & 2600 Crossing" for route/day 242/0
+"152nd Av NE & 2600 Crossing" for route/day 247/0
+"152nd Av NE & 2600 Crossing" for route/day 249/1
+"152nd Av NE & 2600 Crossing" for route/day 253/2
+"152nd Av NE & 2600 Crossing" for route/day 269/0
+"152nd Av NE & 2600" for route/day 242/0
+"152nd Av NE & 2600" for route/day 249/1
+"152nd Av NE & 2600" for route/day 269/0
+"152nd Way SE & SE 272nd" for route/day 158/0
+"152nd Way SE & SE 272nd" for route/day 162/0
+"156th Av NE & NE 40th" for route/day 247/0
+"156th Av NE & NE 40th" for route/day 249/1
+"156th Av NE & NE 40th" for route/day 269/0
+"156th Av NE & NE 8th" for route/day 253/2
+"156th Av SE & SE Fairwood" for route/day 155/0
+"15th Av NE & NE 125th" for route/day 373/0
+"15th Av NE & NE 205th " for route/day 331/1
+"15th Av NE & NE 205th" for route/day 348/0
+"15th Av NE & NE 205th" for route/day 348/2
+"15th Av NE & NE 80th" for route/day 373/0
+"15th Av SW & SW 102nd" for route/day 22/2
+"15th Av SW & SW Roxbury" for route/day 22/2
+"15th Av SW & SW Roxbury" for route/day 54/0
+"15th St NE & A St NE" for route/day 952/0
+"15th St NE & D St NE" for route/day 180/0
+"161st Av NE & NE 83rd" for route/day 253/2
+"161st Av NE & NE 83rd" for route/day 253/2
+"16th Av S & E Marginal Way S" for route/day 174/1
+"16th Av SW at SSCC Entrance" for route/day 125/1
+"178th Pl NE & NE 78th Pl" for route/day 248/2
+"178th Pl NE & NE 78th Pl" for route/day 253/2
+"178th Pl NE & NE 78th Pl" for route/day 269/0
+"178th Pl NE & NE 78th Pl" for route/day 216/0
+"178th Pl NE & NE 78th Pl" for route/day 233/0
+"178th Pl NE & NE 78th Pl" for route/day 233/1
+"178th Pl NE & NE 78th Pl" for route/day 248/2
+"178th Pl NE & NE 78th Pl" for route/day 253/2
+"178th Pl NE & NE 78th Pl" for route/day 269/0
+"17th Av & Jefferson" for route/day 941/0
+"180th St & Sperry Dr" for route/day 150/1
+"180th St & Sperry Dr" for route/day 150/2
+"1st Av & Denny Way" for route/day 22/2
+"1st Av & Denny Wy" for route/day 21/1
+"1st Av & Pike" for route/day 10/2
+"1st Av & Union" for route/day 21/1
+"1st Av & Union" for route/day 22/2
+"1st Av & Union" for route/day 56/2
+"1st Av & Union" for route/day 15/2
+"1st Av & Union" for route/day 18/0
+"1st Av & Union" for route/day 18/2
+"1st Av & Univ" for route/day 22/2
+"1st Av & University" for route/day 11/2
+"1st Av & University" for route/day 122/0
+"1st Av & University" for route/day 15/2
+"1st Av & University" for route/day 18/0
+"1st Av & University" for route/day 18/2
+"1st Av & University" for route/day 21/1
+"1st Av & University" for route/day 56/2
+"1st Av N & Denny Way" for route/day 19/0
+"1st Av N & Denny Way" for route/day 33/0
+"1st Av N & Denny Way" for route/day 33/1
+"1st Av N & Denny Wy" for route/day 2/2
+"1st Av N & Republican" for route/day 30/2
+"1st Av NE & NE 103rd" for route/day 16/0
+"1st Av NE & NE 103rd" for route/day 16/2
+"1st Av NE & NE 135th" for route/day 981/0
+"1st Av NE & NE 135th" for route/day 986/0
+"1st Av NE & NE 135th" for route/day 988/0
+"1st Av NE & NE 140th" for route/day 981/0
+"1st Av NE & NE 140th" for route/day 986/0
+"1st Av NE & NE 140th" for route/day 988/0
+"1st Av S & Main" for route/day 917/0
+"1st Av S & Main" for route/day 917/1
+"1st Av S & S 112th" for route/day 134/0
+"1st Av S & S 320th" for route/day 903/0
+"1st Av S & S 320th" for route/day 903/2
+"1st Av S & S Jackso" for route/day 57/0
+"1st Av S & S Jackson" for route/day 21/1
+"1st Av S & S Jackson" for route/day 56/2
+"1st Av S & S Jackson" for route/day 15/2
+"1st Av S & S Jackson" for route/day 18/0
+"1st Av S & S Jackson" for route/day 18/2
+"1st Av S & S Jackson" for route/day 21/1
+"1st Av S & S Jackson" for route/day 56/2
+"1st Av S & S Spokan" for route/day 57/0
+"1st Av S & S Spokane" for route/day 21/1
+"1st Av S & S Spokane" for route/day 22/2
+"1st Av S & S Spokane" for route/day 56/2
+"1st Av S & S Spokane" for route/day 132/2
+"1st Av S & S Spokane" for route/day 21/1
+"1st Av S & S Spokane" for route/day 22/2
+"1st Av S & S Spokane" for route/day 56/2
+"1st Av S & SW Normandy" for route/day 122/0
+"1st Av S & SW Normandy" for route/day 134/0
+"1st Av SE & SE Bush" for route/day 200/0
+"1st Av SE & SE Bush" for route/day 209/0
+"1st Av SE & SE Bush" for route/day 209/1
+"1st Av W & W Mercer" for route/day 8/0
+"1st Av W & W Mercer" for route/day 8/2
+"1st St SW & Transit Rdwy" for route/day 181/1
+"200th St & Des Moines Mem Dr S" for route/day 122/0
+"21st Av SW & SW 152nd" for route/day 123/0
+"21st Av SW & SW 152nd" for route/day 123/0
+"21st Av SW & SW 344th" for route/day 181/1
+"21st Av SW & SW Campus Dr" for route/day 903/0
+"21st Av SW & SW Campus Dr" for route/day 903/2
+"220th Av SE & SE 51st" for route/day 200/0
+"220th Av SE & SE 51st" for route/day 216/0
+"228th Av NE & NE 8th" for route/day 269/0
+"228th Av SE & Issaquah- Pine Lake" for route/day 927/1
+"228th Av SE & Issaquah- Pine Lk SE" for route/day 269/0
+"228th Av SE & Issaquah- Pine Lk SE" for route/day 269/0
+"228th Av SE & SE Pine Lake" for route/day 216/0
+"236th St SW & I-5" for route/day 348/0
+"236th St SW & I-5" for route/day 348/2
+"23rd Av & E Yesler Way" for route/day 27/2
+"23rd Av S & S 317th" for route/day 174/1
+"23rd Av S & S Jackson" for route/day 14/1
+"23rd Av S & S Jackson" for route/day 14/2
+"24th Av NW & NW 85th (northbound)" for route/day 18/0
+"24th Av NW & NW 85th (northbound)" for route/day 18/2
+"24th Av NW & NW 85th (southbound)" for route/day 18/0
+"24th Av NW & NW 85th (southbound)" for route/day 18/2
+"26th Av SW & SW Barton" for route/day 54/0
+"26th Av SW & SW Spokane" for route/day 56/2
+"26th Av SW & SW Spokane" for route/day 56/2
+"2nd Av & Univ" for route/day 202/0
+"2nd Av & Universit" for route/day 215/0
+"2nd Av Ext & S Jackson" for route/day 192/0
+"2nd Av SE & Alder" for route/day 927/1
+"2nd Ext S & S Jackson" for route/day 157/0
+"2nd Ext S & S Jackson" for route/day 158/0
+"2nd Ext S & S Jackson" for route/day 162/0
+"2nd St SW & Transit Rdwy" for route/day 181/1
+"33rd Av W & W Govt Way" for route/day 33/0
+"33rd Av W & W Govt Way" for route/day 33/1
+"34th Av & E Cherry" for route/day 988/0
+"34th Av W & W Govt Way" for route/day 33/0
+"34th Av W & W Govt Way" for route/day 33/1
+"35th Av NE & NE 195th" for route/day 308/0
+"35th Av SW & SW Avalon Way" for route/day 21/1
+"35th Av SW & SW Avalon Way" for route/day 22/2
+"35th Av SW & SW Avalon Wy" for route/day 54/0
+"35th Av SW & SW Roxbury (northbound)" for route/day 21/1
+"35th Av SW & SW Roxbury (northbound)" for route/day 21/1
+"35th Av SW & SW Roxbury (southbound)" for route/day 21/1
+"35th Av SW & SW Roxbury (southbound)" for route/day 21/1
+"3rd & Park Lane" for route/day 248/2
+"3rd & Park Lane" for route/day 236/0
+"3rd & Park Lane" for route/day 236/1
+"3rd & Park Lane" for route/day 238/1
+"3rd & Park Lane" for route/day 245/0
+"3rd & Park Lane" for route/day 248/2
+"3rd & Park Lane" for route/day 255/0
+"3rd & Park Lane" for route/day 255/1
+"3rd & Park Lane" for route/day 256/0
+"3rd Av & Cedar" for route/day 123/0
+"3rd Av & Pike" for route/day 114/0
+"3rd Av & Pike" for route/day 54/0
+"3rd Av & Pike" for route/day 70/0
+"3rd Av & Pike (southbound)" for route/day 77/0
+"3rd Av & Pike Route 2 or 1" for route/day 1/2
+"3rd Av & Union" for route/day 308/0
+"3rd Av & Union (northbound)" for route/day 77/0
+"3rd Av & Yesler Way" for route/day 27/2
+"3rd Av NW & NW Beach Dr " for route/day 331/1
+"3rd Av S & Prefontaine" for route/day 70/0
+"40th Av SE & SE 177th" for route/day 148/0
+"41st Av SW & SW Thistle" for route/day 22/2
+"41st Av SW & SW Thistle" for route/day 22/2
+"42nd Av S & S 212th" for route/day 913/0
+"44th Av SW & SW Alaska" for route/day 22/2
+"45th Av NE & NE 203 Pl" for route/day 308/0
+"45th Av SW & SW Wildwood Pl" for route/day 54/0
+"49th Av NE & 42nd St NE" for route/day 182/1
+"4th Av & Pike" for route/day 14/1
+"4th Av & Pike" for route/day 14/2
+"4th Av & Univ." for route/day 252/0
+"4th Av & Univ." for route/day 257/0
+"4th Av & Univ." for route/day 84/0
+"4th Av & Univ" for route/day 132/2
+"4th Av & Univ" for route/day 158/0
+"4th Av & Univ" for route/day 161/0
+"4th Av & Univ" for route/day 162/0
+"4th Av & Univ" for route/day 170/0
+"4th Av & Univ" for route/day 33/0
+"4th Av & University" for route/day 280/0
+"4th Av S & S Front" for route/day 123/0
+"4th Av S & S Jackson" for route/day 280/0
+"4th Av S & S Jackson (Island stop)" for route/day 124/2
+"4th Av S & S Jackson (island stop)" for route/day 123/0
+"4th Av S & S Jackson (island stop)" for route/day 39/1
+"4th Av S & S Lander" for route/day 35/0
+"4th Av S & S Spokane" for route/day 123/0
+"4th Av S & S Spokane" for route/day 124/2
+"4th Av S & S Spokane" for route/day 174/1
+"4th Av S & S Spokane" for route/day 123/0
+"4th Av S & S Spokane" for route/day 124/2
+"4th Av S & S Spokane" for route/day 174/1
+"4th Av S & S Spokane" for route/day 280/0
+"4th Av SW & SW 148th" for route/day 140/0
+"4th Av SW & SW 148th" for route/day 140/0
+"52nd Av S & Interurban S" for route/day 150/1
+"52nd Av S & Interurban S" for route/day 150/2
+"52nd Av S & Interurban S" for route/day 941/0
+"52nd Av S & Interurban" for route/day 161/0
+"5th Av & James" for route/day 77/0
+"5th Av & Jefferson" for route/day 77/0
+"5th Av & Olive Way" for route/day 216/0
+"5th Av NE & NE 163rd" for route/day 242/0
+"5th Av S & S Jackson" for route/day 114/0
+"5th Av S & S Jackson" for route/day 14/1
+"5th Av S & S Jackson" for route/day 14/2
+"61st Av SW & Alki Av SW" for route/day 56/2
+"61st Av SW & Alki Av SW" for route/day 56/2
+"62nd Av S & S Prentice" for route/day 7/0
+"68th Av NE & NE 181st" for route/day 935/0
+"6th Av S & Royal Brougham" for route/day 134/0
+"7th Av & Blanchard" for route/day 122/0
+"80th Av SE & N Mercer Way" for route/day 205/0
+"80th Av SE & N Mercer Way (westbound)" for route/day 202/0
+"80th Av SE & N Mercer Way" for route/day 205/0
+"80th Av SE & North Mercer Way (westbound)" for route/day 204/1
+"80th Av SE & North Mercer Way (westbound)" for route/day 204/2
+"9th Av NE & Highlands Dr NE" for route/day 269/0
+"9th Av NE & Highlands" for route/day 269/0
+"A St SE & 41st St SE" for route/day 180/0
+"A St SE & 41st St SE" for route/day 180/2
+"A St SE & 41st St SE" for route/day 917/0
+"A St SE & 41st St SE" for route/day 917/1
+"Airport & 100th St SW" for route/day 952/0
+"Alaskan Way & Clay" for route/day 99/0
+"Alaskan Way & Clay" for route/day 99/2
+"Alaskan Way & Marion" for route/day 66/1
+"Alaskan Wy & Marion" for route/day 16/0
+"Alaskan Wy & Marion" for route/day 16/2
+"Andover Park W & Baker" for route/day 150/1
+"Andover Park W & Baker" for route/day 150/2
+"Andover Park W & Strander" for route/day 150/1
+"Andover Park W & Strander" for route/day 150/2
+"Andover Pk W & Baker" for route/day 140/0
+"Andover Pk W & Baker" for route/day 140/1
+"Andover Pk W & Baker" for route/day 140/2
+"Andover Pk W & Baker" for route/day 140/0
+"Andover Pk W & Baker" for route/day 140/1
+"Andover Pk W & Baker" for route/day 140/2
+"Andover Pk W & Baker" for route/day 155/0
+"Andover Pk W & Strander" for route/day 126/0
+"Ashworth Av & N 200th" for route/day 358/0
+"Ashworth Av & N 200th" for route/day 358/1
+"Ashworth Av N & N 200th" for route/day 358/0
+"Ashworth Av N & N 200th" for route/day 358/1
+"Auburn Station Bay 1" for route/day 180/0
+"Auburn Station Bay 2" for route/day 180/0
+"Aurora Av N & 85th" for route/day 358/0
+"Aurora Av N & 85th" for route/day 358/1
+"Aurora Av N & N 192nd" for route/day 373/0
+"Aurora Av N & N 46th" for route/day 358/0
+"Aurora Av N & N 46th" for route/day 358/1
+"Aurora Bridge On-Ramp" for route/day 5/2
+"Aurora N southbound on-ramp" for route/day 26/2
+"Aurora Vill TC Bay 4 " for route/day 331/1
+"Aurora Village TC Bay-4" for route/day 345/2
+"Avondale NE & Avondale Pl" for route/day 248/2
+"Avondale NE & Avondale Pl NE" for route/day 248/2
+"Ballard Av NW & NW Market" for route/day 18/0
+"Ballard Av NW & NW Market" for route/day 18/2
+"Ballard Av NW & NW Market" for route/day 44/2
+"Beacon Av S & S Othello" for route/day 36/0
+"Beacon Av S & S Othello" for route/day 36/1
+"Beacon Av S & S Othello" for route/day 36/2
+"Bell-Red & 124th Av NE" for route/day 233/0
+"Bell-Red & 124th Av NE" for route/day 233/1
+"Bellevue Av & Bellevue Pl" for route/day 14/1
+"Bellevue Av & Bellevue Pl" for route/day 14/2
+"Bellevue Av & E Pike" for route/day 14/1
+"Bellevue Av & E Pike" for route/day 14/2
+"Bellevue Av E & Bellevue Pl E" for route/day 14/1
+"Bellevue Av E & Bellevue Pl E" for route/day 14/2
+"Bellevue Way SE & 112th Av SE" for route/day 222/1
+"Bellevue Wy SE & 112th Av SE" for route/day 240/0
+"Bellevue Wy SE & 112th Av SE" for route/day 240/2
+"Boren Av & Madison" for route/day 205/0
+"Bothell Way NE & Ballinger Way NE Route 331" for route/day 331/1
+"Bothell Way NE & Ballinger Way NE" for route/day 308/0
+"Broadway & E Yesler Way" for route/day 27/2
+"Brooklyn Av NE & NE Campus Pkwy" for route/day 30/2
+"Burien TC Bay 2" for route/day 180/0
+"Burien TC Bay 3" for route/day 122/0
+"Burien TC Bay 5" for route/day 122/0
+"Burien TC Bay 6" for route/day 180/0
+"Burien Transit Ctr Bay 3" for route/day 123/0
+"Burien Transit Ctr Bay 3" for route/day 120/1
+"Burien Transit Ctr Bay 3" for route/day 120/2
+"Burien Transit Ctr Bay 3" for route/day 123/0
+"Burien Transit Ctr Bay 5" for route/day 120/1
+"Burien Transit Ctr Bay 5" for route/day 120/2
+"Burien Transit Ctr Bay 6" for route/day 123/0
+"Calif Av SW & SW Alaska" for route/day 54/0
+"Calif. Av & SW Admir Wy" for route/day 57/0
+"Calif. Av SW & SW Admiral Wy" for route/day 56/2
+"Calif. Av SW & SW Alaska" for route/day 54/0
+"Calif. Av SW & SW Alaska" for route/day 22/2
+"Calif. Av SW & SW Fauntleroy Wy" for route/day 54/0
+"Campus Wy NE across from Bookstore" for route/day 238/1
+"Campus Wy NE at Bookstore" for route/day 238/1
+"Children's Hospital" for route/day 75/0
+"Coal Creek Pkwy & I-405" for route/day 114/0
+"Coal Creek Pkwy & Newcastle Way" for route/day 114/0
+"Coal Creek Pkwy SE & Newcastle Way" for route/day 114/0
+"College Way & N 97th" for route/day 16/0
+"College Way & N 97th" for route/day 16/2
+"Columbia & 2nd Av" for route/day 54/0
+"Convention Pl Station Bay-C" for route/day 174/1
+"Convention Pl Station Bay-C" for route/day 101/0
+"Convention Pl Station Bay-C" for route/day 101/1
+"Convention Pl Station Bay-C" for route/day 101/2
+"Convention Pl Station Bay-C" for route/day 102/0
+"Convention Place Sta Bay-C" for route/day 150/1
+"Convention Place Sta Bay-C" for route/day 150/2
+"Convention Place Station" for route/day 101/0
+"Convention Place Station" for route/day 101/1
+"Convention Place Station" for route/day 101/2
+"Convention Place Station" for route/day 150/1
+"Convention Place Station" for route/day 150/2
+"Convention Place Station" for route/day 174/1
+"Delridge Way SW & SW Orchard" for route/day 120/1
+"Delridge Way SW & SW Orchard" for route/day 120/2
+"Denny Way & Dexter Av N" for route/day 8/0
+"Denny Way & Dexter Av N" for route/day 8/2
+"Denny Way & Dexter Av" for route/day 8/0
+"Denny Way & Dexter Av" for route/day 8/2
+"Duvall Av NE & NE Sunset" for route/day 240/0
+"Duvall Av NE & NE Sunset" for route/day 240/2
+"E Lk Samm Pkwy SE & SE 56th" for route/day 269/0
+"E Lk Samm Pkwy SE & SE 56th" for route/day 269/0
+"E Madison & E Garfield" for route/day 988/0
+"E Marginal & S 124th" for route/day 600/0
+"E Marginal Way S & 16th Av S" for route/day 124/2
+"E Marginal Way S & S 120th Pl" for route/day 126/0
+"E Marginal Way S & S 124th" for route/day 600/0
+"Eastgate P&R Bay 2" for route/day 221/0
+"Eastlake Av E & Harvard Av E" for route/day 70/0
+"Edmonds Av NE & NE 7th" for route/day 908/1
+"Edmonds Av SE & Puget Dr SE" for route/day 101/0
+"Factoria SE & I-90" for route/day 240/0
+"Factoria SE & I-90" for route/day 240/2
+"Factoria SE & SE Newport Way" for route/day 222/1
+"Fairview Av & Denny Way" for route/day 70/0
+"Fairview Av & Denny Way" for route/day 70/0
+"Fairview Av & Denny Way" for route/day 71/1
+"Fairview Av & Denny Way" for route/day 72/0
+"Fairview Av & Denny Way" for route/day 72/1
+"Fairview Av & Denny Way" for route/day 72/2
+"Fairview Av & Denny Way" for route/day 73/1
+"Fairview Av & Denny Way" for route/day 73/2
+"Fairview Av N & Denny Way" for route/day 71/1
+"Fairview Av N & Denny Way" for route/day 72/0
+"Fairview Av N & Denny Way" for route/day 72/1
+"Fairview Av N & Denny Way" for route/day 72/2
+"Fairview Av N & Denny Way" for route/day 73/1
+"Fairview Av N & Denny Way" for route/day 73/2
+"Fed Way Transit Cntr Bay 3" for route/day 182/1
+"Fremont Wy N & Linden Av N" for route/day 5/2
+"Greenwood Av N & Holman N" for route/day 5/2
+"Greenwood Av N & N 103rd" for route/day 5/2
+"Harrington NE & NE 16th" for route/day 105/0
+"Harrington NE & NE 16th" for route/day 105/2
+"Harvard Av E & E Roanoke" for route/day 988/0
+"Hollyhills NE & NE 192nd" for route/day 251/0
+"I-405 & 112th Av SE" for route/day 952/0
+"I-405 & Juanita- Wdvlle Wy NE" for route/day 952/0
+"I-405 & N 30th" for route/day 952/0
+"I-405 & NE 160th" for route/day 237/0
+"I-405 & NE 160th" for route/day 252/0
+"I-405 & NE 160th" for route/day 255/0
+"I-405 & NE 160th" for route/day 255/1
+"I-405 & NE 160th" for route/day 256/0
+"I-405 & NE 160th" for route/day 257/0
+"I-405 & NE 160th" for route/day 952/0
+"I-405 & NE 30th" for route/day 952/0
+"I-405 & NE 70th Pl" for route/day 952/0
+"I-405 & SE 8th" for route/day 243/0
+"I-405 & SE 8th" for route/day 952/0
+"I-5 & 272nd Southbound Off-Ramp" for route/day 941/0
+"I-5 & Kent- Des Moines" for route/day 941/0
+"I-5 & Kent- DesMoines On-Ramp" for route/day 941/0
+"I-5 & Kent-Des Moines" for route/day 158/0
+"I-5 & Kent-Des Moines" for route/day 162/0
+"I-5 & S 272nd" for route/day 941/0
+"I-90 & 142nd Pl SE" for route/day 216/0
+"I-90 at 142nd Pl SE" for route/day 216/0
+"Illinois Av & Texas Way" for route/day 33/0
+"Illinois Av & Texas Way" for route/day 33/1
+"Int'l Blvd & S 160th" for route/day 174/1
+"International Blvd & S 112th" for route/day 124/2
+"International Dist Station Bay-A" for route/day 71/1
+"International Dist Station Bay-A" for route/day 72/0
+"International Dist Station Bay-A" for route/day 72/1
+"International Dist Station Bay-A" for route/day 72/2
+"International Dist Station Bay-A" for route/day 73/1
+"International Dist Station Bay-A" for route/day 73/2
+"International Dist Station Bay-B" for route/day 255/0
+"International Dist Station Bay-B" for route/day 255/1
+"International Dist Station Bay-B" for route/day 256/0
+"International Dist Station Bay-C" for route/day 71/1
+"International Dist Station Bay-C" for route/day 72/0
+"International Dist Station Bay-C" for route/day 72/1
+"International Dist Station Bay-C" for route/day 72/2
+"International Dist Station Bay-C" for route/day 73/1
+"International Dist Station Bay-C" for route/day 73/2
+"Interurban Av S & 52nd Av S" for route/day 280/0
+"Interurban Av S & Gateway Dr" for route/day 126/0
+"Intl & S 112th" for route/day 124/2
+"Island Crest Way & SE 40th" for route/day 204/1
+"Island Crest Way & SE 40th" for route/day 204/2
+"Island Crest Way & SE 40th" for route/day 205/0
+"Island Crest Way & SE 40th" for route/day 202/0
+"Island Crest Way & SE 40th" for route/day 204/1
+"Island Crest Way & SE 40th" for route/day 204/2
+"Island Crest Way & SE 40th" for route/day 205/0
+"Island Crest Wy SE & SE 40th" for route/day 202/0
+"Issaquah TC Bay 3" for route/day 209/0
+"Issaquah TC Bay 3" for route/day 209/1
+"Issaquah TC Bay 4" for route/day 209/0
+"Issaquah TC Bay 4" for route/day 209/1
+"Issaquah-Fall City & Klahanie Dr" for route/day 927/1
+"Kent Station Bay 4" for route/day 150/1
+"Kent Station Bay 4" for route/day 150/2
+"Kent Station Bay 4" for route/day 180/0
+"Kent Station Bay 8" for route/day 150/1
+"Kent Station Bay 8" for route/day 150/2
+"Kent Station Bay 9" for route/day 180/0
+"King County Aquatics Center" for route/day 903/0
+"King County Aquatics Center" for route/day 903/2
+"Lake City Way NE & NE 125th" for route/day 75/0
+"Lake City Way NE & NE 130th" for route/day 72/0
+"Lake City Way NE & NE 130th" for route/day 72/1
+"Lake City Way NE & NE 130th" for route/day 72/2
+"Lake City Way NE & NE 145th" for route/day 308/0
+"Lake City Way NE & NE 145th" for route/day 308/0
+"Lakemont SE & SE Newport Way" for route/day 271/1
+"Lakemont SE & SE Newport Way" for route/day 271/2
+"Lakeside E & S 228th" for route/day 913/0
+"Leary Av NW & NW Vernon P" for route/day 75/0
+"Lind Av SW & SW 41st" for route/day 247/0
+"Lind Av SW & SW 41st" for route/day 247/0
+"Lind Av SW & SW 43rd" for route/day 153/0
+"Lind Av SW & SW 43rd" for route/day 153/0
+"Lower Rdwy (Bag Claim) Bay-1" for route/day 140/1
+"Lower Rdwy (Bag Claim) Bay-1" for route/day 140/2
+"Lower Rdwy (Bag Claim) Bay-1" for route/day 180/2
+"Lower Rdwy (Bag Claim) Bay-2" for route/day 140/1
+"Lower Rdwy (Bag Claim) Bay-2" for route/day 140/2
+"Lower Rdwy (Bag Claim) Bay-2" for route/day 180/2
+"Madrona Dr & Lake Wash" for route/day 2/2
+"Magnolia W & W Emerson" for route/day 19/0
+"McGilvra & E Madison" for route/day 988/0
+"Memorial Way & Stevens Way" for route/day 373/0
+"Memorial Way & Stevens Way" for route/day 373/0
+"Mercer Village Center" for route/day 204/1
+"Mercer Village Center" for route/day 204/2
+"Mercer Village Center" for route/day 202/0
+"Mercer Village Center" for route/day 204/1
+"Mercer Village Center" for route/day 204/2
+"Mercer Village Shopping Ctr" for route/day 205/0
+"Mercer Village Shopping Ctr" for route/day 205/0
+"Mercer Way 80th Av SE (eastbound)" for route/day 204/1
+"Mercer Way 80th Av SE (eastbound)" for route/day 204/2
+"Military S & 24th Av S" for route/day 170/0
+"Military S & Kent- Des Moines" for route/day 192/0
+"Military S & S 128th" for route/day 132/2
+"Military S & S 272nd" for route/day 192/0
+"ML King Jr Way & E Madison" for route/day 8/0
+"ML King Jr Way S & S 129th" for route/day 101/0
+"ML King Jr Way S & S 129th" for route/day 101/1
+"ML King Jr Way S & S 129th" for route/day 101/2
+"ML King Jr Way S & S 129th" for route/day 102/0
+"ML King Jr Way S & S Hanford" for route/day 42/2
+"ML King Jr Way S & S Myrtle" for route/day 42/2
+"ML King Jr Way S & S Othello" for route/day 42/2
+"Montlake Blvd NE & E Shelby" for route/day 243/0
+"Montlake NE & NE Pacific Pl" for route/day 44/2
+"Mt Rainier Dr S & S Ridgeway Pl" for route/day 14/1
+"Mt Rainier Dr S & S Ridgeway Pl" for route/day 14/2
+"Mt Rainier S & 37th Pl S" for route/day 14/1
+"Mt Rainier S & 37th Pl S" for route/day 14/2
+"Myers Wy & Olson Pl" for route/day 134/0
+"N 143rd & Linden Av N" for route/day 28/1
+"N 145th & Greenwood N" for route/day 5/2
+"N 160th & Dayton Av N  <u>" for route/day 331/1
+"N 200th & Ashworth Av" for route/day 373/0
+"N 200th & Ashworth Av N" for route/day 373/0
+"N 45th & Stone Way N" for route/day 44/2
+"N 46th & Phinney N" for route/day 5/2
+"N 85th & Greenwood N" for route/day 5/2
+"N Mercer Way & 80th Av SE (eastbound)" for route/day 202/0
+"N Mercer Way & 80th Av SE" for route/day 216/0
+"N Seattle Community College" for route/day 345/2
+"NE 109th & Woodinvill Redmond Rd" for route/day 221/0
+"NE 109th & Woodinvill Redmond Rd" for route/day 221/1
+"NE 109th & Woodinville Redmond Rd" for route/day 221/1
+"NE 124th & 172nd Av NE" for route/day 251/0
+"NE 124th & 172nd Av NE" for route/day 251/1
+"NE 128th & !20th Av NE" for route/day 236/1
+"NE 128th & I-405" for route/day 237/0
+"NE 132nd & 124th Av NE" for route/day 252/0
+"NE 132nd & 124th Av NE" for route/day 257/0
+"NE 145th & 15th Av NE" for route/day 373/0
+"NE 145th & I-5" for route/day 308/0
+"NE 145th & I-5" for route/day 308/0
+"NE 160th & I-405" for route/day 236/0
+"NE 160th & I-405" for route/day 236/1
+"NE 38th Pl & 108th Av NE" for route/day 986/0
+"NE 45th & Brooklyn Av NE" for route/day 44/2
+"NE 45th & Univ Way NE" for route/day 205/0
+"NE 45th & Univ Way NE" for route/day 43/0
+"NE 45th & Univ Way NE" for route/day 44/2
+"NE 50th & Brooklyn Av" for route/day 70/0
+"NE 6th & 108th Av NE" for route/day 253/2
+"NE 6th & 108th Av NE" for route/day 222/1
+"NE 6th & 108th Av NE" for route/day 233/0
+"NE 6th & 108th Av NE" for route/day 233/1
+"NE 6th & 108th Av NE" for route/day 237/0
+"NE 6th & 108th Av NE" for route/day 243/0
+"NE 6th & 108th Av NE" for route/day 249/1
+"NE 6th & 108th Av NE" for route/day 253/2
+"NE 74th & Sand Point Way NE" for route/day 30/2
+"NE 74th & Sand Point Way NE" for route/day 75/0
+"NE 7th & Edmonds Av NE" for route/day 908/1
+"NE 83rd & 161st Av NE" for route/day 248/2
+"NE 83rd & 161st Av NE" for route/day 221/1
+"NE 83rd & 161st Av NE" for route/day 248/2
+"NE 85th & 132nd Av NE" for route/day 248/2
+"NE 85th & 132nd Av NE" for route/day 248/2
+"NE Campus Pk & Brooklyn Av" for route/day 75/0
+"NE Campus Pkwy & 12th Av NE" for route/day 68/0
+"NE Campus Pkwy & 12th Av NE" for route/day 68/1
+"NE Campus Pkwy & Brooklyn Av" for route/day 68/0
+"NE Campus Pkwy & Brooklyn Av" for route/day 68/1
+"NE Campus Pkwy & Brooklyn NE" for route/day 75/0
+"NE Pacific & Univ Way NE" for route/day 205/0
+"Newport Way NW & 17th Av NW" for route/day 269/0
+"Newport Way NW & 17th Av NW" for route/day 200/0
+"Newport Way NW & 17th Av NW" for route/day 269/0
+"Newport Way NW & 17th Av NW" for route/day 271/1
+"Newport Way NW & 17th Av NW" for route/day 271/2
+"Newport Way NW & 17th Av NW" for route/day 927/1
+"Newport Wy SW & W Sunset Wy" for route/day 271/1
+"Newport Wy SW & W Sunset Wy" for route/day 271/2
+"Northbound on Rainier Av S at S Henderson" for route/day 7/0
+"Northgate TC Bay-4" for route/day 345/2
+"Northgate TC Bay-4" for route/day 348/0
+"Northgate TC Bay-4" for route/day 348/2
+"Northgate Transit Center" for route/day 75/0
+"NW 196th & Richmond Beach Dr NW" for route/day 348/0
+"NW 196th & Richmond Beach Dr NW" for route/day 348/2
+"Olive Wa & 5th Av" for route/day 215/0
+"Olive Way & 8th Av" for route/day 150/1
+"Olive Way & 8th Av" for route/day 150/2

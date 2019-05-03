@@ -1,0 +1,205 @@
+102nd Av NE & E Riverside Dr|9406
+104th Av SE & SE 240th|8417
+104th Av SE & SE 248th|8455
+104th Av SE & SE 256th|8422
+108th Av SE & SE 176th|8756
+108th Av SE & SE 208th|8432
+116th Av SE & SE 168th|8407
+116th Av SE & SE 240th|8469
+116th Av SE & SE 248th|8441
+119th Av NE & NE 160th|7367
+119th Av SE & SE 58th|7133
+11th Av NE & NE 45th|5928
+11th Av NE & NE 47th|5667
+124th Av NE & NE 137th Pl|7047
+124th Av NE & NE 144th|7037
+12th Av S & S Jackson|2108
+132nd Av NE & NE 132nd|7084
+132nd Av SE & SE 240th|8463
+132nd Av SE & SE 256th|8439
+140th Av SE & SE 177th st|8464
+140th Av SE & SE 177th|8464
+148th Av NE & NE 20th|7179
+14th Av NW & NW 105th|3009
+14th Av SW & SW 160th|8113
+156th Av NE & NE 24th|7127
+156th Av NE & NE 40th|7062
+156th Av NE & NE 8th|7106
+15th Av E & E Galer|1680
+15th Av E & E John|1643
+15th Av NE & NE 125th|3616
+15th Av NE & NE 175th|9216
+15th Av NE & NE 43rd|5917
+15th Av NE & NE 45th|5912
+15th Av NE & NE 65th|5506
+15th Av NE & NE 80th|5517
+15th Av NW & NW 85th|3003
+15th Av NW & NW Market|3004
+15th Av SW & SW 106th|8002
+15th Av SW & SW Roxbury|5204
+164th Av SE & SE 272nd|8451
+16th Av E & E Denny Wy|1674
+16th Av S & E Marginal Wy S|4002
+16th Av SW & SW Florida|6015
+16th Av SW & SW Roxbury|5205
+172nd Av SE & SE 272nd|8458
+17th Av & E Jefferson|2150
+192nd Av SE & SE 272nd|8405
+228th Av NE & NE 8th|7629
+23rd Av E & E Madison|3917
+23rd Av S & S Jackson|3922
+24th Av NW & NW 85th|3020
+25th Av NE & NE 75th|5598
+25th Av NE & NE 80th|5645
+26th Av SW & SW 116th|8035
+26th Av SW & SW Barton|819
+28th Av W & W Blaine|3510
+2nd Av & Broad|3526
+2nd Av & Marion|208
+2nd Av & Pike|216
+2nd Av & University|207
+2nd Av Ext S & S Jackson|201
+2nd Av SE & Front St S|7640
+30th Av NE & NE 125th|3623
+32nd Av NW & Loyal Way NW|3016
+33rd Av & E Union|3920
+34th Av & E Union|3903
+34th Av W & W McGraw|3509
+35th Av NE & NE 195th|9229
+35th Av SW & SW 342nd|8149
+35th Av SW & SW Avalon Wy|722
+36th Av S & S Atlantic|3915
+3rd Av & Bell|322
+3rd Av & Pike|316
+3rd Av & Pine|317
+3rd Av & Union|314
+3rd Av & Virginia|319
+3rd Av S & S Main|302
+42nd Av E & E McGilvra|3912
+42nd Av S & S 188th|8109
+45th Av NE & NE 203rd Pl|9224
+45th Av SW & SW Wildwood Pl|764
+4th Av & Lenora|420
+4th Av & Pike|416
+4th Av & Union|414
+4th Av & University|413
+4th Av N & Mercer|4364
+4th Av S & S Front|4043
+4th Av S & S Jackson|401
+4th Av S & S Washington|403
+4th St NE & M St NE|8822
+53rd Av S & S Leo|5213
+5th Av & Pike|516
+5th Av & Pine|517
+5th Av & Terrace|505
+5th Av N & Broad|4355
+5th Av NE & NE 145th|3617
+5th Av NE & NE 148th|3647
+5th Av NE & NE 165th|9215
+5th Av S & S Jackson|501
+62nd Av S & S Prentice|5216
+68th Av S & S 204th|8443
+6th Av & Lenora|620
+6th Av S & S Atlantic|4038
+7th Av W & W Raye|4323
+80th Av SE & N Mercer Wy|7526
+8th Av NW & NW 85th|3005
+8th Av NW & NW Market|3021
+8th Av S & S Kenyon|4016
+8th Av S & S King|2642
+98th Av NE & NE 116th|7001
+98th Av NE & NE 23rd|7115
+9th Av & Seneca|2128
+9th Av & Spring|2163
+9th Av & Stewart|1623
+9th Av S & S 348th|8196
+Ambaum Blvd SW & SW 128th|8020
+Aurora Av N & N 105th|1183
+Aurora Av N & N 145th|3604
+Aurora Av N & N 85th|1119
+Beacon Av S & 15th Av S|2506
+Beacon Av S & S Dawson|2603
+Beacon Av S & S Leo|5212
+Beacon Av S & S Myrtle|2513
+Bell & 4th Av|422
+Boeing Everett Gate E-77|9811
+Boren Av & Madison|2113
+Broadway & E Pine|1608
+Broadway & E Union|2121
+Broadway E & E John|1627
+C St SW & 15th St SW|8806
+Chelan Av SW & SW Spokane|704
+Coal Creek Pkwy SE & 119th Av SE|7110
+Dexter Av N & Republican|4318
+E John & Broadway E|1627
+Eastlake Av E & Harvard Av E|5906
+Factory Stores of North Bend|7634
+Fremont Av N & N 34th|1124
+Garden Av N & N Park Dr|8727
+Greenwood Av N & N 85th|1116
+Harrington Av NE & NE 16th|8778
+Highline Community College|8102
+Howell & 9th Av|1628
+International Blvd & S 160th|8012
+Issaquah Community Center|7607
+Kent City Hall|8467
+King County Airport|2524
+Lake City Wy NE & NE 125th|3624
+Latona Av NE & NE 45th|1132
+Leary Av NW & NW Vernon Pl|3017
+Lenora & 4th Av|420
+Lenora & 6th Av|620
+Madison & 2nd Av|206
+Magnolia Blvd W & W Emerson|3522
+Marion & 2nd Av|208
+Market St SW & 15th St SW|8819
+N 175th & Meridian Av N|9014
+N 185th & Aurora Av N|9026
+N 46th & Phinney Av N|1121
+NE 116th & 98th Av NE|7001
+NE 120th & 132nd Av NE|7233
+NE 124th Wy & 172nd Av NE|7095
+NE 125th & 15th Av NE|3616
+NE 128th & 120th Av NE|7007
+NE 130th & 35th Av NE|3661
+NE 132nd & 132nd Av NE|7084
+NE 136th & 17th Av NE|3621
+NE 145th & 15th Av NE|3618
+NE 175th & 10th Av NE|9225
+NE 4th & Duvall Av NE|8777
+NE 4th & Union Av NE|8714
+NE 50th & Brooklyn Av NE|5524
+NE 55th & 35th Av NE|5518
+NE 65th & 15th Av NE|5506
+NE 65th & 35th Av NE|5519
+NE 80th & 15th Av NE|5517
+NE 85th & 15th Av NE|5505
+NE 85th & 35th Av NE|5522
+NE Pacific & NE Pacific Pl|5925
+NW 54th & 32nd Av NW|3014
+Pacific Hwy S & S 272nd|8133
+Pacific Hwy S & S 276th|8198
+Pacific Hwy S & S 308th|8172
+Pacific Hwy S & S 312th|8106
+Park Av N & N 8th|8703
+Pine & 9th Av|1660
+Queen Anne Av N & Boston|4302
+Queen Anne Av N & Mercer|4313
+Rainier Av S & S Genesee|4714
+Rainier Av S & S Graham|4707
+Roosevelt Wy NE & NE 45th|5910
+Roosevelt Wy NE & NE 75th|5531
+S 200th & Des Moines Mem Dr S|8123
+S 200th St & Des Moines Mem Dr S|8123
+S 223rd & Marine View Dr S|8110
+S Jackson & 5th Av S|501
+SE 208th & 108th Av SE|8432
+SE 320th & 122nd Av SE|8868
+Seneca & 2nd Av|211
+Shoreline Community College|9004
+SW Roxbury & 15th Av SW|5204
+Timberlane Way SE & SE 267th|8456
+Triton Dr NW & NW 100th|3015
+Union Av NE & NE 4th|8714
+Union Av SE & SE 2nd Pl|8745
+Washington Av & W Meeker|8409

@@ -1,0 +1,667 @@
+102nd Av NE & E Riverside Dr|9406
+104th Av SE & SE 240th|8417
+104th Av SE & SE 248th|8455
+104th Av SE & SE 256th|8422
+104th Av SE & SE 256th|8422
+104th Av SE at 26300 Block|8465
+108th Av SE & SE 176th|8756
+108th Av SE & SE 176th|8756
+108th Av SE & SE 208th|8432
+112th Av SE & I-405|7125
+116th Av NE & NE 160th (after loop)|7048
+116th Av NE & Northup Way|7045
+116th Av SE & SE 168th|8407
+116th Av SE & SE 240th|8469
+116th Av SE & SE 248th|8441
+119th Av NE & NE 160th|7367
+119th Av SE & SE 58th|7133
+119th Av SE & SE 58th|7133
+11th Av NE & NE 45th|5928
+11th Av NE & NE 47th|5667
+120th Av NE & Totem Lake Way|7299
+124th Av NE & NE 137th Pl|7047
+124th Av NE & NE 144th|7037
+12th Av NE & NE Campus Pkwy|5953
+12th Av S & S Jackson|2108
+132nd Av NE & NE 132nd|7084
+132nd Av SE & SE 240th|8463
+132nd Av SE & SE 256th|8439
+140th Av SE & Petrovitsky|8406
+140th Av SE & SE 177th st|8464
+140th Av SE & SE 177th|8464
+140th Way SE & SE 158th|8857
+148th Av NE & NE 20th|7179
+148th Av NE & NE 51st|7198
+148th Av NE & NE 8th|7161
+14th Av NW & NW 105th|3009
+14th Av SW & SW 160th|8113
+14th Av SW & SW 160th|8113
+156th Av NE & NE 24th|7127
+156th Av NE & NE 40th|7062
+156th Av NE & NE 40th|7062
+156th Av NE & NE 8th|7106
+156th Av NE & NE 8th|7106
+156th Av SE & SE Fairwood|8424
+15th Av E & E Galer|1680
+15th Av E & E John|1643
+15th Av NE & NE 125th|3616
+15th Av NE & NE 125th|3616
+15th Av NE & NE 175th|9216
+15th Av NE & NE 43rd|5917
+15th Av NE & NE 45th|5912
+15th Av NE & NE 65th|5506
+15th Av NE & NE 80th|5517
+15th Av NE & NE 80th|5517
+15th Av NW & NW 85th|3003
+15th Av NW & NW Market|3004
+15th Av SW & SW 106th|8002
+15th Av SW & SW Roxbury|5204
+15th Av SW & SW Roxbury|5204
+161st Av NE & NE 83rd|7034
+164th Av SE & SE 272nd|8451
+16th Av E & E Denny Wy|1674
+16th Av S & E Marginal Way S|4002
+16th Av S & E Marginal Wy S|4002
+16th Av SW & SW Florida|6015
+16th Av SW & SW Roxbury|5205
+16th Av SW at SSCC Entrance|719
+172nd Av SE & SE 272nd|8458
+17th Av & E Jefferson|2150
+17th Av & Jefferson|2150
+192nd Av SE & SE 272nd|8405
+1st Av & Denny Way|4304
+1st Av & Denny Wy|4304
+1st Av & Pike|116
+1st Av & Union|114
+1st Av & Univ|113
+1st Av & University|113
+1st Av N & Denny Way|4304
+1st Av N & Denny Wy|4304
+1st Av N & Republican|4324
+1st Av NE & NE 135th|3656
+1st Av NE & NE 140th|3652
+1st Av S & S 112th|8014
+1st Av S & S 320th|8179
+1st Av S & S Jackso|101
+1st Av S & S Jackson|101
+1st Av S & S Spokan|4006
+1st Av S & S Spokane|4006
+1st Av S & SW Normandy|8125
+1st Av SE & SE Bush|7608
+1st Av W & W Mercer|4365
+200th St & Des Moines Mem Dr S|8123
+21st Av SW & SW 152nd|8021
+220th Av SE & SE 51st|7642
+228th Av NE & NE 8th|7629
+228th Av NE & NE 8th|7629
+228th Av SE & Issaquah- Pine Lake|7630
+228th Av SE & Issaquah- Pine Lk SE|7630
+228th Av SE & SE Pine Lake|7630
+23rd Av & E Jefferson|3908
+23rd Av & E Yesler Way|3916
+23rd Av E & E Madison|3917
+23rd Av S & S Jackson|3922
+23rd Av S & S Jackson|3922
+24th Av NW & NW 85th (northbound)|3020
+24th Av NW & NW 85th (southbound)|3020
+24th Av NW & NW 85th|3020
+25th Av NE & NE 75th|5598
+25th Av NE & NE 80th|5645
+26th Av SW & SW 116th|8035
+26th Av SW & SW Barton|819
+26th Av SW & SW Barton|819
+26th Av SW & SW Spokane|701
+28th Av W & W Blaine|3510
+2nd Av & Broad|3526
+2nd Av & Marion|208
+2nd Av & Pike|216
+2nd Av & Univ|207
+2nd Av & Universit|207
+2nd Av & University|207
+2nd Av Ext & S Jackson|201
+2nd Av Ext S & S Jackson|201
+2nd Av SE & Alder|7638
+2nd Av SE & Front St S|7640
+2nd Ext S & S Jackson|201
+30th Av NE & NE 125th|3623
+32nd Av NW & Loyal Way NW|3016
+33rd Av & E Union|3920
+34th Av & E Union|3903
+34th Av W & W Govt Way|3508
+34th Av W & W McGraw|3509
+35th Av NE & NE 195th|9229
+35th Av NE & NE 195th|9229
+35th Av SW & SW 342nd|8149
+35th Av SW & SW Avalon Way|722
+35th Av SW & SW Avalon Wy|722
+35th Av SW & SW Avalon Wy|722
+35th Av SW & SW Roxbury (northbound)|5260
+35th Av SW & SW Roxbury (southbound)|5202
+36th Av S & S Atlantic|3915
+3rd Av & Bell|322
+3rd Av & Pike (southbound)|316
+3rd Av & Pike|316
+3rd Av & Pike|316
+3rd Av & Pine|317
+3rd Av & Union (northbound)|314
+3rd Av & Union|314
+3rd Av & Union|314
+3rd Av & Virginia|319
+3rd Av & Yesler Way|304
+3rd Av S & S Main|302
+41st Av SW & SW Thistle|720
+42nd Av E & E McGilvra|3912
+42nd Av S & S 188th|8109
+45th Av NE & NE 203 Pl|9224
+45th Av NE & NE 203rd Pl|9224
+45th Av SW & SW Wildwood Pl|764
+45th Av SW & SW Wildwood Pl|764
+49th Av NE & 42nd St NE|9957
+4th Av & Lenora|420
+4th Av & Pike|416
+4th Av & Pike|416
+4th Av & Union|414
+4th Av & Univ.|413
+4th Av & Univ|413
+4th Av & University|413
+4th Av & University|413
+4th Av N & Mercer|4364
+4th Av S & S Front|4043
+4th Av S & S Front|4043
+4th Av S & S Jackson (island stop)|401
+4th Av S & S Jackson|401
+4th Av S & S Jackson|401
+4th Av S & S Lander|4035
+4th Av S & S Spokane|4010
+4th Av S & S Washington|403
+4th St NE & M St NE|8822
+53rd Av S & S Leo|5213
+5th Av & Olive Way|543
+5th Av & Pike|516
+5th Av & Pine|517
+5th Av & Terrace|505
+5th Av N & Broad|4355
+5th Av N & Broad|4355
+5th Av NE & NE 145th|3617
+5th Av NE & NE 148th|3647
+5th Av NE & NE 165th|9215
+5th Av S & S Jackson|501
+5th Av S & S Jackson|501
+61st Av SW & Alki Av SW|6017
+62nd Av S & S Prentice|5216
+62nd Av S & S Prentice|5216
+68th Av S & S 204th|8443
+6th Av & Lenora|620
+6th Av S & Royal Brougham|2507
+6th Av S & S Atlantic|4038
+7th Av & Blanchard|1647
+7th Av W & W Raye|4323
+80th Av SE & N Mercer Way (westbound)|7526
+80th Av SE & N Mercer Way|7526
+80th Av SE & N Mercer Wy|7526
+80th Av SE & North Mercer Way (westbound)|7526
+8th Av NW & NW 85th|3005
+8th Av NW & NW Market|3021
+8th Av S & S Kenyon|4016
+8th Av S & S King|2642
+98th Av NE & NE 116th|7001
+98th Av NE & NE 23rd|7115
+9th Av & Seneca|2128
+9th Av & Spring|2163
+9th Av & Stewart|1623
+9th Av S & S 348th|8196
+A St SE & 41st St SE|8858
+Airport & 100th St SW|9828
+Alaskan Way & Clay|4061
+Ambaum Blvd SW & SW 128th|8020
+Andover Park W & Strander|8643
+Andover Pk W & Strander|8643
+Auburn Station Bay 1|8881
+Auburn Station Bay 2|8882
+Aurora Av N & 85th|1119
+Aurora Av N & N 105th|1183
+Aurora Av N & N 145th|3604
+Aurora Av N & N 192nd|9013
+Aurora Av N & N 46th|1144
+Aurora Av N & N 85th|1119
+Aurora Bridge On-Ramp|1134
+Aurora N southbound on-ramp|1134
+Aurora Vill TC Bay 4|9029
+Aurora Village TC Bay-4|9029
+Avondale NE & Avondale Pl NE|7022
+Avondale NE & Avondale Pl|7022
+Ballard Av NW & NW Market|3013
+Bastyr University|9243
+Beacon Av S & 15th Av S|2506
+Beacon Av S & S Dawson|2603
+Beacon Av S & S Leo|5212
+Beacon Av S & S Myrtle|2513
+Beacon Av S & S Othello|2581
+Bell & 4th Av|422
+Bell-Red & 124th Av NE|7104
+Bellevue Av & E Pike|2109
+Boeing Everett Gate E-77|9811
+Boren Av & Madison|2113
+Boren Av & Madison|2113
+Bothell Way NE & Ballinger Way NE|9200
+Broadway & E Jefferson|2125
+Broadway & E Pine|1608
+Broadway & E Union|2121
+Broadway & E Yesler Way|2144
+Broadway E & E John|1627
+Brooklyn Av NE & NE Campus Pkwy|5952
+Burien TC Bay 2|8033
+Burien TC Bay 3|8016
+Burien TC Bay 5|8016
+Burien TC Bay 6|8016
+Burien Transit Ctr Bay 3|8016
+Burien Transit Ctr Bay 5|8016
+Burien Transit Ctr Bay 6|8016
+C St SW & 15th St SW|8806
+Calif. Av & SW Admir Wy|6003
+Calif. Av SW & SW Admiral Wy|6003
+Calif. Av SW & SW Fauntleroy Wy|779
+Campus Wy NE across from Bookstore|9419
+Campus Wy NE at Bookstore|9419
+Chelan Av SW & SW Spokane|704
+Children's Hospital|5908
+Coal Creek Pkwy & I-405|7249
+Coal Creek Pkwy & Newcastle Way|7122
+Coal Creek Pkwy SE & 119th Av SE|7110
+Coal Creek Pkwy SE & Newcastle Way|7122
+College Way & N 97th|1145
+Convention Pl Station Bay-C|1751
+Convention Place Sta Bay-C|1751
+Convention Place Station|1615
+Delridge Way SW & SW Orchard|728
+Denny Way & Dexter Av N|1664
+Denny Way & Dexter Av|1664
+Dexter Av N & Republican|4318
+Duvall Av NE & NE Sunset|8787
+E John & Broadway E|1627
+E Lk Samm Pkwy SE & SE 56th|7631
+E Marginal & S 124th|8611
+E Marginal Way S & 16th Av S|4002
+E Marginal Way S & S 120th Pl|8606
+E Marginal Way S & S 124th|8611
+Eastgate P&R Bay 2|7332
+Eastlake Av E & Harvard Av E|5906
+Eastlake Av E & Harvard Av E|5906
+Edmonds Av NE & NE 7th|8711
+Edmonds Av SE & Puget Dr SE|8437
+Factoria SE & I-90|7113
+Factoria SE & SE Newport Way|7117
+Factory Stores of North Bend|7634
+Fairview Av & Denny Way|1663
+Fairview Av N & Denny Way|1663
+Fed Way Transit Cntr Bay 3|8203
+Fremont Av N & N 34th|1124
+Garden Av N & N Park Dr|8727
+Greenwood Av N & Holman N|3665
+Greenwood Av N & N 85th|1116
+Harrington Av NE & NE 16th|8778
+Harrington NE & NE 16th|8778
+Harvard Av E & E Roanoke|5914
+Highline Community College|8102
+Howell & 9th Av|1628
+HUB|5903
+I-405 & 112th Av SE|7125
+I-405 & N 30th|8726
+I-405 & NE 160th|9222
+I-405 & NE 30th|8726
+I-405 & NE 70th Pl|7056
+I-405 & SE 8th|7158
+I-5 & Kent- Des Moines|8129
+I-5 & Kent- DesMoines On-Ramp|8129
+I-5 & Kent-Des Moines|8129
+I-90 & 142nd Pl SE|7169
+I-90 at 142nd Pl SE|7169
+Illinois Av & Texas Way|3519
+Int'l Blvd & S 160th|8012
+International Blvd & S 160th|8012
+International Dist Station Bay-A|451
+International Dist Station Bay-B|452
+International Dist Station Bay-C|452
+Island Crest Way & SE 40th|7506
+Island Crest Wy SE & SE 40th|7506
+Issaquah Community Center|7607
+Issaquah-Fall City & Klahanie Dr|7643
+Kent City Hall|8467
+Kent City Hall|8467
+Kent Station Bay 4|8654
+Kent Station Bay 8|8658
+Kent Station Bay 9|8659
+King County Airport|2524
+King County Aquatics Center|8176
+Lake City Way NE & NE 125th|3624
+Lake City Way NE & NE 130th|3607
+Lake City Way NE & NE 145th|3628
+Lake City Wy NE & NE 125th|3624
+Lakemont SE & SE Newport Way|7131
+Latona Av NE & NE 45th|1132
+Leary Av NW & NW Vernon P|3017
+Leary Av NW & NW Vernon Pl|3017
+Lenora & 4th Av|420
+Lenora & 6th Av|620
+Lind Av SW & SW 41st|8747
+Lind Av SW & SW 43rd|8743
+Lower Rdwy (Bag Claim) Bay-1|8052
+Lower Rdwy (Bag Claim) Bay-2|8010
+Madison & 2nd Av|206
+Madrona Dr & Lake Wash|3913
+Magnolia Blvd W & W Emerson|3522
+Magnolia W & W Emerson|3522
+Marion & 2nd Av|208
+Market St SW & 15th St SW|8819
+McGilvra & E Madison|3985
+Meeker Court|8481
+Memorial Way & Stevens Way|5920
+Mercer Way 80th Av SE (eastbound)|7526
+Military S & 24th Av S|8612
+Military S & S 128th|8032
+Military S & S 272nd|8160
+ML King Jr Way & E Madison|3907
+ML King Jr Way S & S 129th|8608
+ML King Jr Way S & S Hanford|2529
+ML King Jr Way S & S Othello|2514
+Montlake Blvd NE & E Shelby|3919
+Montlake NE & NE Pacific Pl|5916
+Myers Wy & Olson Pl|729
+N 143rd & Linden Av N|3673
+N 145th & Greenwood N|3602
+N 160th & Dayton Av N|3609
+N 175th & Meridian Av N|9014
+N 185th & Aurora Av N|9026
+N 45th & Stone Way N|1102
+N 46th & Phinney Av N|1121
+N 46th & Phinney N|1121
+N 85th & Greenwood N|1116
+N Mercer Way & 80th Av SE (eastbound)|7526
+N Mercer Way & 80th Av SE|7526
+NE 109th & Woodinvill Redmond Rd|7029
+NE 109th & Woodinville Redmond Rd|7029
+NE 116th & 98th Av NE|7001
+NE 120th & 132nd Av NE|7233
+NE 124th & 172nd Av NE|7095
+NE 124th Wy & 172nd Av NE|7095
+NE 125th & 15th Av NE|3616
+NE 128th & !20th Av NE|7007
+NE 128th & 120th Av NE|7007
+NE 128th & I-405|7357
+NE 130th & 35th Av NE|3661
+NE 132nd & 132nd Av NE|7084
+NE 136th & 17th Av NE|3621
+NE 145th & 15th Av NE|3618
+NE 145th & 15th Av NE|3618
+NE 145th & I-5|3619
+NE 160th & I-405|9222
+NE 175th & 10th Av NE|9225
+NE 45th & Univ Way NE|5923
+NE 4th & Duvall Av NE|8777
+NE 4th & Union Av NE|8714
+NE 50th & Brooklyn Av NE|5524
+NE 50th & Brooklyn Av|5524
+NE 55th & 35th Av NE|5518
+NE 65th & 15th Av NE|5506
+NE 65th & 35th Av NE|5519
+NE 74th & Sand Point Way NE|5514
+NE 7th & Edmonds Av NE|8711
+NE 80th & 15th Av NE|5517
+NE 83rd & 161st Av NE|7034
+NE 85th & 15th Av NE|5505
+NE 85th & 35th Av NE|5522
+NE Campus Pk & Brooklyn Av|5952
+NE Campus Pkwy & 12th Av NE|5953
+NE Campus Pkwy & Brooklyn Av|5952
+NE Campus Pkwy & Brooklyn NE|5952
+NE Pacific & NE Pacific Pl|5925
+NE Pacific & Univ Way NE|5542
+Newport Wy SW & W Sunset Wy|7646
+Northbound on Rainier Av S at S Henderson|5211
+Northgate TC Bay-4|5694
+Northgate Transit Center|5691
+Northwest Hospital|1181
+NW 196th & Richmond Beach Dr NW|9003
+NW 54th & 32nd Av NW|3014
+Olive Wa & 5th Av|543
+Olive Way & 8th Av|1629
+On 1st Av S At S Spokane|4006
+On 4th Av at James|406
+On 7th Av at Blanchard|1647
+On Bell at 7th Av|1636
+On I-90 at SE Rainier Av|4824
+On Linden Av N at N 143rd|3673
+On Montlake Blvd at SR-520|3926
+On Montlake Blvd, at E Shelby|3919
+On Montlake Blvd, at SR-520|3926
+On Pine at 9th Av|1660
+On S Henderson St at Rainier Av S|5211
+On S Jackson at 5th Av S|501
+On S Jackson St at 5th Av S|501
+On S Spokane At 1st Av S|4006
+On S Washington at 4th Av S|403
+On SR-520 at Evergreen Point|7024
+On SR-520 at Evergreen Pt Road|7024
+On SR-520 at Montlake Blvd|3898
+On SR-520 At Montlake|3898
+On Stewart at 9th Av|1623
+Overlake Transit Ctr Bay 4|7544
+Pacific Hwy & Kent- Des Moines|8105
+Pacific Hwy & S 272nd|8133
+Pacific Hwy S & Kent- Des Moines|8105
+Pacific Hwy S & S 272nd|8133
+Pacific Hwy S & S 276th|8198
+Pacific Hwy S & S 308th|8172
+Pacific Hwy S & S 312th|8106
+Park Av N & N 8th|8703
+Park Av N & N 8th|8703
+Pike & 6th Av|616
+Pine & 9th Av|1660
+Queen Anne Av N & Boston|4302
+Queen Anne Av N & Boston|4302
+Queen Anne Av N & Mercer|4313
+Queen Anne N & Mercer|4313
+Railroad Av SE & SE King|7616
+Railroad SE & King|7616
+Rainier Av S & S Genesee|4714
+Rainier Av S & S Genesee|4714
+Rainier Av S & S Graham|4707
+Rainier Av S & S Henderson|5211
+Redondo Heights P&R|8188
+Renton Transit Cntr Bay 2|8792
+Renton Transit Cntr Bay 4|8794
+Roosevelt Way NE & NE 92nd|5642
+Roosevelt Wy NE & NE 45th|5910
+Roosevelt Wy NE & NE 75th|5531
+S 200th & Des Moines Mem Dr S|8123
+S 200th St & Des Moines Mem Dr S|8123
+S 223rd & Marine View Dr S|8110
+S 223rd & Marine View Drive S|8110
+S 223rd St Marine Vie Dr S|8110
+S Henderson & Rainier Av S|5211
+S Henderson St & Rainier Av S|5211
+S Jackson & 5th Av S|501
+S Renton P&R Bay 1|8764
+S Renton P&R Bay 2|8764
+SE 208th & 108th Av SE|8432
+SE 320th & 122nd Av SE|8868
+SE 42nd Pl & 334th Pl SE|7604
+Sea-Tac (Bag Claim) Bay-1|8052
+Sea-Tac (Bag Claim) Bay-2|8010
+Seneca & 2nd Av|211
+Seneca at 2nd Av|211
+Seward Park Av S & Wilson Av S|4724
+Shoreline Community College|9004
+South Kirkland P&R|7018
+SR-520 & NE 51st|7075
+Star Lake Freeway Station|8147
+Stone Way N & N 40th|1123
+Stone Way N & N 45th|1102
+SW 356th & 13th Way SW|8177
+SW Dash Pt & SW 312th|8118
+SW Roxbury & 15th Av SW|5204
+Talbot S & S Carr|8734
+Thackeray Pl NE & NE 45th|1133
+Thorndyke Av W & W Blaine|3517
+Timberlane Way SE & SE 267th|8456
+Transit Ctr Rdway & NE 103rd|5691
+Transit Ctr Rdwy & NE 103rd|5691
+Transit Rdway & SW 148th|8049
+Transit Rdwy & 1st St SW|8881
+Transit Rdwy & A St SW|8881
+Transit Roadway & SW 148th|8049
+Triton Dr NW & NW 100th|3015
+Tukwila Int' Blvd Station|8005
+Tukwila Intl Blvd Station|8005
+Tukwila P&R|8641
+Tukwila Station|8632
+Tukwila Train Station|8632
+U of W HUB|5903
+Union Av NE & NE 4th|8714
+Union Av NE & NE 4th|8714
+Union Av SE & SE 2nd Pl|8745
+Union Av SE & SE 2nd Pl|8745
+University NE & NE 45th|5923
+University St Station Bay-A|336
+University St Station Bay-B|336
+University St Station Bay-C|336
+University St Station Bay-D|336
+University Street Sta Bay-A|336
+University Street Sta Bay-B|336
+University Street Sta Bay-C|336
+University Street Station|336
+University Way NE & NE 45th|5923
+UW/CCC North Loop|9419
+W Lk Samm Pkwy NE & NE 24th|7033
+Washington Av & W Meeker|8409
+Wax & SE 272nd|8454
+Woodinville P&R|9409
+Woodlawn Av NE & NE Ravenna|1118
+Woodlawn NE & NE Ravenna|1118
+Yesler Way & Post Av|4041
+Sounder Train to Seattle|----
+Southbound Train Departs|----
+108th Av NE & NE 38th Pl|7018
+3rd Av NW & NW Beach Dr|9012
+15th Av NE & NE 205th|9220
+Providence Dr & SE 43rd Wy|999001
+Providence Pt Dr & SE 43rd Wy|999001
+Bellevue Av & Bellevue Pl|999002
+Bellevue Av E & Bellevue Pl E|999002
+108th Av NE & NE 6th|999003
+116th Av NE & NE 12th|999004
+Weedin Pl NE & 8th Av NE|999005
+Weedin Pl NE & NE 8th|999005
+VA Medical Center|999006
+On Shattuck Av S at S Grady Way|999007
+S Grady Way & Shattuck Av S|999007
+S Grady Wy & Shattuck Av S|999007
+SW Grady Way & Shattuck Av S|999007
+Temperance & 1st Av N|999008
+Temperance St & 1st Av N|999008
+International Blvd & S 112th|999009
+Intl & S 112th|999009
+Tukwila Intl Blvd & S 112th|999009
+Tuwila Intl Blvd & S 112th|999009
+52nd Av S & Interurban S|999010
+52nd Av S & Interurban|999010
+Interurban Av S & 52nd Av S|999010
+SODO Busway & S Spokane|999011
+116th Av NE & NE 70th Pl|999012
+Bellevue Way SE & 112th Av SE|999013
+Bellevue Wy SE & 112th Av SE|999013
+Redmond Transit Ctr Bay 5|999014
+Redmond Transit Ctr Bay-5|999014
+Roy & Warren Av N|999015
+Railroad Av & W Pioneer|999016
+Railroad Av N  & W Pioneer|999016
+Railroad Av N & Pioneer|999016
+On S Walden at Rainier Av S|999017
+Rainier Av S & S Walden|999017
+S Walden & Rainier Av S|999017
+S 180th & Sperry Dr|999018
+3rd Av S & Prefontaine|999019
+S Jackson & Occidental S|999020
+SE 82nd & SE High Point Way|999021
+SE Eastgate Way & 140th Av SE|999022
+SE Eastgate Wy & 140th Av SE|999022
+S 3rd & Burnett Av S|999023
+S 320th & I-5|999024
+S 2nd & Burnett Av S|999025
+S 2nd Av & Burnett Av S|999025
+S 317th & 23rd Av S|999026
+S 212th & 42nd Av S|999027
+116th Way NE & NE 132nd|999028
+124th Av SE & SE 44th|999029
+132nd Av SE & SE 270th|999030
+132nd Av SE & SE 272nd|999031
+140th Av NE & NE 179th|999032
+152nd Av NE & 2600 Crossing|999033
+152nd Av NE & 2600|999033
+152nd Way SE & SE 272nd|999034
+15th Av SW & SW 102nd|999035
+15th St NE & A St NE|999036
+15th St NE & D St NE|999037
+178th Pl NE & NE 78th Pl|999038
+180th St & Sperry Dr|999018
+1st Av NE & NE 103rd|999039
+1st Av S & Main|999040
+9th Av NE & Highlands Dr NE|999042
+9th Av NE & Highlands|999042
+Alaskan Way & Marion|999041
+Alaskan Wy & Marion|999041
+Andover Park W & Baker|999043
+Andover Pk W & Baker|999043
+Ashworth Av & N 200th|999044
+Ashworth Av N & N 200th|999044
+Calif Av SW & SW Alaska|999045
+Calif. Av SW & SW Alaska|999045
+Columbia & 2nd Av|999046
+1st St SW & Transit Rdwy|8881
+21st Av & E Jefferson|999047
+21st Av SW & SW 344th|999048
+21st Av SW & SW Campus Dr|999049
+236th St SW & I-5|9702
+23rd Av S & S 317th|999050
+2nd St SW & Transit Rdwy|8881
+33rd Av W & W Govt Way|999051
+34th Av & E Cherry|999052
+3rd & Park Lane|999053
+3rd Av & Cedar|999054
+3rd Av NW & NW 12|3054
+40th Av SE & SE 177th|999055
+42nd Av S & S 212th|999056
+44th Av SW & SW Alaska|999057
+4th Av SW & SW 148th|999058
+5th Av & James|999059
+5th Av & Jefferson|999060
+5th Av NE & NE 163rd|999061
+68th Av NE & NE 181st|999062
+E Madison & E Garfield|999063
+Fremont Wy N & Linden Av N|999064
+Greenwood Av N & N 103rd|999065
+Hollyhills NE & NE 192nd|999066
+I-405 & Juanita- Wdvlle Wy NE|999067
+I-5 & 272nd Southbound Off-Ramp|8156
+I-5 & S 272nd|8147
+Interurban Av S & Gateway Dr|999068
+Issaquah TC Bay 3|999069
+Issaquah TC Bay 4|999070
+Lakeside E & S 228th|999071
+Mercer Village Center|999072
+Mercer Village Shopping Ctr|999072
+Military S & Kent- Des Moines|999073
+ML King Jr Way S & S Myrtle|999074
+Mt Rainier Dr S & S Ridgeway Pl|999075
+Mt Rainier S & 37th Pl S|999076
+N 200th & Ashworth Av N|999077
+N 200th & Ashworth Av|999077
+N Seattle Community College|999078
+NE 132nd & 124th Av NE|999079
+NE 38th Pl & 108th Av NE|999080
+NE 45th & Brooklyn Av NE|999081
+NE 6th & 108th Av NE|999082
+NE 85th & 132nd Av NE|999083
+Newport Way NW & 17th Av NW|999084
+On SE 8th at 118th Av|999085
+SW 356th & 14th Av SW|999086
